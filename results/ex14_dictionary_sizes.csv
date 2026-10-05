@@ -1,0 +1,7 @@
+Dictionary,Size,x term dictionary
+"Term-based (lemmas, custom stop words removed)",2919,1.0
+"Unigram (content tokens, stop words kept)",3662,1.3
+"Bigram (content tokens, stop words kept)",16632,5.7
+"Trigram (content tokens, stop words kept)",23079,7.9
+"4-gram (content tokens, stop words kept)",23852,8.2
+"5-gram (content tokens, stop words kept)",22886,7.8

@@ -1,0 +1,9 @@
+Method,Tokens,Vocabulary,Time (s),Vocabulary reduction (%)
+No normalisation,24913,3546,0.0,0.0
+Snowball stemmer,24913,2545,0.3,28.2
+Domain light stemmer,24913,3025,0.0,14.7
+WordNet (no POS),24913,3248,0.2,8.4
+WordNet + POS,24913,2966,2.3,16.4
+TextBlob (no POS),24913,3248,0.2,8.4
+TextBlob + POS (verbs),24913,2980,2.9,16.0
+spaCy,24913,2926,13.9,17.5

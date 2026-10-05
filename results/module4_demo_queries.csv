@@ -1,0 +1,10 @@
+Mode,Query,Documents found,Result
+keyword,sertraline,3,"D04, D02, D14"
+keyword,sleep problems,16,"D17, D04, D07, D08, D09, D16, D14, D06, D01, D02, D10, D25, D03, D12, D24, D11"
+phrase,panic disorder,6,"D04, D02, D03, D07, D09, D14"
+phrase,side effects of medication,1,D01
+phrase,do not stop,1,D14
+boolean,naltrexone OR acamprosate,2,"D24, D25"
+boolean,CBT AND depression,10,"D01, D02, D03, D04, D07, D08, D11, D12, D13, D25"
+boolean,depression NOT antidepressants,6,"D10, D11, D12, D13, D16, D25"
+boolean,"""panic disorder"" AND (CBT OR psychotherapy)",5,"D02, D03, D04, D07, D09"

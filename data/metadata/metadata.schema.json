@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "description": "One record per corpus document. 'manual' fields are filled in source_manifest.csv; 'generated' fields are written by src/build_corpus.py.",
+  "list_separator": ";",
+  "fields": {
+    "doc_id": {
+      "source": "manual",
+      "required": true,
+      "pattern": "^D\\d{2}$"
+    },
+    "title": {
+      "source": "manual",
+      "required": true
+    },
+    "organization": {
+      "source": "manual",
+      "required": true
+    },
+    "org_type": {
+      "source": "manual",
+      "required": true,
+      "vocab": "org_type"
+    },
+    "jurisdiction": {
+      "source": "manual",
+      "required": true
+    },
+    "reference_number": {
+      "source": "manual",
+      "required": false
+    },
+    "document_type": {
+      "source": "manual",
+      "required": true,
+      "vocab": "document_type"
+    },
+    "evidence_layer": {
+      "source": "manual",
+      "required": true,
+      "vocab": "evidence_layer"
+    },
+    "audience": {
+      "source": "manual",
+      "required": true,
+      "vocab": "audience"
+    },
+    "topics": {
+      "source": "manual",
+      "required": true,
+      "vocab": "topics",
+      "list": true
+    },
+    "risk_tiers": {
+      "source": "manual",
+      "required": true,
+      "vocab": "risk_tiers",
+      "list": true
+    },
+    "format": {
+      "source": "manual",
+      "required": true,
+      "vocab": "format"
+    },
+    "raw_filename": {
+      "source": "manual",
+      "required": true,
+      "pattern": "^D\\d{2}__[a-z0-9-]+__[a-z0-9-]+\\.(pdf|html|docx|csv|txt|json)$"
+    },
+    "source_url": {
+      "source": "manual",
+      "required": false,
+      "note": "Exact file URL; required before verification_status=verified is final"
+    },
+    "landing_page_url": {
+      "source": "manual",
+      "required": false
+    },
+    "retrieval_date": {
+      "source": "manual",
+      "required": true,
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "note": "Fill on download"
+    },
+    "publication_date": {
+      "source": "manual",
+      "required": false,
+      "note": "As stated on the document"
+    },
+    "last_updated_date": {
+      "source": "manual",
+      "required": false,
+      "note": "As stated on the document"
+    },
+    "verification_status": {
+      "source": "manual",
+      "required": true,
+      "vocab": "verification_status"
+    },
+    "sections_included": {
+      "source": "manual",
+      "required": true,
+      "note": "'all' | 'pages: 12-31, 40' | 'toc: Title A; Title B' (case-insensitive match against the PDF outline)"
+    },
+    "license_note": {
+      "source": "manual",
+      "required": true
+    },
+    "status": {
+      "source": "manual",
+      "required": true,
+      "vocab": "status",
+      "note": "Only 'active' documents are processed"
+    },
+    "core_or_optional": {
+      "source": "manual",
+      "required": true,
+      "vocab": "core_or_optional"
+    },
+    "notes": {
+      "source": "manual",
+      "required": false
+    },
+    "raw_path": {
+      "source": "generated"
+    },
+    "sha256": {
+      "source": "generated"
+    },
+    "extraction_tool": {
+      "source": "generated"
+    },
+    "n_pages": {
+      "source": "generated"
+    },
+    "n_chars": {
+      "source": "generated"
+    },
+    "n_words": {
+      "source": "generated"
+    },
+    "qc_status": {
+      "source": "generated",
+      "vocab": "qc_status"
+    },
+    "qc_flags": {
+      "source": "generated",
+      "list": true
+    },
+    "citation": {
+      "source": "generated"
+    },
+    "page_last_reviewed": {
+      "source": "generated"
+    },
+    "extraction": {
+      "source": "generated"
+    },
+    "cleaning": {
+      "source": "generated"
+    },
+    "selection": {
+      "source": "generated"
+    },
+    "qc_notes": {
+      "source": "generated"
+    },
+    "n_units": {
+      "source": "generated"
+    },
+    "units": {
+      "source": "generated"
+    },
+    "text": {
+      "source": "generated"
+    }
+  },
+  "vocabularies": {
+    "org_type": [
+      "intergovernmental",
+      "national_guideline_body",
+      "national_health_service",
+      "government_agency",
+      "derived"
+    ],
+    "document_type": [
+      "clinical_guideline",
+      "guideline_section",
+      "self_help_guide",
+      "public_information",
+      "fact_sheet",
+      "drug_information",
+      "crisis_resource"
+    ],
+    "evidence_layer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "audience": [
+      "professional",
+      "public"
+    ],
+    "topics": [
+      "depression",
+      "anxiety",
+      "stress",
+      "sleep",
+      "self_esteem",
+      "loneliness",
+      "grief",
+      "trauma",
+      "eating",
+      "substance_use",
+      "medication",
+      "self_harm",
+      "suicide",
+      "crisis_services",
+      "relationships",
+      "family"
+    ],
+    "risk_tiers": [
+      "everyday",
+      "treatment",
+      "crisis"
+    ],
+    "format": [
+      "pdf",
+      "html",
+      "docx",
+      "csv",
+      "txt",
+      "json"
+    ],
+    "verification_status": [
+      "verified",
+      "to_verify"
+    ],
+    "core_or_optional": [
+      "core",
+      "optional"
+    ],
+    "qc_status": [
+      "pass",
+      "flag",
+      "reject",
+      "missing"
+    ],
+    "status": [
+      "active",
+      "deferred",
+      "retired"
+    ]
+  }
+}

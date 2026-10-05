@@ -1,0 +1,17 @@
+Pair,Expected,Corpus freq,Porter,Snowball,Lancaster,Regexp,Domain light (custom)
+anxiety / anxious,same meaning,129 / 9,UNDER,UNDER,ok,UNDER,UNDER
+depression / depressed,same meaning,205 / 11,ok,ok,ok,UNDER,UNDER
+antidepressant / antidepressants,same meaning,53 / 89,ok,ok,ok,ok,ok
+therapy / therapies,same meaning,93 / 23,ok,ok,ok,UNDER,ok
+medication / medications,same meaning,78 / 23,ok,ok,ok,ok,ok
+suicide / suicidal,same meaning,84 / 24,ok,ok,ok,UNDER,UNDER
+sleep / sleeping,same meaning,68 / 9,ok,ok,ok,ok,ok
+sleep / slept,same meaning,68 / 0,UNDER,UNDER,UNDER,UNDER,UNDER
+dependence / dependent,same meaning,59 / 1,ok,ok,ok,UNDER,UNDER
+child / children,same meaning,2 / 24,UNDER,UNDER,UNDER,UNDER,UNDER
+adolescent / adolescence,same meaning,1 / 0,ok,ok,ok,UNDER,UNDER
+medical / medication,different meaning,18 / 78,OVER,OVER,OVER,ok,ok
+general / generalised,different meaning,11 / 4,ok,ok,OVER,ok,ok
+experience / experiment,different meaning,24 / 0,OVER,OVER,OVER,ok,ok
+community / communication,different meaning,23 / 3,OVER,ok,OVER,ok,ok
+relative / relation,different meaning,6 / 0,ok,OVER,OVER,ok,ok

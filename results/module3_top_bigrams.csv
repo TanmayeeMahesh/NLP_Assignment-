@@ -1,0 +1,41 @@
+Pipeline,Rank,Bigram,Frequency,Meaningful
+A: NLTK stop words -> Snowball,1,mental health,123,True
+A: NLTK stop words -> Snowball,2,et al,77,False
+A: NLTK stop words -> Snowball,3,psycholog intervent,74,False
+A: NLTK stop words -> Snowball,4,use disord,69,False
+A: NLTK stop words -> Snowball,5,anxieti disord,62,False
+A: NLTK stop words -> Snowball,6,health care,60,True
+A: NLTK stop words -> Snowball,7,panic disord,56,False
+A: NLTK stop words -> Snowball,8,side effect,55,True
+A: NLTK stop words -> Snowball,9,psychosoci intervent,51,False
+A: NLTK stop words -> Snowball,10,care provid,50,False
+B: lemma -> custom stop words (ours),1,mental health,122,True
+B: lemma -> custom stop words (ours),2,psychological intervention,74,True
+B: lemma -> custom stop words (ours),3,use disorder,69,True
+B: lemma -> custom stop words (ours),4,anxiety disorder,62,True
+B: lemma -> custom stop words (ours),5,health care,60,True
+B: lemma -> custom stop words (ours),6,panic disorder,56,True
+B: lemma -> custom stop words (ours),7,side effect,55,True
+B: lemma -> custom stop words (ours),8,psychosocial intervention,51,False
+B: lemma -> custom stop words (ours),9,drug use,49,True
+B: lemma -> custom stop words (ours),10,low certainty,45,True
+B-reordered: custom stop words -> lemma,1,mental health,122,True
+B-reordered: custom stop words -> lemma,2,psychological intervention,74,True
+B-reordered: custom stop words -> lemma,3,use disorder,69,True
+B-reordered: custom stop words -> lemma,4,anxiety disorder,62,True
+B-reordered: custom stop words -> lemma,5,health care,60,True
+B-reordered: custom stop words -> lemma,6,panic disorder,56,True
+B-reordered: custom stop words -> lemma,7,side effect,55,True
+B-reordered: custom stop words -> lemma,8,psychosocial intervention,51,False
+B-reordered: custom stop words -> lemma,9,drug use,49,True
+B-reordered: custom stop words -> lemma,10,low certainty,45,True
+C: no stop words removed -> lemma,1,mental health,122,True
+C: no stop words removed -> lemma,2,of the,116,False
+C: no stop words removed -> lemma,3,should be,112,False
+C: no stop words removed -> lemma,4,may be,110,False
+C: no stop words removed -> lemma,5,adult with,106,False
+C: no stop words removed -> lemma,6,such as,105,False
+C: no stop words removed -> lemma,7,people with,98,False
+C: no stop words removed -> lemma,8,in the,95,False
+C: no stop words removed -> lemma,9,do not,84,False
+C: no stop words removed -> lemma,10,there be,78,False

@@ -1,0 +1,7 @@
+Scope,System,Total predicted,Gold entities,Correct,Incorrect,Missed,Precision,Recall,F1
+Required types only,spaCy (default),32,29,17,15,12,0.53,0.59,0.56
+Required types only,NLTK ne_chunk (default),33,29,8,25,21,0.24,0.28,0.26
+Required types only,spaCy + domain EntityRuler (custom),28,29,18,10,11,0.64,0.62,0.63
+Required + domain types,spaCy (default),32,74,17,15,57,0.53,0.23,0.32
+Required + domain types,NLTK ne_chunk (default),33,74,8,25,66,0.24,0.11,0.15
+Required + domain types,spaCy + domain EntityRuler (custom),64,74,51,13,23,0.8,0.69,0.74

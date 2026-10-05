@@ -1,0 +1,22 @@
+S.No,Word,Category,Corpus frequency,BPE tokens,No. of subwords,BPE (vocab 500),BPE (vocab 8000)
+1,treatment,common,377,treatment,1,treatment,treatment
+2,people,common,316,people,1,people,people
+3,depression,common,205,depression,1,depression,depression
+4,anxiety,common,129,anxiety,1,anxiety,anxiety
+5,sleep,common,68,sleep,1,sleep,sleep
+6,antidepressants,domain,89,antidepressants,1,antidepressants,antidepressants
+7,PTSD,domain,46,PTSD,1,P | T | S | D,PTSD
+8,psychotherapy,domain,42,psychotherapy,1,psych | other | apy,psychotherapy
+9,self-harm,domain,33,self | - | harm,3,self | - | h | arm,self | - | harm
+10,mhGAP,domain,4,mh | GA | P,3,m | h | GA | P,mhGAP
+11,escitalopram,domain,10,escitalopram,1,es | c | ital | o | pr | am,escitalopram
+12,benzodiazepines,domain,16,benzodiazepines,1,b | en | z | o | di | a | z | ep | ines,benzodiazepines
+13,lofepramine,rare (occurs once),1,lof | e | pramine,3,l | of | e | pr | am | ine,lofepramine
+14,norepinephrine,rare (occurs once),1,no | re | p | ine | ph | r | ine,7,no | re | p | ine | ph | r | ine,norepinephrine
+15,agoraphobia,rare (occurs once),1,ag | or | aph | ob | ia,5,ag | or | ap | h | o | b | i | a,agoraphobia
+16,comorbidity,rare (occurs once),1,comorbid | ity,2,com | or | b | id | ity,comorbidity
+17,antihistamines,rare (occurs once),1,anti | h | is | tam | ines,5,anti | h | is | ta | m | ines,antihistamines
+18,buprenorphine,unseen (not in corpus),0,b | up | ren | or | ph | ine,6,b | up | ren | or | ph | ine,b | up | ren | or | ph | ine
+19,methadone,unseen (not in corpus),0,meth | ad | one,3,me | th | ad | one,meth | ad | one
+20,lithium,unseen (not in corpus),0,li | th | i | um,4,li | th | i | u | m,li | th | i | um
+21,Samaritans,unseen (not in corpus),0,S | am | ar | it | ans,5,S | am | ar | it | an | s,S | am | ar | it | ans

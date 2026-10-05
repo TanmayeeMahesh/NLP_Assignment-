@@ -1,0 +1,101 @@
+n,N-gram type,List,Rank,N-gram,Frequency,Relative frequency (%)
+1,Unigram,raw,1,and,1280,3.227
+1,Unigram,raw,2,of,1133,2.857
+1,Unigram,raw,3,the,1130,2.849
+1,Unigram,raw,4,to,1055,2.66
+1,Unigram,raw,5,or,767,1.934
+1,Unigram,raw,6,in,658,1.659
+1,Unigram,raw,7,for,632,1.594
+1,Unigram,raw,8,with,632,1.594
+1,Unigram,raw,9,a,595,1.5
+1,Unigram,raw,10,be,410,1.034
+1,Unigram,phrase,1,treatment,377,0.951
+1,Unigram,phrase,2,can,308,0.777
+1,Unigram,phrase,3,health,273,0.688
+1,Unigram,phrase,4,may,268,0.676
+1,Unigram,phrase,5,interventions,254,0.64
+1,Unigram,phrase,6,not,213,0.537
+1,Unigram,phrase,7,depression,205,0.517
+1,Unigram,phrase,8,use,197,0.497
+1,Unigram,phrase,9,should,194,0.489
+1,Unigram,phrase,10,symptoms,187,0.472
+2,Bigram,raw,1,mental health,122,0.335
+2,Bigram,raw,2,of the,116,0.318
+2,Bigram,raw,3,should be,112,0.307
+2,Bigram,raw,4,may be,110,0.302
+2,Bigram,raw,5,adults with,106,0.291
+2,Bigram,raw,6,such as,105,0.288
+2,Bigram,raw,7,people with,98,0.269
+2,Bigram,raw,8,in the,95,0.261
+2,Bigram,raw,9,for people,77,0.211
+2,Bigram,raw,10,et al,77,0.211
+2,Bigram,phrase,1,mental health,122,0.335
+2,Bigram,phrase,2,psychological interventions,70,0.192
+2,Bigram,phrase,3,health care,60,0.165
+2,Bigram,phrase,4,panic disorder,56,0.154
+2,Bigram,phrase,5,use disorders,56,0.154
+2,Bigram,phrase,6,side effects,54,0.148
+2,Bigram,phrase,7,drug use,49,0.134
+2,Bigram,phrase,8,low certainty,45,0.123
+2,Bigram,phrase,9,psychosocial interventions,44,0.121
+2,Bigram,phrase,10,digital interventions,38,0.104
+3,Trigram,raw,1,in adults with,60,0.179
+3,Trigram,raw,2,for people with,42,0.125
+3,Trigram,raw,3,for adults with,39,0.116
+3,Trigram,raw,4,of mental health,32,0.096
+3,Trigram,raw,5,how is this,30,0.09
+3,Trigram,raw,6,is this delivered,30,0.09
+3,Trigram,raw,7,other things to,30,0.09
+3,Trigram,raw,8,things to think,30,0.09
+3,Trigram,raw,9,to think about,30,0.09
+3,Trigram,raw,10,health care provider,30,0.09
+3,Trigram,phrase,1,health care provider,30,0.09
+3,Trigram,phrase,2,certainty of evidence,27,0.081
+3,Trigram,phrase,3,drug use disorders,27,0.081
+3,Trigram,phrase,4,research is needed,26,0.078
+3,Trigram,phrase,5,end of treatment,24,0.072
+3,Trigram,phrase,6,adults with anxiety,23,0.069
+3,Trigram,phrase,7,mental health services,22,0.066
+3,Trigram,phrase,8,strength of recommendation,22,0.066
+3,Trigram,phrase,9,compared with no,21,0.063
+3,Trigram,phrase,10,potential side effects,19,0.057
+4,4-gram,raw,1,how is this delivered,30,0.097
+4,4-gram,raw,2,other things to think,30,0.097
+4,4-gram,raw,3,things to think about,30,0.097
+4,4-gram,raw,4,further research is needed,24,0.078
+4,4-gram,raw,5,adults with anxiety disorders,23,0.075
+4,4-gram,raw,6,for the treatment of,21,0.068
+4,4-gram,raw,7,at the end of,21,0.068
+4,4-gram,raw,8,a health care provider,21,0.068
+4,4-gram,raw,9,compared with no treatment,21,0.068
+4,4-gram,raw,10,the end of treatment,20,0.065
+4,4-gram,phrase,1,adults with anxiety disorders,23,0.075
+4,4-gram,phrase,2,compared with no treatment,21,0.068
+4,4-gram,phrase,3,avoids potential side effects,18,0.058
+4,4-gram,phrase,4,side effects of medication,18,0.058
+4,4-gram,phrase,5,national institute of mental,16,0.052
+4,4-gram,phrase,6,institute of mental health,15,0.049
+4,4-gram,phrase,7,therapy-specific training and competence,14,0.045
+4,4-gram,phrase,8,cognitive behavioural therapy cbt,13,0.042
+4,4-gram,phrase,9,abstinence at the end,13,0.042
+4,4-gram,phrase,10,adults with alcohol dependence,12,0.039
+5,5-gram,raw,1,other things to think about,30,0.106
+5,5-gram,raw,2,at the end of treatment,20,0.071
+5,5-gram,raw,3,avoids potential side effects of,18,0.064
+5,5-gram,raw,4,potential side effects of medication,18,0.064
+5,5-gram,raw,5,national institute of mental health,15,0.053
+5,5-gram,raw,6,for adults with anxiety disorders,14,0.05
+5,5-gram,raw,7,abstinence at the end of,13,0.046
+5,5-gram,raw,8,focuses on resolving current issues,11,0.039
+5,5-gram,raw,9,delivered by a practitioner with,11,0.039
+5,5-gram,raw,10,by a practitioner with therapy-specific,11,0.039
+5,5-gram,phrase,1,potential side effects of medication,18,0.064
+5,5-gram,phrase,2,national institute of mental health,15,0.053
+5,5-gram,phrase,3,focuses on resolving current issues,11,0.039
+5,5-gram,phrase,4,compared with no treatment shows,11,0.039
+5,5-gram,phrase,5,suit people who do not,10,0.035
+5,5-gram,phrase,6,like talking about their depression,10,0.035
+5,5-gram,phrase,7,regular sessions although additional sessions,10,0.035
+5,5-gram,phrase,8,sessions although additional sessions may,10,0.035
+5,5-gram,phrase,9,additional sessions may be needed,10,0.035
+5,5-gram,phrase,10,needed for people with comorbid,10,0.035

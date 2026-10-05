@@ -1,0 +1,13 @@
+,split(),NLTK word_tokenize,spaCy tokenizer
+Dictionary size,5976,4356,4254
+plain word,3336,3730,3810
+punctuation attached,2170,33,27
+punctuation only,8,21,21
+number,159,305,306
+letters + digits,10,25,31
+hyphenated,170,191,10
+unusual dash,38,4,16
+contains /,12,15,1
+URL / web address,33,29,29
+other,40,3,3
+case duplicates,555,565,559

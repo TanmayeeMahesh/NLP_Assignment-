@@ -1,0 +1,17 @@
+# Corpus pipeline (src/build_corpus.py). Python 3.9+
+pymupdf>=1.24
+beautifulsoup4>=4.12
+lxml>=5.0
+python-docx>=1.1
+nltk>=3.8          # only for the QC dictionary check; pipeline runs without it
+
+# AS1 notebook
+pandas>=2.0
+spacy>=3.8         # then: python -m spacy download en_core_web_sm
+tokenizers>=0.20   # BPE (Exercise 4)
+wordcloud>=1.9     # stop-word word clouds (Exercise 7)
+matplotlib>=3.8
+textblob>=0.18     # lemmatization comparison (Exercise 10)
+scikit-learn>=1.5  # KNN POS tagger (Exercise 12)
+gradio>=6.0        # GUI (app.py)
+ipykernel          # to run the notebook in VS Code

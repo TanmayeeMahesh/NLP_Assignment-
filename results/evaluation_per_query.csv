@@ -1,0 +1,16 @@
+Query ID,Query,Type,Retrieved,Relevant,Relevant retrieved,Precision,Recall,F1,P@3,R@3,P@5,R@5
+Q01,anxiety,Keyword,13.0,4.0,4.0,0.31,1.0,0.47,1.0,0.75,0.8,1.0
+Q02,panic disorder,Phrase,6.0,2.0,2.0,0.33,1.0,0.5,0.67,1.0,0.4,1.0
+Q03,generalised anxiety disorder,Phrase,6.0,3.0,3.0,0.5,1.0,0.67,1.0,1.0,0.6,1.0
+Q04,antidepressant side effects,Keyword (multi-word),14.0,5.0,5.0,0.36,1.0,0.53,1.0,0.6,0.8,0.8
+Q05,how to stop taking antidepressants safely,Keyword (natural language),17.0,3.0,3.0,0.18,1.0,0.3,0.67,0.67,0.6,1.0
+Q06,alcohol AND medication,Boolean AND,7.0,1.0,1.0,0.14,1.0,0.25,0.0,0.0,0.0,0.0
+Q07,suicide OR self-harm,Boolean OR,12.0,2.0,2.0,0.17,1.0,0.29,0.67,1.0,0.4,1.0
+Q08,depression AND NOT anxiety,Boolean NOT,3.0,3.0,1.0,0.33,0.33,0.33,0.33,0.33,0.2,0.33
+Q09,trouble sleeping,Keyword,12.0,1.0,1.0,0.08,1.0,0.15,0.0,0.0,0.2,1.0
+Q10,PTSD OR trauma,Boolean OR,3.0,1.0,1.0,0.33,1.0,0.5,0.33,1.0,0.2,1.0
+Q11,crisis helpline,Keyword (natural language),9.0,8.0,7.0,0.78,0.88,0.82,0.67,0.25,0.6,0.38
+Q12,low self-esteem,Phrase,2.0,1.0,1.0,0.5,1.0,0.67,0.33,1.0,0.2,1.0
+Q13,loneliness,Keyword,1.0,1.0,1.0,1.0,1.0,1.0,0.33,1.0,0.2,1.0
+Q14,"""drug use disorders"" AND psychosocial",Combined (phrase + AND),1.0,1.0,1.0,1.0,1.0,1.0,0.33,1.0,0.2,1.0
+MEAN,(macro average),all,,,,0.43,0.94,0.53,0.52,0.69,0.39,0.82

@@ -1,0 +1,17 @@
+Pair,Expected,Snowball,Domain light (custom),WordNet (no POS),WordNet + POS,TextBlob (no POS),TextBlob + POS (verbs),spaCy
+anxiety / anxious,same meaning,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER
+depression / depressed,same meaning,ok,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER
+antidepressant / antidepressants,same meaning,ok,ok,ok,ok,ok,ok,ok
+therapy / therapies,same meaning,ok,ok,ok,ok,ok,ok,ok
+medication / medications,same meaning,ok,ok,ok,ok,ok,ok,ok
+suicide / suicidal,same meaning,ok,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER
+sleep / sleeping,same meaning,ok,ok,UNDER,ok,UNDER,ok,ok
+sleep / slept,same meaning,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER,ok
+dependence / dependent,same meaning,ok,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER
+child / children,same meaning,UNDER,UNDER,ok,ok,ok,ok,ok
+adolescent / adolescence,same meaning,ok,UNDER,UNDER,UNDER,UNDER,UNDER,UNDER
+medical / medication,different meaning,OVER,ok,ok,ok,ok,ok,ok
+general / generalised,different meaning,ok,ok,ok,ok,ok,ok,ok
+experience / experiment,different meaning,OVER,ok,ok,ok,ok,ok,ok
+community / communication,different meaning,ok,ok,ok,ok,ok,ok,ok
+relative / relation,different meaning,OVER,ok,ok,ok,ok,ok,ok

@@ -1,0 +1,6 @@
+Target vocab_size,Vocabulary learned,Corpus tokens,Distinct tokens used
+500,500,96247,498
+1000,1000,75668,968
+2000,2000,60843,1840
+4000,4000,51985,3330
+8000,6913,48496,4130

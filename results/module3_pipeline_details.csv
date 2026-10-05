@@ -1,0 +1,5 @@
+Pipeline,Token count,Tokens kept (%),Vocabulary size,Readable vocabulary (%),Meaningful top-20 bigrams,Negation bigrams (occurrences),Domain terms readable (of 14),Time (s)
+A: NLTK stop words -> Snowball,24570,62.0,2535,56.3,7,26,9,0.6
+B: lemma -> custom stop words (ours),24913,62.8,2914,90.5,17,320,13,30.1
+B-reordered: custom stop words -> lemma,24913,62.8,2940,90.5,17,320,13,27.4
+C: no stop words removed -> lemma,39660,100.0,3011,89.5,5,320,13,29.2

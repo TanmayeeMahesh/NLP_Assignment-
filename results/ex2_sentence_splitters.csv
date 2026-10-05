@@ -1,0 +1,6 @@
+Splitter,Sentences,Avg words,Long units (>60 words),Fragments (<3 words),Time (s)
+"split(""."")",2340,17.3,52,350,0.0
+NLTK sent_tokenize,1943,20.6,62,33,0.0
+spaCy sentencizer,1975,20.3,53,35,0.7
+spaCy en_core_web_sm,1902,21.0,60,19,18.8
+LineTokenizer + sent_tokenize,3337,12.0,5,601,0.1

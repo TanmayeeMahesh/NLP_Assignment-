@@ -1,0 +1,3 @@
+Order,Tokens,Vocabulary
+A: stop-word removal -> stemming,24913,2545
+B: stemming -> stop-word removal,25544,2553

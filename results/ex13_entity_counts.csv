@@ -1,0 +1,23 @@
+System,Sentences,Label,Required,Mentions,Top entities
+spaCy (all sentences),3337,PERSON,True,97,Box 3.1 (4) | al. (3) | Psychotherapy (3) | IPT (3) | Email (3) | Tardelli (3)
+spaCy (all sentences),3337,ORG,True,472,GAD (63) | CBT (60) | TAU (32) | NIMH (26) | GP (12) | CC (12)
+spaCy (all sentences),3337,GPE,True,59,Conditional (15) | Psychotherapy (8) | the United States (6) | al. (3) | Print (3) | Bethesda (3)
+spaCy (all sentences),3337,DATE,True,324,2004 (44) | 2020 (24) | 2021 (22) | 2019 (18) | 2023 (16) | daily (11)
+spaCy (all sentences),3337,MONEY,True,0,
+spaCy (all sentences),3337,PRODUCT,True,2,Executive Boulevard (2)
+spaCy (all sentences),3337,EVENT,True,0,
+spaCy (all sentences),3337,CARDINAL,False,492,3 (21) | 8 (17) | 2 (13) | two (12) | 1 (11) | 16 (10)
+spaCy (all sentences),3337,FAC,False,3,Stick (1) | Boumparis et al. (1) | Sancho et al. (1)
+spaCy (all sentences),3337,LANGUAGE,False,2,English (2)
+spaCy (all sentences),3337,NORP,False,4,ANX5 (1) | Diagnostic (1) | Alcoholics (1) | Clinicians (1)
+spaCy (all sentences),3337,ORDINAL,False,24,first (20) | third (3) | tertiary (1)
+spaCy (all sentences),3337,PERCENT,False,32,95% (16) | between 3% and 9% (2) | 85.5% (1) | 63.9% (1) | 22.6% (1) | 80% (1)
+spaCy (all sentences),3337,TIME,False,25,9:06 PM (3) | night (3) | 7 to 14 hours (1) | 1 to 2 hours (1) | around 7 hours (1) | 48 hours (1)
+spaCy (all sentences),3337,WORK_OF_ART,False,3,The Silver Line or (1) | Coping With Stress and Anxiety (1) | 4th edition (DSM-IV (1)
+NLTK ne_chunk (sample),1000,PERSON,True,23,Nourredine (2) | Papola (1) | Parker (1) | Stein (1) | Lewis (1) | Life (1)
+NLTK ne_chunk (sample),1000,ORG,True,143,GAD (20) | PTSD (14) | CBT (11) | SSRIs (7) | RR (6) | NIMH (5)
+NLTK ne_chunk (sample),1000,GPE,True,215,Key (15) | Research (8) | Further (7) | Talk (7) | Psychotherapy (6) | Avoids (5)
+NLTK ne_chunk (sample),1000,DATE,True,0,
+NLTK ne_chunk (sample),1000,MONEY,True,0,
+NLTK ne_chunk (sample),1000,PRODUCT,True,0,
+NLTK ne_chunk (sample),1000,EVENT,True,0,

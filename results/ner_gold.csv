@@ -1,0 +1,84 @@
+sent_id,entity,label,note
+0,,,"ICD-11 is a classification system, not one of the evaluated types"
+1,,,no entity of the evaluated types
+2,daily,DATE,
+2,antidepressants,MEDICATION,
+3,,,ANX2 is a recommendation ID
+4,depression,CONDITION,
+5,WHO,ORG,
+5,UNODC,ORG,
+5,2020,DATE,
+6,,,'who self-harm' is a verb here (same decision as POS gold)
+7,,,no entity of the evaluated types
+8,depression,CONDITION,
+9,Tardelli,PERSON,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,2020,DATE,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,Nourredine,PERSON,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,2021,DATE,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,Chan,PERSON,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,2020,DATE,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,Buchholz,PERSON,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,Saxon,PERSON,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,2019,DATE,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,Chan,PERSON,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+9,2019,DATE,"citation authors are PERSON, years DATE; 'et al.' is not part of the name"
+10,Major depression,CONDITION,the condition span is 'Major depression'
+10,at least 2 weeks,DATE,the condition span is 'Major depression'
+10,daily,DATE,the condition span is 'Major depression'
+11,baclofen,MEDICATION,
+11,baclofen,MEDICATION,
+12,depression,CONDITION,
+13,,,'evidence review H' is a document label
+14,GAD,CONDITION,
+14,anxiety,CONDITION,
+15,Boumparis N,PERSON,
+15,Khazaal Y,PERSON,
+15,Krupchanka D,PERSON,
+15,Schaub MP,PERSON,
+16,brain stimulation therapy,THERAPY,
+16,psychotherapy,THERAPY,
+16,depression,CONDITION,
+17,GAD,CONDITION,
+17,acceptance and commitment therapy,THERAPY,
+17,ACT,THERAPY,
+18,panic disorder,CONDITION,
+19,hypersomnia,CONDITION,symptom/condition
+20,Action Alliance for Suicide Prevention,ORG,
+21,ARFID,CONDITION,
+22,thyroid disorders,CONDITION,
+22,depression,CONDITION,
+23,eating disorders,CONDITION,
+23,depression,CONDITION,
+23,anxiety,CONDITION,
+23,substance use disorders,CONDITION,
+24,at least six months,DATE,
+25,LMICs,GPE,LMICs = low- and middle-income countries (GPE group)
+26,anxiety,CONDITION,
+26,depression,CONDITION,
+27,GAD,CONDITION,
+27,anxiety,CONDITION,
+27,months,DATE,
+27,years,DATE,
+28,988 Suicide & Crisis Lifeline,ORG,the first 988 is part of the ORG name; the second is the helpline number
+28,988,HELPLINE,the first 988 is part of the ORG name; the second is the helpline number
+29,,,"TAU = treatment as usual, not an organisation"
+30,PTSD,CONDITION,
+31,,,'Focus' is an ordinary word
+32,panic disorder,CONDITION,
+33,Mind Plan,PRODUCT,NHS campaign (ORG) and its product (PRODUCT)
+33,Every Mind Matters,ORG,NHS campaign (ORG) and its product (PRODUCT)
+34,,,no entity of the evaluated types
+35,depression,CONDITION,
+36,antidepressants,MEDICATION,
+37,sertraline,MEDICATION,
+37,CBT,THERAPY,
+38,SSRIs,MEDICATION,
+38,citalopram,MEDICATION,
+38,escitalopram,MEDICATION,
+38,fluoxetine,MEDICATION,
+38,fluvoxamine,MEDICATION,
+38,paroxetine,MEDICATION,
+38,sertraline,MEDICATION,
+38,TCAs,MEDICATION,
+38,amitriptyline,MEDICATION,
+39,panic disorder,CONDITION,

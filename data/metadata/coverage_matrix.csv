@@ -1,0 +1,17 @@
+topic,everyday,treatment,crisis,gap_note
+depression,D01;D04;D06;D07,D01;D04;D06;D07,,
+anxiety,D02;D04;D08,D02;D04,,
+stress,D16,,,
+sleep,D17,,,
+self_esteem,D12,,,
+loneliness,D13,,,
+grief,,,,Gap in v1.0: D18 deferred
+trauma,D09,D09,,
+eating,,D10,,
+substance_use,,,,Gap in v1.0: D21 deferred
+medication,,D01;D14,,
+self_harm,,,D03;D05,
+suicide,,,D05;D11;D19,
+crisis_services,,,D19;D20,
+relationships,,,,No official consumer guidance selected yet: record as gap
+family,,,,No official consumer guidance selected yet: record as gap

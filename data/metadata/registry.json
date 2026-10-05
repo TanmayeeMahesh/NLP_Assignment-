@@ -1,0 +1,146 @@
+{
+  "D01": {
+    "raw_path": "data\\raw\\pdf\\D01__nice__ng222-depression.pdf",
+    "format": "pdf",
+    "sha256": "4f59bf752b49734b81244d1251d94a8fc2e984aac34577e295be243582a957de",
+    "size_bytes": 515517,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D02": {
+    "raw_path": "data\\raw\\pdf\\D02__nice__cg113-anxiety.pdf",
+    "format": "pdf",
+    "sha256": "cc6983e2bf3fd1bed80c51350d3c7d6647218c77458f78ee6f12bd82e28cc27c",
+    "size_bytes": 223011,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D03": {
+    "raw_path": "data\\raw\\pdf\\D03__nice__ng225-self-harm.pdf",
+    "format": "pdf",
+    "sha256": "2a9255539f6da3336e5740e900342c5e2146dc561bffe0fbb370a73fe12b86d8",
+    "size_bytes": 389600,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D04": {
+    "raw_path": "data\\raw\\pdf\\D04__who__mhgap-guideline-2023.pdf",
+    "format": "pdf",
+    "sha256": "90f1220536d6323b8d8493090a567be137ef042bc76bffc7fd391ba47cbd005b",
+    "size_bytes": 1103723,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D06": {
+    "raw_path": "data\\raw\\html\\D06__who__fact-sheet-depression.html",
+    "format": "html",
+    "sha256": "0161b0b7b793afbe9510a62a2efb76173ebf9f774e064dd3d6b510f6958bb6d1",
+    "size_bytes": 259066,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D07": {
+    "raw_path": "data\\raw\\pdf\\D07__nimh__depression.pdf",
+    "format": "pdf",
+    "sha256": "0aa6c1a0e9131eb2d7df7787e06bc65fc9e95bba6c72893ecaf8d589d805651a",
+    "size_bytes": 320948,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D08": {
+    "raw_path": "data\\raw\\pdf\\D08__nimh__gad.pdf",
+    "format": "pdf",
+    "sha256": "ef7b7fd90091453af6491b6af2bc9d3bea731ff2956e4311fbebfa242687466a",
+    "size_bytes": 165062,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D09": {
+    "raw_path": "data\\raw\\pdf\\D09__nimh__ptsd.pdf",
+    "format": "pdf",
+    "sha256": "b75e6ed1b6624b450a6c181176c10504cae8927f8e7fe0493f98db018684bcd0",
+    "size_bytes": 1238273,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D10": {
+    "raw_path": "data\\raw\\pdf\\D10__nimh__eating-disorders.pdf",
+    "format": "pdf",
+    "sha256": "090197df2f2f99b65c837a6154c2fbf592d03e69cdcf1b79eefc61de37cfd650",
+    "size_bytes": 522362,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D11": {
+    "raw_path": "data\\raw\\pdf\\D11__nimh__suicide.pdf",
+    "format": "pdf",
+    "sha256": "057632ce732b9418c0087bc88549490a67169bb8010f787090a3d61ea97dd177",
+    "size_bytes": 7003014,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D12": {
+    "raw_path": "data\\raw\\html\\D12__nhs__self-esteem.html",
+    "format": "html",
+    "sha256": "d13ccb9544ac526e1896295a344f1fe21d48e35457f33b13a621d922cb0bc6e5",
+    "size_bytes": 218128,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D13": {
+    "raw_path": "data\\raw\\html\\D13__nhs__loneliness.html",
+    "format": "html",
+    "sha256": "68d7cbb1903b9274efee2d25dc501fb2ee72b82e01f99cec41efb1e679aa3d6c",
+    "size_bytes": 76655,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D14": {
+    "raw_path": "data\\raw\\html\\D14__nhs__stopping-antidepressants.html",
+    "format": "html",
+    "sha256": "fa63169089c49c83b56efbe5145d4e63e3cd26652c3aa6b5edb7a96b4719d08c",
+    "size_bytes": 77497,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D16": {
+    "raw_path": "data\\raw\\pdf\\D16__nimh__stressed-out.pdf",
+    "format": "pdf",
+    "sha256": "8cef0c71748e239772c992ac6d8f738d376dab2ed15c461074e87d393255890a",
+    "size_bytes": 347467,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D17": {
+    "raw_path": "data\\raw\\html\\D17__nhs__sleep.html",
+    "format": "html",
+    "sha256": "a53cf406a796a2fffa70484f5d89bccd3366fe8e8341a09a58d0800bf661eebb",
+    "size_bytes": 202729,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D20": {
+    "raw_path": "data\\raw\\pdf\\D20__mohfw__tele-manas.pdf",
+    "format": "pdf",
+    "sha256": "ea9a90de2e79b045baf975cbeed0133eb1130639e6063e3e308fb00abca8c48a",
+    "size_bytes": 6324418,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D24": {
+    "raw_path": "data\\raw\\pdf\\D24__who__mhgap-2023-alcohol.pdf",
+    "format": "pdf",
+    "sha256": "90f1220536d6323b8d8493090a567be137ef042bc76bffc7fd391ba47cbd005b",
+    "size_bytes": 1103723,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  },
+  "D25": {
+    "raw_path": "data\\raw\\pdf\\D25__who__mhgap-2023-drug-use.pdf",
+    "format": "pdf",
+    "sha256": "90f1220536d6323b8d8493090a567be137ef042bc76bffc7fd391ba47cbd005b",
+    "size_bytes": 1103723,
+    "file_date": "2026-10-04",
+    "registered_at": "2026-10-04T22:47:09"
+  }
+}

@@ -1,0 +1,21 @@
+n,N-gram type,List,Rank,N-gram,Frequency,Relative frequency (%)
+1,Unigram,raw,1,and,1280,3.227
+1,Unigram,raw,2,of,1133,2.857
+1,Unigram,raw,3,the,1130,2.849
+1,Unigram,raw,4,to,1055,2.66
+1,Unigram,raw,5,or,767,1.934
+1,Unigram,raw,6,in,658,1.659
+1,Unigram,raw,7,for,632,1.594
+1,Unigram,raw,8,with,632,1.594
+1,Unigram,raw,9,a,595,1.5
+1,Unigram,raw,10,be,410,1.034
+1,Unigram,phrase,1,treatment,377,0.951
+1,Unigram,phrase,2,can,308,0.777
+1,Unigram,phrase,3,health,273,0.688
+1,Unigram,phrase,4,may,268,0.676
+1,Unigram,phrase,5,interventions,254,0.64
+1,Unigram,phrase,6,not,213,0.537
+1,Unigram,phrase,7,depression,205,0.517
+1,Unigram,phrase,8,use,197,0.497
+1,Unigram,phrase,9,should,194,0.489
+1,Unigram,phrase,10,symptoms,187,0.472

@@ -1,0 +1,15 @@
+Query ID,Query,"Missed (relevant, not retrieved)","False positives (retrieved, not relevant)"
+Q01,anxiety,-,"D13, D07, D10, D14, D01, D17, D03, D09, D12"
+Q02,panic disorder,-,"D03, D07, D09, D14"
+Q03,generalised anxiety disorder,-,"D03, D07, D14"
+Q04,antidepressant side effects,-,"D07, D25, D06, D24, D17, D12, D03, D09, D11"
+Q05,how to stop taking antidepressants safely,-,"D01, D03, D07, D25, D24, D06, D12, D08, D09, D11, D13, D16, D10, D17"
+Q06,alcohol AND medication,-,"D01, D07, D02, D08, D09, D14"
+Q07,suicide OR self-harm,-,"D06, D04, D07, D10, D01, D02, D14, D08, D09, D16"
+Q08,depression AND NOT anxiety,"D01, D07","D11, D25"
+Q09,trouble sleeping,-,"D08, D11, D07, D09, D04, D16, D06, D14, D01, D02, D10"
+Q10,PTSD OR trauma,-,"D14, D25"
+Q11,crisis helpline,D13,"D03, D06"
+Q12,low self-esteem,-,D07
+Q13,loneliness,-,-
+Q14,"""drug use disorders"" AND psychosocial",-,-

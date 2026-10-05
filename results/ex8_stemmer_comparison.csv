@@ -1,0 +1,6 @@
+Stemmer,Words before,Stems after,Reduction (%),Largest merge groups
+Porter,3546,2571,27.5,"activ: activating, activation, active, actively, activities, activity || avoid: avoid, avoidance, avoidant, avoided, avoiding, avoids || care: care, cared, careful, carefully, cares, caring"
+Snowball,3546,2545,28.2,"activ: activating, activation, active, actively, activities, activity || avoid: avoid, avoidance, avoidant, avoided, avoiding, avoids || care: care, cared, careful, carefully, cares, caring"
+Lancaster,3546,2358,33.5,"act: act, acting, action, actions, activating, activation || us: us, use, used, useful, user, users || car: car, care, cared, careful, carefully, carer"
+Regexp,3546,2994,15.6,"add: add, added, adding, adds || affect: affect, affected, affecting, affects || avoid: avoid, avoided, avoiding, avoids"
+Domain light (custom),3546,3025,14.7,"affect: affect, affected, affecting, affects || avoid: avoid, avoided, avoiding, avoids || concern: concern, concerned, concerning, concerns"

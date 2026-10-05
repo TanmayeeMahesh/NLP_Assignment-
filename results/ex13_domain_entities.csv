@@ -1,0 +1,103 @@
+Entity,Domain label,Default spaCy label,Mentions
+depression,CONDITION,missed,179
+anxiety,CONDITION,missed,97
+antidepressants,MEDICATION,missed,76
+GAD,CONDITION,ORG,63
+CBT,THERAPY,ORG,60
+panic disorder,CONDITION,missed,56
+antidepressant,MEDICATION,missed,46
+SSRIs,MEDICATION,missed,40
+PTSD,CONDITION,missed,40
+self-harm,CONDITION,missed,33
+psychotherapy,THERAPY,missed,31
+Depression,CONDITION,missed,26
+NIMH,ORG,ORG,26
+cognitive behavioural therapy,THERAPY,missed,16
+generalized anxiety disorder,CONDITION,missed,15
+988,HELPLINE,CARDINAL,15
+Antidepressants,MEDICATION,missed,13
+WHO,ORG,missed,13
+National Institute of Mental Health,ORG,missed,13
+naltrexone,MEDICATION,missed,13
+sertraline,MEDICATION,missed,12
+mindfulness,THERAPY,missed,11
+fluoxetine,MEDICATION,missed,11
+baclofen,MEDICATION,missed,11
+citalopram,MEDICATION,missed,10
+escitalopram,MEDICATION,missed,9
+paroxetine,MEDICATION,missed,9
+Anxiety,CONDITION,missed,9
+benzodiazepines,MEDICATION,missed,9
+FDA,ORG,ORG,9
+acamprosate,MEDICATION,missed,9
+Psychotherapy,THERAPY,GPE,8
+disulfiram,MEDICATION,missed,8
+guided self-help,THERAPY,missed,7
+Antidepressant,MEDICATION,missed,7
+Benzodiazepines,MEDICATION,missed,7
+NHS,ORG,ORG,6
+psychoeducation,THERAPY,missed,6
+SSRI,MEDICATION,missed,6
+WHO,ORG,ORG,6
+counselling,THERAPY,missed,6
+eating disorder,CONDITION,missed,6
+insomnia,CONDITION,missed,6
+PTSD,CONDITION,DATE,6
+psychosis,CONDITION,missed,5
+NIH,ORG,ORG,5
+talking therapies,THERAPY,missed,5
+benzodiazepine,MEDICATION,missed,4
+SAMHSA,ORG,ORG,4
+post-traumatic stress disorder,CONDITION,missed,4
+NHS,ORG,missed,4
+alcohol use disorder,CONDITION,missed,4
+mirtazapine,MEDICATION,missed,4
+generalised anxiety disorder,CONDITION,missed,3
+social anxiety disorder,CONDITION,missed,3
+GAD,CONDITION,missed,3
+interpersonal therapy,THERAPY,missed,3
+Psychotherapy,THERAPY,PERSON,3
+counseling,THERAPY,missed,3
+National Institute of Mental Health,ORG,ORG,3
+1-866-615-6464,HELPLINE,CARDINAL,3
+NIMH,ORG,missed,3
+Guided self-help,THERAPY,missed,2
+Counselling,THERAPY,missed,2
+SNRI,MEDICATION,missed,2
+NICE,ORG,ORG,2
+MHRA,ORG,missed,2
+Bipolar disorder,CONDITION,missed,2
+Citalopram,MEDICATION,missed,2
+Paroxetine,MEDICATION,missed,2
+bipolar disorder,CONDITION,missed,2
+cognitive behavioral therapy,THERAPY,missed,2
+Cognitive behavioral therapy,THERAPY,missed,2
+exposure therapy,THERAPY,missed,2
+988,HELPLINE,missed,2
+phobia,CONDITION,missed,2
+Mirtazapine,MEDICATION,ORG,2
+venlafaxine,MEDICATION,missed,1
+NICE,ORG,missed,1
+Generalised anxiety disorder,CONDITION,missed,1
+Psychosis,CONDITION,missed,1
+schizophrenia,CONDITION,missed,1
+Post-traumatic stress disorder,CONDITION,missed,1
+diazepam,MEDICATION,missed,1
+Interpersonal Therapy,THERAPY,missed,1
+phobia,CONDITION,GPE,1
+Interpersonal therapy,THERAPY,missed,1
+Generalized Anxiety Disorder,CONDITION,missed,1
+Exposure therapy,THERAPY,missed,1
+Cognitive Behavioral Therapy,THERAPY,missed,1
+1-800-662-4357,HELPLINE,missed,1
+Talking therapies,THERAPY,missed,1
+OCD,CONDITION,missed,1
+Sertraline,MEDICATION,missed,1
+Escitalopram,MEDICATION,missed,1
+Fluoxetine,MEDICATION,missed,1
+Duloxetine,MEDICATION,missed,1
+Venlafaxine,MEDICATION,ORG,1
+Insomnia,CONDITION,missed,1
+Baclofen,MEDICATION,PERSON,1
+baclofen,MEDICATION,ORG,1
+Baclofen,MEDICATION,ORG,1

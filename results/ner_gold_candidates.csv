@@ -1,0 +1,41 @@
+sent_id,doc_id,sentence,spacy,nltk,spacy_domain
+0,D25,"In ICD-11, harmful use refers a pattern of substance use that has caused damage to a person's physical or mental health or has resulted in behaviour leading to harm to the health of others.",,ICD-11 [GPE],
+1,D25,recommendations on digital interventions for health system strengthening (31).,31 [CARDINAL],,31 [CARDINAL]
+2,D04,Cost of daily dose of generic antidepressants varies from region to region throughout the world ranging between 3% and 9% of minimum wage (131).,daily [DATE] ; between 3% and 9% [PERCENT] ; 131 [CARDINAL],,daily [DATE] ; antidepressants [MEDICATION] ; between 3% and 9% [PERCENT] ; 131 [CARDINAL]
+3,D04,See recommendation ANX2 for further detail on psychological interventions.,,ANX2 [ORG],
+4,D01,May suit people who do not like talking about their depression in a group.,,,depression [CONDITION]
+5,D25,"Source: WHO and UNODC, 2020 (147).",UNODC [ORG] ; 2020 [DATE] ; 147 [CARDINAL],Source [GPE] ; UNODC [ORG],WHO [ORG] ; UNODC [ORG] ; 2020 [DATE] ; 147 [CARDINAL]
+6,D03,Healthcare staff should be appropriately trained and supervised in the therapy they are offering to people who self-harm.,Healthcare [ORG],Healthcare [GPE],Healthcare [ORG] ; self-harm [CONDITION]
+7,D12,"That way, you can keep reminding yourself that you're OK.",,,
+8,D06,"People who have lived through abuse, severe losses or other stressful events are more likely to develop depression.",,,depression [CONDITION]
+9,D25,"– cocaine: Tardelli et al., 2020 (148); Nourredine et al., 2021 (149); Chan et al., 2020 (150); Buchholz and Saxon, 2019 (151); Chan et al., 2019 (152);",Tardelli [PERSON] ; 2020 [DATE] ; 148 [CARDINAL] ; Nourredine [PERSON] ; 2021 [DATE] ; 149 [CARDINAL] ; Chan et al. [PERSON] ; 2020 [DATE] ; 150 [CARDINAL] ; Buchholz [GPE] ; Saxon [PERSON] ; 2019 [DATE] ; 151 [CARDINAL] ; Chan et al. [PERSON] ; 2019 [DATE] ; 152 [CARDINAL],Nourredine [PERSON] ; Buchholz [PERSON] ; Saxon [PERSON],Tardelli [PERSON] ; 2020 [DATE] ; 148 [CARDINAL] ; Nourredine [PERSON] ; 2021 [DATE] ; 149 [CARDINAL] ; Chan et al. [PERSON] ; 2020 [DATE] ; 150 [CARDINAL] ; Buchholz [GPE] ; Saxon [PERSON] ; 2019 [DATE] ; 151 [CARDINAL] ; Chan et al. [PERSON] ; 2019 [DATE] ; 152 [CARDINAL]
+10,D07,"Major depression includes symptoms of depressed mood or loss of interest, most of the time for at least 2 weeks, that interfere with daily activities.",at least 2 weeks [DATE] ; daily [DATE],,depression [CONDITION] ; at least 2 weeks [DATE] ; daily [DATE]
+11,D24,"Even though differences were not identified when compared with placebo, baclofen can have side-effects such as sedation, and cessation of baclofen treatment can be associated with a mild benzodiazepine-like withdrawal syndrome.",,,baclofen [MEDICATION] ; baclofen [MEDICATION]
+12,D01,"For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on treatment for a new episode of less severe depression.",,,depression [CONDITION]
+13,D03,Full details of the evidence and the committee's discussion are in evidence review H:,,Full [GPE],
+14,D08,GAD usually involves a persistent feeling of anxiety or dread that interferes with how you live your life.,GAD [ORG],,GAD [CONDITION] ; anxiety [CONDITION]
+15,D25,"11 Boumparis N, Khazaal Y, Krupchanka D, Schaub MP.",11 [CARDINAL] ; Boumparis N [ORG] ; Schaub MP [PERSON],Boumparis N [PERSON] ; Khazaal Y [PERSON] ; Krupchanka D [PERSON] ; Schaub MP [PERSON],11 [CARDINAL] ; Boumparis N [ORG] ; Schaub MP [PERSON]
+16,D07,"Although brain stimulation therapy is less frequently used than psychotherapy and medication, it can play an important role in treating depression in people who have not responded to other treatments.",,,psychotherapy [THERAPY] ; depression [CONDITION]
+17,D08,Another treatment option for GAD is acceptance and commitment therapy (ACT).,GAD [ORG],GAD [ORG] ; ACT [ORG],GAD [CONDITION]
+18,D02,The accurate diagnosis of panic disorder is central to the effective management of this condition.,,,panic disorder [CONDITION]
+19,D07,"Young adults are more likely to be irritable, complain of weight gain and hypersomnia, and have a negative view of life and the future.",hypersomnia [GPE],Young [GPE],hypersomnia [GPE]
+20,D11,Action Alliance for Suicide Prevention at https://theactionalliance.org and,,Action [PERSON] ; Alliance [ORG] ; Suicide [PERSON],
+21,D10,Signs and symptoms of ARFID include:,ARFID [ORG],ARFID [ORG],ARFID [ORG]
+22,D07,"Certain medications and medical conditions, such as viruses or thyroid disorders, can cause the same symptoms as depression.",,Certain [GPE],depression [CONDITION]
+23,D10,"People with eating disorders are at risk for co-occurring mental illnesses, which most often include depression, anxiety, and substance use disorders.",,,depression [CONDITION] ; anxiety [CONDITION]
+24,D04,"If the medicine is effective, continue use for at least six months after remission to reduce likelihood of relapse.",at least six months [DATE],,at least six months [DATE]
+25,D25,Further research is needed on LMICs.,,Further [GPE] ; LMICs [ORG],
+26,D13,"Support is also available if you're finding it hard to cope with stress, anxiety or depression.",,Support [GPE],anxiety [CONDITION] ; depression [CONDITION]
+27,D08,"For people with GAD, these feelings of anxiety can last for months or even years.",GAD [ORG] ; months [DATE] ; years [DATE],GAD [ORG],GAD [CONDITION] ; anxiety [CONDITION] ; months [DATE] ; years [DATE]
+28,D08,"If you or someone you know is struggling or having thoughts of suicide, call or text the 988 Suicide & Crisis Lifeline at 988 or chat at",the 988 Suicide & Crisis Lifeline [ORG] ; 988 [CARDINAL],Crisis Lifeline [PERSON],988 [HELPLINE] ; 988 [HELPLINE]
+29,D25,"– compared with TAU, show effect for: decreasing dropouts from treatment (moderate certainty), and increasing point abstinence at the end of treatment and at longest follow-up (very low certainty);",TAU [ORG],TAU [ORG],TAU [ORG]
+30,D09,Why do some people develop PTSD and other people do not?,,PTSD [ORG],PTSD [CONDITION]
+31,D01,"Focus is on recognising difficult feelings in significant relationships and stressful situations, and identifying how patterns can be repeated.",Focus [ORG],Focus [GPE],Focus [ORG]
+32,D02,Step 1: Recognition and diagnosis of panic disorder,1 [CARDINAL],,1 [CARDINAL] ; panic disorder [CONDITION]
+33,D13,Improve your mental health with our Mind Plan (Every Mind Matters),,,
+34,D06,It is different from regular mood changes and feelings about everyday life It involves a depressed mood or loss of pleasure or interest in activities for long periods of time.,,,
+35,D07,"Women are diagnosed with depression more often than men, but men can also be depressed.",,,depression [CONDITION]
+36,D04,"Support the person in making a decision between antidepressants and psychological interventions (if available), based on providing relevant information (e.g.",,,antidepressants [MEDICATION]
+37,D02,1 A comparison of the clinical and cost effectiveness of sertraline and CBT in people with,1 [CARDINAL] ; CBT [ORG],CBT [ORG],1 [CARDINAL] ; sertraline [MEDICATION] ; CBT [THERAPY]
+38,D04,"SSRIs (namely citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine and sertraline) and TCAs (namely amitriptyline) were significantly better than pill placebo in reducing depressive symptoms.",fluvoxamine [ORG],SSRIs [GPE] ; TCAs [ORG],SSRIs [MEDICATION] ; citalopram [MEDICATION] ; escitalopram [MEDICATION] ; fluoxetine [MEDICATION] ; fluvoxamine [ORG] ; paroxetine [MEDICATION] ; sertraline [MEDICATION]
+39,D02,"Short, self-completed questionnaires (such as the panic subscale of the agoraphobic mobility inventory for individuals with panic disorder) should be used to monitor outcomes wherever possible.",,Short [GPE],panic disorder [CONDITION]

@@ -1,0 +1,15 @@
+Domain term / phrase,A: NLTK stop words -> Snowball,B: lemma -> custom stop words (ours),B-reordered: custom stop words -> lemma,C: no stop words removed -> lemma
+SSRIs,ssris,ssri,ssri,ssri
+self-harm,self-harm,self-harm,self-harm,self-harm
+antidepressants,antidepress,antidepressant,antidepressant,antidepressant
+anxiety,anxieti,anxiety,anxiety,anxiety
+generalised anxiety disorder,generalis anxieti disord,generalised anxiety disorder,generalised anxiety disorder,generalised anxiety disorder
+panic disorder,panic disord,panic disorder,panic disorder,panic disorder
+PTSD,ptsd,ptsd,ptsd,ptsd
+CBT,cbt,cbt,cbt,cbt
+side effects,side effect,side effect,side effect,side effect
+988,988,988,988,988
+do not stop taking,stop take,not stop take,not stop take,do not stop take
+should not be used,use,should not use,should not use,should not be use
+talking therapies,talk therapi,talk therapy,talk therapy,talk therapy
+sleeping,sleep,sleep,sleep,sleep

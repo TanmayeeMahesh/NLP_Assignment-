@@ -1,0 +1,276 @@
+System,sent_id,Entity,Predicted Type,Gold Type,Correct?
+spaCy (default),2,daily,DATE,DATE,Correct
+spaCy (default),2,antidepressants,(not found),MEDICATION,Missed
+spaCy (default),4,depression,(not found),CONDITION,Missed
+spaCy (default),5,UNODC,ORG,ORG,Correct
+spaCy (default),5,2020,DATE,DATE,Correct
+spaCy (default),5,WHO,(not found),ORG,Missed
+spaCy (default),6,Healthcare,ORG,not an entity,Incorrect
+spaCy (default),8,depression,(not found),CONDITION,Missed
+spaCy (default),9,Tardelli,PERSON,PERSON,Correct
+spaCy (default),9,2020,DATE,DATE,Correct
+spaCy (default),9,Nourredine,PERSON,PERSON,Correct
+spaCy (default),9,2021,DATE,DATE,Correct
+spaCy (default),9,Chan et al.,PERSON,not an entity,Incorrect
+spaCy (default),9,2020,DATE,DATE,Correct
+spaCy (default),9,Buchholz,GPE,PERSON,Incorrect
+spaCy (default),9,Saxon,PERSON,PERSON,Correct
+spaCy (default),9,2019,DATE,DATE,Correct
+spaCy (default),9,Chan et al.,PERSON,not an entity,Incorrect
+spaCy (default),9,2019,DATE,DATE,Correct
+spaCy (default),9,Chan,(not found),PERSON,Missed
+spaCy (default),9,Chan,(not found),PERSON,Missed
+spaCy (default),9,Buchholz,(not found),PERSON,Missed
+spaCy (default),10,at least 2 weeks,DATE,DATE,Correct
+spaCy (default),10,daily,DATE,DATE,Correct
+spaCy (default),10,Major depression,(not found),CONDITION,Missed
+spaCy (default),11,baclofen,(not found),MEDICATION,Missed
+spaCy (default),11,baclofen,(not found),MEDICATION,Missed
+spaCy (default),12,depression,(not found),CONDITION,Missed
+spaCy (default),14,GAD,ORG,CONDITION,Incorrect
+spaCy (default),14,GAD,(not found),CONDITION,Missed
+spaCy (default),14,anxiety,(not found),CONDITION,Missed
+spaCy (default),15,Boumparis N,ORG,PERSON,Incorrect
+spaCy (default),15,Schaub MP,PERSON,PERSON,Correct
+spaCy (default),15,Boumparis N,(not found),PERSON,Missed
+spaCy (default),15,Khazaal Y,(not found),PERSON,Missed
+spaCy (default),15,Krupchanka D,(not found),PERSON,Missed
+spaCy (default),16,brain stimulation therapy,(not found),THERAPY,Missed
+spaCy (default),16,psychotherapy,(not found),THERAPY,Missed
+spaCy (default),16,depression,(not found),CONDITION,Missed
+spaCy (default),17,GAD,ORG,CONDITION,Incorrect
+spaCy (default),17,GAD,(not found),CONDITION,Missed
+spaCy (default),17,acceptance and commitment therapy,(not found),THERAPY,Missed
+spaCy (default),17,ACT,(not found),THERAPY,Missed
+spaCy (default),18,panic disorder,(not found),CONDITION,Missed
+spaCy (default),19,hypersomnia,GPE,CONDITION,Incorrect
+spaCy (default),19,hypersomnia,(not found),CONDITION,Missed
+spaCy (default),20,Action Alliance for Suicide Prevention,(not found),ORG,Missed
+spaCy (default),21,ARFID,ORG,CONDITION,Incorrect
+spaCy (default),21,ARFID,(not found),CONDITION,Missed
+spaCy (default),22,thyroid disorders,(not found),CONDITION,Missed
+spaCy (default),22,depression,(not found),CONDITION,Missed
+spaCy (default),23,eating disorders,(not found),CONDITION,Missed
+spaCy (default),23,depression,(not found),CONDITION,Missed
+spaCy (default),23,anxiety,(not found),CONDITION,Missed
+spaCy (default),23,substance use disorders,(not found),CONDITION,Missed
+spaCy (default),24,at least six months,DATE,DATE,Correct
+spaCy (default),25,LMICs,(not found),GPE,Missed
+spaCy (default),26,anxiety,(not found),CONDITION,Missed
+spaCy (default),26,depression,(not found),CONDITION,Missed
+spaCy (default),27,GAD,ORG,CONDITION,Incorrect
+spaCy (default),27,months,DATE,DATE,Correct
+spaCy (default),27,years,DATE,DATE,Correct
+spaCy (default),27,GAD,(not found),CONDITION,Missed
+spaCy (default),27,anxiety,(not found),CONDITION,Missed
+spaCy (default),28,the 988 Suicide & Crisis Lifeline,ORG,not an entity,Incorrect
+spaCy (default),28,988 Suicide & Crisis Lifeline,(not found),ORG,Missed
+spaCy (default),28,988,(not found),HELPLINE,Missed
+spaCy (default),29,TAU,ORG,not an entity,Incorrect
+spaCy (default),30,PTSD,(not found),CONDITION,Missed
+spaCy (default),31,Focus,ORG,not an entity,Incorrect
+spaCy (default),32,panic disorder,(not found),CONDITION,Missed
+spaCy (default),33,Mind Plan,(not found),PRODUCT,Missed
+spaCy (default),33,Every Mind Matters,(not found),ORG,Missed
+spaCy (default),35,depression,(not found),CONDITION,Missed
+spaCy (default),36,antidepressants,(not found),MEDICATION,Missed
+spaCy (default),37,CBT,ORG,THERAPY,Incorrect
+spaCy (default),37,sertraline,(not found),MEDICATION,Missed
+spaCy (default),37,CBT,(not found),THERAPY,Missed
+spaCy (default),38,fluvoxamine,ORG,MEDICATION,Incorrect
+spaCy (default),38,SSRIs,(not found),MEDICATION,Missed
+spaCy (default),38,citalopram,(not found),MEDICATION,Missed
+spaCy (default),38,escitalopram,(not found),MEDICATION,Missed
+spaCy (default),38,fluoxetine,(not found),MEDICATION,Missed
+spaCy (default),38,fluvoxamine,(not found),MEDICATION,Missed
+spaCy (default),38,paroxetine,(not found),MEDICATION,Missed
+spaCy (default),38,sertraline,(not found),MEDICATION,Missed
+spaCy (default),38,TCAs,(not found),MEDICATION,Missed
+spaCy (default),38,amitriptyline,(not found),MEDICATION,Missed
+spaCy (default),39,panic disorder,(not found),CONDITION,Missed
+NLTK ne_chunk (default),0,ICD-11,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),2,daily,(not found),DATE,Missed
+NLTK ne_chunk (default),2,antidepressants,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),3,ANX2,ORG,not an entity,Incorrect
+NLTK ne_chunk (default),4,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),5,Source,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),5,UNODC,ORG,ORG,Correct
+NLTK ne_chunk (default),5,WHO,(not found),ORG,Missed
+NLTK ne_chunk (default),5,2020,(not found),DATE,Missed
+NLTK ne_chunk (default),6,Healthcare,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),8,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),9,Nourredine,PERSON,PERSON,Correct
+NLTK ne_chunk (default),9,Buchholz,PERSON,PERSON,Correct
+NLTK ne_chunk (default),9,Saxon,PERSON,PERSON,Correct
+NLTK ne_chunk (default),9,Tardelli,(not found),PERSON,Missed
+NLTK ne_chunk (default),9,2020,(not found),DATE,Missed
+NLTK ne_chunk (default),9,2020,(not found),DATE,Missed
+NLTK ne_chunk (default),9,2021,(not found),DATE,Missed
+NLTK ne_chunk (default),9,Chan,(not found),PERSON,Missed
+NLTK ne_chunk (default),9,Chan,(not found),PERSON,Missed
+NLTK ne_chunk (default),9,2019,(not found),DATE,Missed
+NLTK ne_chunk (default),9,2019,(not found),DATE,Missed
+NLTK ne_chunk (default),10,Major depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),10,at least 2 weeks,(not found),DATE,Missed
+NLTK ne_chunk (default),10,daily,(not found),DATE,Missed
+NLTK ne_chunk (default),11,baclofen,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),11,baclofen,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),12,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),13,Full,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),14,GAD,(not found),CONDITION,Missed
+NLTK ne_chunk (default),14,anxiety,(not found),CONDITION,Missed
+NLTK ne_chunk (default),15,Boumparis N,PERSON,PERSON,Correct
+NLTK ne_chunk (default),15,Khazaal Y,PERSON,PERSON,Correct
+NLTK ne_chunk (default),15,Krupchanka D,PERSON,PERSON,Correct
+NLTK ne_chunk (default),15,Schaub MP,PERSON,PERSON,Correct
+NLTK ne_chunk (default),16,brain stimulation therapy,(not found),THERAPY,Missed
+NLTK ne_chunk (default),16,psychotherapy,(not found),THERAPY,Missed
+NLTK ne_chunk (default),16,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),17,GAD,ORG,CONDITION,Incorrect
+NLTK ne_chunk (default),17,ACT,ORG,THERAPY,Incorrect
+NLTK ne_chunk (default),17,GAD,(not found),CONDITION,Missed
+NLTK ne_chunk (default),17,acceptance and commitment therapy,(not found),THERAPY,Missed
+NLTK ne_chunk (default),17,ACT,(not found),THERAPY,Missed
+NLTK ne_chunk (default),18,panic disorder,(not found),CONDITION,Missed
+NLTK ne_chunk (default),19,Young,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),19,hypersomnia,(not found),CONDITION,Missed
+NLTK ne_chunk (default),20,Action,PERSON,not an entity,Incorrect
+NLTK ne_chunk (default),20,Alliance,ORG,not an entity,Incorrect
+NLTK ne_chunk (default),20,Suicide,PERSON,not an entity,Incorrect
+NLTK ne_chunk (default),20,Action Alliance for Suicide Prevention,(not found),ORG,Missed
+NLTK ne_chunk (default),21,ARFID,ORG,CONDITION,Incorrect
+NLTK ne_chunk (default),21,ARFID,(not found),CONDITION,Missed
+NLTK ne_chunk (default),22,Certain,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),22,thyroid disorders,(not found),CONDITION,Missed
+NLTK ne_chunk (default),22,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),23,eating disorders,(not found),CONDITION,Missed
+NLTK ne_chunk (default),23,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),23,anxiety,(not found),CONDITION,Missed
+NLTK ne_chunk (default),23,substance use disorders,(not found),CONDITION,Missed
+NLTK ne_chunk (default),24,at least six months,(not found),DATE,Missed
+NLTK ne_chunk (default),25,Further,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),25,LMICs,ORG,GPE,Incorrect
+NLTK ne_chunk (default),25,LMICs,(not found),GPE,Missed
+NLTK ne_chunk (default),26,Support,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),26,anxiety,(not found),CONDITION,Missed
+NLTK ne_chunk (default),26,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),27,GAD,ORG,CONDITION,Incorrect
+NLTK ne_chunk (default),27,GAD,(not found),CONDITION,Missed
+NLTK ne_chunk (default),27,anxiety,(not found),CONDITION,Missed
+NLTK ne_chunk (default),27,months,(not found),DATE,Missed
+NLTK ne_chunk (default),27,years,(not found),DATE,Missed
+NLTK ne_chunk (default),28,Crisis Lifeline,PERSON,not an entity,Incorrect
+NLTK ne_chunk (default),28,988 Suicide & Crisis Lifeline,(not found),ORG,Missed
+NLTK ne_chunk (default),28,988,(not found),HELPLINE,Missed
+NLTK ne_chunk (default),29,TAU,ORG,not an entity,Incorrect
+NLTK ne_chunk (default),30,PTSD,ORG,CONDITION,Incorrect
+NLTK ne_chunk (default),30,PTSD,(not found),CONDITION,Missed
+NLTK ne_chunk (default),31,Focus,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),32,panic disorder,(not found),CONDITION,Missed
+NLTK ne_chunk (default),33,Mind Plan,(not found),PRODUCT,Missed
+NLTK ne_chunk (default),33,Every Mind Matters,(not found),ORG,Missed
+NLTK ne_chunk (default),35,depression,(not found),CONDITION,Missed
+NLTK ne_chunk (default),36,antidepressants,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),37,CBT,ORG,THERAPY,Incorrect
+NLTK ne_chunk (default),37,sertraline,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),37,CBT,(not found),THERAPY,Missed
+NLTK ne_chunk (default),38,SSRIs,GPE,MEDICATION,Incorrect
+NLTK ne_chunk (default),38,TCAs,ORG,MEDICATION,Incorrect
+NLTK ne_chunk (default),38,SSRIs,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,citalopram,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,escitalopram,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,fluoxetine,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,fluvoxamine,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,paroxetine,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,sertraline,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,TCAs,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),38,amitriptyline,(not found),MEDICATION,Missed
+NLTK ne_chunk (default),39,Short,GPE,not an entity,Incorrect
+NLTK ne_chunk (default),39,panic disorder,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),2,daily,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),2,antidepressants,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),4,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),5,WHO,ORG,ORG,Correct
+spaCy + domain EntityRuler (custom),5,UNODC,ORG,ORG,Correct
+spaCy + domain EntityRuler (custom),5,2020,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),6,Healthcare,ORG,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),6,self-harm,CONDITION,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),8,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),9,Tardelli,PERSON,PERSON,Correct
+spaCy + domain EntityRuler (custom),9,2020,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),9,Nourredine,PERSON,PERSON,Correct
+spaCy + domain EntityRuler (custom),9,2021,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),9,Chan et al.,PERSON,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),9,2020,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),9,Buchholz,GPE,PERSON,Incorrect
+spaCy + domain EntityRuler (custom),9,Saxon,PERSON,PERSON,Correct
+spaCy + domain EntityRuler (custom),9,2019,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),9,Chan et al.,PERSON,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),9,2019,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),9,Chan,(not found),PERSON,Missed
+spaCy + domain EntityRuler (custom),9,Chan,(not found),PERSON,Missed
+spaCy + domain EntityRuler (custom),9,Buchholz,(not found),PERSON,Missed
+spaCy + domain EntityRuler (custom),10,depression,CONDITION,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),10,at least 2 weeks,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),10,daily,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),10,Major depression,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),11,baclofen,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),11,baclofen,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),12,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),14,GAD,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),14,anxiety,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),15,Boumparis N,ORG,PERSON,Incorrect
+spaCy + domain EntityRuler (custom),15,Schaub MP,PERSON,PERSON,Correct
+spaCy + domain EntityRuler (custom),15,Boumparis N,(not found),PERSON,Missed
+spaCy + domain EntityRuler (custom),15,Khazaal Y,(not found),PERSON,Missed
+spaCy + domain EntityRuler (custom),15,Krupchanka D,(not found),PERSON,Missed
+spaCy + domain EntityRuler (custom),16,psychotherapy,THERAPY,THERAPY,Correct
+spaCy + domain EntityRuler (custom),16,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),16,brain stimulation therapy,(not found),THERAPY,Missed
+spaCy + domain EntityRuler (custom),17,GAD,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),17,acceptance and commitment therapy,(not found),THERAPY,Missed
+spaCy + domain EntityRuler (custom),17,ACT,(not found),THERAPY,Missed
+spaCy + domain EntityRuler (custom),18,panic disorder,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),19,hypersomnia,GPE,CONDITION,Incorrect
+spaCy + domain EntityRuler (custom),19,hypersomnia,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),20,Action Alliance for Suicide Prevention,(not found),ORG,Missed
+spaCy + domain EntityRuler (custom),21,ARFID,ORG,CONDITION,Incorrect
+spaCy + domain EntityRuler (custom),21,ARFID,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),22,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),22,thyroid disorders,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),23,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),23,anxiety,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),23,eating disorders,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),23,substance use disorders,(not found),CONDITION,Missed
+spaCy + domain EntityRuler (custom),24,at least six months,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),25,LMICs,(not found),GPE,Missed
+spaCy + domain EntityRuler (custom),26,anxiety,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),26,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),27,GAD,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),27,anxiety,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),27,months,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),27,years,DATE,DATE,Correct
+spaCy + domain EntityRuler (custom),28,988,HELPLINE,HELPLINE,Correct
+spaCy + domain EntityRuler (custom),28,988,HELPLINE,HELPLINE,Incorrect
+spaCy + domain EntityRuler (custom),28,988 Suicide & Crisis Lifeline,(not found),ORG,Missed
+spaCy + domain EntityRuler (custom),29,TAU,ORG,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),30,PTSD,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),31,Focus,ORG,not an entity,Incorrect
+spaCy + domain EntityRuler (custom),32,panic disorder,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),33,Mind Plan,(not found),PRODUCT,Missed
+spaCy + domain EntityRuler (custom),33,Every Mind Matters,(not found),ORG,Missed
+spaCy + domain EntityRuler (custom),35,depression,CONDITION,CONDITION,Correct
+spaCy + domain EntityRuler (custom),36,antidepressants,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),37,sertraline,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),37,CBT,THERAPY,THERAPY,Correct
+spaCy + domain EntityRuler (custom),38,SSRIs,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),38,citalopram,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),38,escitalopram,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),38,fluoxetine,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),38,fluvoxamine,ORG,MEDICATION,Incorrect
+spaCy + domain EntityRuler (custom),38,paroxetine,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),38,sertraline,MEDICATION,MEDICATION,Correct
+spaCy + domain EntityRuler (custom),38,fluvoxamine,(not found),MEDICATION,Missed
+spaCy + domain EntityRuler (custom),38,TCAs,(not found),MEDICATION,Missed
+spaCy + domain EntityRuler (custom),38,amitriptyline,(not found),MEDICATION,Missed
+spaCy + domain EntityRuler (custom),39,panic disorder,CONDITION,CONDITION,Correct

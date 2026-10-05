@@ -1,0 +1,21 @@
+n,N-gram type,List,Rank,N-gram,Frequency,Relative frequency (%)
+2,Bigram,raw,1,mental health,122,0.335
+2,Bigram,raw,2,of the,116,0.318
+2,Bigram,raw,3,should be,112,0.307
+2,Bigram,raw,4,may be,110,0.302
+2,Bigram,raw,5,adults with,106,0.291
+2,Bigram,raw,6,such as,105,0.288
+2,Bigram,raw,7,people with,98,0.269
+2,Bigram,raw,8,in the,95,0.261
+2,Bigram,raw,9,for people,77,0.211
+2,Bigram,raw,10,et al,77,0.211
+2,Bigram,phrase,1,mental health,122,0.335
+2,Bigram,phrase,2,psychological interventions,70,0.192
+2,Bigram,phrase,3,health care,60,0.165
+2,Bigram,phrase,4,panic disorder,56,0.154
+2,Bigram,phrase,5,use disorders,56,0.154
+2,Bigram,phrase,6,side effects,54,0.148
+2,Bigram,phrase,7,drug use,49,0.134
+2,Bigram,phrase,8,low certainty,45,0.123
+2,Bigram,phrase,9,psychosocial interventions,44,0.121
+2,Bigram,phrase,10,digital interventions,38,0.104

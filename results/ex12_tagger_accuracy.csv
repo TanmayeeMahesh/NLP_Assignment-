@@ -1,0 +1,7 @@
+Tagger,Accuracy (%),Domain-token accuracy (%),Improvement vs best default (pts),Domain improvement vs best default (pts)
+Default: NLTK perceptron,84.8,0.0,0.0,0.0
+Default: spaCy,84.8,0.0,0.0,0.0
+Custom: rule-based (dictionary + regex),84.8,0.0,0.0,0.0
+ML: n-gram backoff (Treebank only),74.6,0.0,-10.2,0.0
+ML: n-gram backoff (Treebank + domain),84.2,73.9,-0.6,73.9
+ML: KNN (K=3),82.8,78.3,-2.0,78.3

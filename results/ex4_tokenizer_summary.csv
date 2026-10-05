@@ -1,0 +1,6 @@
+Tokenizer,Token count,Vocabulary size,Tokens per word (vs split)
+NLTK,46218,4356,1.16
+spaCy,47429,4254,1.19
+Custom,46128,4367,1.15
+Hybrid,46147,4360,1.15
+BPE,60843,1840,1.52

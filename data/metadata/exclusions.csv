@@ -1,0 +1,13 @@
+candidate,category,decision,reason
+DSM-5-TR,diagnostic_manual,excluded,"Professional diagnostic criteria, commercially copyrighted; not guidance on what a support reply should say"
+ICD-11,diagnostic_manual,excluded,"Openly accessible but a diagnostic classification, not consumer guidance"
+CounselChat / Kaggle NLP Mental Health Conversations,conversation_dataset,excluded_from_corpus,Object of evaluation; used only for topic statistics and queries (avoids circularity and leakage)
+CounselBench,conversation_dataset,excluded_from_corpus,"Evaluation data for the final project, not evidence"
+"National Suicide Prevention Strategy (India, 2022)",policy,excluded,"Population-level policy targets, not guidance for individual conversations"
+Third-party mirrors of NICE/WHO PDFs,mirror,excluded,Use publisher originals for provenance
+Wikipedia / blogs,unofficial,excluded,Not authoritative; content changes without review
+D15 MedlinePlus Sertraline,drug_information,deferred,Frozen corpus v1.0 (time); AHFS-licensed text
+D18 Grief and bereavement,public_information,deferred,No official source confirmed in time; recorded as coverage gap
+D21 NHS Alcohol support,public_information,deferred,Optional; outside frozen v1.0
+D22 NICE CG113 treatment manuals (DOCX),guideline_section,deferred,Optional; outside frozen v1.0
+D23 Crisis resources table (CSV),crisis_resource,deferred,Optional; outside frozen v1.0

@@ -1,0 +1,15 @@
+Query ID,Query,Type,Mode,Information need,Relevant documents,Number relevant
+Q01,anxiety,Keyword,keyword,Information about anxiety and anxiety disorders,"D02, D04, D08, D16",4
+Q02,panic disorder,Phrase,phrase,Diagnosis and treatment of panic disorder,"D02, D04",2
+Q03,generalised anxiety disorder,Phrase,phrase,Generalised anxiety disorder (GAD),"D02, D04, D08",3
+Q04,antidepressant side effects,Keyword (multi-word),keyword,Side effects of antidepressants,"D01, D02, D04, D08, D14",5
+Q05,how to stop taking antidepressants safely,Keyword (natural language),keyword,How to stop or come off antidepressants safely,"D02, D04, D14",3
+Q06,alcohol AND medication,Boolean AND,boolean,Medicines for alcohol use disorders,D24,1
+Q07,suicide OR self-harm,Boolean OR,boolean,"Suicide or self-harm: risk, support, treatment","D03, D11",2
+Q08,depression AND NOT anxiety,Boolean NOT,boolean,Documents dedicated to depression rather than anxiety,"D01, D06, D07",3
+Q09,trouble sleeping,Keyword,keyword,Help with sleep problems,D17,1
+Q10,PTSD OR trauma,Boolean OR,boolean,Post-traumatic stress disorder,D09,1
+Q11,crisis helpline,Keyword (natural language),keyword,A phone number to call in a mental-health crisis,"D07, D08, D09, D10, D11, D13, D14, D16",8
+Q12,low self-esteem,Phrase,phrase,Low self-esteem and how to raise it,D12,1
+Q13,loneliness,Keyword,keyword,Help with loneliness,D13,1
+Q14,"""drug use disorders"" AND psychosocial",Combined (phrase + AND),boolean,Psychosocial treatment of drug use disorders,D25,1

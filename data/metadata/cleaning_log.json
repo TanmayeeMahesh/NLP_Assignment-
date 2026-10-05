@@ -1,0 +1,968 @@
+{
+  "D01": {
+    "chars_before": 178251,
+    "chars_after": 152563,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "special_spaces": 145,
+        "bullet_glyphs": 543,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -20732,
+        "repeated_lines_removed": 526,
+        "page_number_lines_removed": 6,
+        "examples": [
+          "Depression in adults: treatment and management (NG222)",
+          "111",
+          "© NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.",
+          "conditions#notice-of-rights).",
+          "5"
+        ]
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": -128,
+        "toc_lines_removed": 2
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": -12,
+        "kept_hyphen": 22,
+        "joined": 12
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -4061,
+        "lines_joined": 2217
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -755
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D02": {
+    "chars_before": 72868,
+    "chars_after": 60415,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "special_spaces": 87,
+        "bullet_glyphs": 139,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -9306,
+        "repeated_lines_removed": 229,
+        "page_number_lines_removed": 0,
+        "examples": [
+          "© NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.",
+          "conditions#notice-of-rights).",
+          "Generalised anxiety disorder and panic disorder in adults: management (CG113)",
+          "42",
+          "Page 2 of"
+        ]
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": -1847,
+        "toc_lines_removed": 15
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": -3,
+        "kept_hyphen": 9,
+        "joined": 3
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -1015,
+        "lines_joined": 493
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -282
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D03": {
+    "chars_before": 147928,
+    "chars_after": 122146,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "special_spaces": 58,
+        "bullet_glyphs": 243,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -15873,
+        "repeated_lines_removed": 378,
+        "page_number_lines_removed": 0,
+        "examples": [
+          "© NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.",
+          "conditions#notice-of-rights).",
+          "Self-harm: assessment, management and preventing recurrence (NG225)",
+          "76",
+          "of 76"
+        ]
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": -7497,
+        "toc_lines_removed": 54
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": -1,
+        "kept_hyphen": 32,
+        "joined": 1
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -1917,
+        "lines_joined": 1003
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -494
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D04": {
+    "chars_before": 512503,
+    "chars_after": 403170,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": -4,
+        "ligatures": 4,
+        "curly_quotes": 256,
+        "special_spaces": 85,
+        "bullet_glyphs": 1036,
+        "private_use_glyphs": 0,
+        "control_chars": 2
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -9413,
+        "repeated_lines_removed": 238,
+        "page_number_lines_removed": 0,
+        "examples": [
+          "Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological an",
+          "86",
+          "88",
+          "108",
+          "115"
+        ]
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": -9,
+        "toc_lines_removed": 1
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": -90221,
+        "cut_at_line": 10196,
+        "heading": "References",
+        "chars_removed": 90220
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": -10,
+        "kept_hyphen": 78,
+        "joined": 10
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -8217,
+        "lines_joined": 5593
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -1459
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D06": {
+    "chars_before": 9042,
+    "chars_after": 8036,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "curly_quotes": 8,
+        "special_spaces": 7,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "lines_removed": 0
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": -1007,
+        "cut_at_line": 77,
+        "heading": "References",
+        "chars_removed": 1006
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": 1
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D07": {
+    "chars_before": 16851,
+    "chars_after": 16849,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "curly_quotes": 15,
+        "special_spaces": 7,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 0,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "lines_joined": 62
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -2
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D08": {
+    "chars_before": 12363,
+    "chars_after": 12357,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "curly_quotes": 15,
+        "special_spaces": 21,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 0,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "kept_hyphen": 1
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -1,
+        "lines_joined": 49
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -5
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D09": {
+    "chars_before": 13869,
+    "chars_after": 13652,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 50,
+        "curly_quotes": 5,
+        "bullet_glyphs": 50,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 0,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -204,
+        "lines_joined": 101
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -63
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D10": {
+    "chars_before": 10035,
+    "chars_after": 9781,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 59,
+        "curly_quotes": 10,
+        "special_spaces": 1,
+        "bullet_glyphs": 59,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 0,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "kept_hyphen": 3
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -233,
+        "lines_joined": 107
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -80
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D11": {
+    "chars_before": 11552,
+    "chars_after": 11361,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 31,
+        "curly_quotes": 15,
+        "special_spaces": 3,
+        "bullet_glyphs": 31,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 0,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -167,
+        "lines_joined": 94
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -55
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D12": {
+    "chars_before": 5540,
+    "chars_after": 5475,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "special_spaces": 4,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": -65,
+        "lines_removed": 2,
+        "page_last_reviewed": "11 April 2023"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": 0
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D13": {
+    "chars_before": 5133,
+    "chars_after": 5070,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "curly_quotes": 1,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": -63,
+        "lines_removed": 2,
+        "page_last_reviewed": "22 July 2026"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": 0
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D14": {
+    "chars_before": 9359,
+    "chars_after": 9296,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": -63,
+        "lines_removed": 2,
+        "page_last_reviewed": "12 June 2025"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": 0
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D16": {
+    "chars_before": 5194,
+    "chars_after": 5174,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": -3,
+        "curly_quotes": 9,
+        "special_spaces": 2,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 3,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -12,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 3,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -2,
+        "lines_joined": 23
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -3
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D17": {
+    "chars_before": 6316,
+    "chars_after": 6316,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "curly_quotes": 1,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "lines_removed": 0
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "skipped": "not pdf"
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": 0
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D20": {
+    "chars_before": 77,
+    "chars_after": 71,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": 0,
+        "bullet_glyphs": 0,
+        "private_use_glyphs": 0,
+        "control_chars": 0
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": 0,
+        "repeated_lines_removed": 0,
+        "page_number_lines_removed": 0,
+        "examples": []
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": 0,
+        "toc_lines_removed": 0
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": 0,
+        "cut_at_line": null
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": 0
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": 0,
+        "lines_joined": 0
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -6
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:03"
+  },
+  "D24": {
+    "chars_before": 512503,
+    "chars_after": 403170,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": -4,
+        "ligatures": 4,
+        "curly_quotes": 256,
+        "special_spaces": 85,
+        "bullet_glyphs": 1036,
+        "private_use_glyphs": 0,
+        "control_chars": 2
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -9413,
+        "repeated_lines_removed": 238,
+        "page_number_lines_removed": 0,
+        "examples": [
+          "Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological an",
+          "86",
+          "88",
+          "108",
+          "115"
+        ]
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": -9,
+        "toc_lines_removed": 1
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": -90221,
+        "cut_at_line": 10196,
+        "heading": "References",
+        "chars_removed": 90220
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": -10,
+        "kept_hyphen": 78,
+        "joined": 10
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -8217,
+        "lines_joined": 5593
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -1459
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:04"
+  },
+  "D25": {
+    "chars_before": 512503,
+    "chars_after": 403170,
+    "steps": [
+      {
+        "rule": "normalise_characters",
+        "chars_delta": -4,
+        "ligatures": 4,
+        "curly_quotes": 256,
+        "special_spaces": 85,
+        "bullet_glyphs": 1036,
+        "private_use_glyphs": 0,
+        "control_chars": 2
+      },
+      {
+        "rule": "html_boilerplate",
+        "chars_delta": 0,
+        "skipped": "not html"
+      },
+      {
+        "rule": "headers_footers",
+        "chars_delta": -9413,
+        "repeated_lines_removed": 238,
+        "page_number_lines_removed": 0,
+        "examples": [
+          "Mental Health Gap Action Programme (mhGAP) guideline for mental, neurological an",
+          "86",
+          "88",
+          "108",
+          "115"
+        ]
+      },
+      {
+        "rule": "toc_lines",
+        "chars_delta": -9,
+        "toc_lines_removed": 1
+      },
+      {
+        "rule": "reference_section",
+        "chars_delta": -90221,
+        "cut_at_line": 10196,
+        "heading": "References",
+        "chars_removed": 90220
+      },
+      {
+        "rule": "hyphenated_linebreaks",
+        "chars_delta": -10,
+        "kept_hyphen": 78,
+        "joined": 10
+      },
+      {
+        "rule": "unwrap_lines",
+        "chars_delta": -8217,
+        "lines_joined": 5593
+      },
+      {
+        "rule": "whitespace",
+        "chars_delta": -1459
+      }
+    ],
+    "cleaned_at": "2026-10-05T06:42:04"
+  }
+}

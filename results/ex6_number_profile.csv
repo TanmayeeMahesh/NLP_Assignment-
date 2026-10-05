@@ -1,0 +1,13 @@
+Category,Occurrences,Documents,Examples
+dose,0,0,
+duration,72,14,6 months | 2 weeks | 12 weeks | 6–12 months | 8 weeks | 12 to 16 weeks
+age,8,6,"aged 18 to
+25 | ages 18–64 | aged 70 | 15–29-year-olds | age 6 | aged 24"
+sessions / frequency,8,5,1 session | 15 to 20 sessions | 10 sessions | 8–10 sessions | 1–20 sessions | 5 times
+percentage,35,4,95% | 3% | 9% | 5.2% | 85.5% | 63.9%
+helpline number,28,8,988 | 111 | 1-866-615-6464 | 999 | 1-800-662-4357
+NICE year tag,56,2,"[2004] | [2022] | [2011] | [2004, amended 2020] | [2009, amended 2022] | [2009]"
+calendar date,4,2,10/4/26 | 11 September 2026
+year,168,11,2004 | 2020 | 2021 | 2019 | 2023 | 2022
+recommendation ID,73,3,1.2.30 | 1.4.41 | 1.5.1 | 1.5.2 | 1.5.3 | 1.6.1
+statistical value,23,3,0.31 | 0.74 | 0.33 | 0.72 | 0.30 | 0.84

@@ -1,0 +1,3696 @@
+{
+  "D01": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 111,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [
+      [
+        1,
+        "Depression in adults: treatment and management",
+        1
+      ],
+      [
+        2,
+        "Your responsibility",
+        2
+      ],
+      [
+        2,
+        "Contents",
+        3
+      ],
+      [
+        2,
+        "Overview",
+        5
+      ],
+      [
+        3,
+        "Who is it for?",
+        5
+      ],
+      [
+        2,
+        "Recommendations",
+        6
+      ],
+      [
+        3,
+        "1.1 Principles of care",
+        8
+      ],
+      [
+        4,
+        "1.1.1",
+        8
+      ],
+      [
+        4,
+        "Providing information and support",
+        8
+      ],
+      [
+        5,
+        "1.1.2",
+        8
+      ],
+      [
+        5,
+        "1.1.3",
+        8
+      ],
+      [
+        5,
+        "1.1.4",
+        8
+      ],
+      [
+        3,
+        "1.2 Recognition and assessment",
+        8
+      ],
+      [
+        4,
+        "1.2.1",
+        8
+      ],
+      [
+        4,
+        "1.2.2",
+        9
+      ],
+      [
+        4,
+        "1.2.3",
+        9
+      ],
+      [
+        4,
+        "1.2.4",
+        9
+      ],
+      [
+        4,
+        "1.2.5",
+        9
+      ],
+      [
+        4,
+        "Initial assessment",
+        10
+      ],
+      [
+        5,
+        "1.2.6",
+        10
+      ],
+      [
+        5,
+        "1.2.7",
+        10
+      ],
+      [
+        4,
+        "Risk assessment and management",
+        10
+      ],
+      [
+        5,
+        "1.2.8",
+        10
+      ],
+      [
+        5,
+        "1.2.9",
+        11
+      ],
+      [
+        5,
+        "1.2.10",
+        11
+      ],
+      [
+        5,
+        "1.2.11",
+        11
+      ],
+      [
+        5,
+        "1.2.12",
+        11
+      ],
+      [
+        4,
+        "Depression with anxiety",
+        12
+      ],
+      [
+        5,
+        "1.2.13",
+        12
+      ],
+      [
+        4,
+        "Depression in people with acquired cognitive impairments",
+        12
+      ],
+      [
+        5,
+        "1.2.14",
+        12
+      ],
+      [
+        5,
+        "1.2.15",
+        12
+      ],
+      [
+        3,
+        "1.3 Choice of treatments",
+        13
+      ],
+      [
+        4,
+        "1.3.1",
+        13
+      ],
+      [
+        4,
+        "1.3.2",
+        13
+      ],
+      [
+        4,
+        "1.3.3",
+        13
+      ],
+      [
+        4,
+        "1.3.4",
+        14
+      ],
+      [
+        3,
+        "1.4 Delivery of treatments",
+        14
+      ],
+      [
+        4,
+        "All treatments",
+        14
+      ],
+      [
+        5,
+        "1.4.1",
+        14
+      ],
+      [
+        5,
+        "1.4.2",
+        15
+      ],
+      [
+        5,
+        "1.4.3",
+        15
+      ],
+      [
+        4,
+        "Psychological and psychosocial interventions",
+        16
+      ],
+      [
+        5,
+        "1.4.4",
+        16
+      ],
+      [
+        5,
+        "1.4.5",
+        16
+      ],
+      [
+        5,
+        "1.4.6",
+        16
+      ],
+      [
+        5,
+        "1.4.7",
+        16
+      ],
+      [
+        5,
+        "1.4.8",
+        16
+      ],
+      [
+        5,
+        "1.4.9",
+        17
+      ],
+      [
+        4,
+        "Pharmacological treatments",
+        17
+      ],
+      [
+        5,
+        "Starting antidepressant medication",
+        17
+      ],
+      [
+        6,
+        "1.4.10",
+        17
+      ],
+      [
+        6,
+        "1.4.11",
+        17
+      ],
+      [
+        5,
+        "Stopping antidepressant medication",
+        18
+      ],
+      [
+        6,
+        "1.4.12",
+        18
+      ],
+      [
+        6,
+        "1.4.13",
+        18
+      ],
+      [
+        6,
+        "1.4.14",
+        19
+      ],
+      [
+        6,
+        "1.4.15",
+        19
+      ],
+      [
+        6,
+        "1.4.16",
+        20
+      ],
+      [
+        6,
+        "1.4.17",
+        20
+      ],
+      [
+        6,
+        "1.4.18",
+        20
+      ],
+      [
+        6,
+        "1.4.19",
+        21
+      ],
+      [
+        6,
+        "1.4.20",
+        21
+      ],
+      [
+        6,
+        "1.4.21",
+        22
+      ],
+      [
+        5,
+        "Antidepressant medication for people at risk of suicide",
+        22
+      ],
+      [
+        6,
+        "1.4.22",
+        22
+      ],
+      [
+        6,
+        "1.4.23",
+        23
+      ],
+      [
+        5,
+        "Antidepressant medication for older people",
+        23
+      ],
+      [
+        6,
+        "1.4.24",
+        23
+      ],
+      [
+        5,
+        "Use of lithium as augmentation",
+        23
+      ],
+      [
+        6,
+        "1.4.25",
+        23
+      ],
+      [
+        6,
+        "1.4.26",
+        24
+      ],
+      [
+        6,
+        "1.4.27",
+        24
+      ],
+      [
+        6,
+        "1.4.28",
+        24
+      ],
+      [
+        6,
+        "1.4.29",
+        25
+      ],
+      [
+        6,
+        "1.4.30",
+        25
+      ],
+      [
+        6,
+        "1.4.31",
+        25
+      ],
+      [
+        6,
+        "1.4.32",
+        25
+      ],
+      [
+        5,
+        "Use of oral antipsychotics as augmentation",
+        25
+      ],
+      [
+        6,
+        "1.4.33",
+        25
+      ],
+      [
+        6,
+        "1.4.34",
+        26
+      ],
+      [
+        6,
+        "1.4.35",
+        26
+      ],
+      [
+        6,
+        "1.4.36",
+        26
+      ],
+      [
+        6,
+        "1.4.37",
+        26
+      ],
+      [
+        5,
+        "Use of St John's Wort",
+        27
+      ],
+      [
+        6,
+        "1.4.38",
+        27
+      ],
+      [
+        4,
+        "Physical treatments and activities",
+        27
+      ],
+      [
+        5,
+        "Use of light therapy",
+        27
+      ],
+      [
+        6,
+        "1.4.39",
+        27
+      ],
+      [
+        5,
+        "Activities to help wellbeing",
+        27
+      ],
+      [
+        6,
+        "1.4.40",
+        27
+      ],
+      [
+        6,
+        "1.4.41",
+        28
+      ],
+      [
+        3,
+        "1.5 Treatment for a new episode of less severe depression",
+        28
+      ],
+      [
+        4,
+        "Active monitoring in people who do not want treatment",
+        28
+      ],
+      [
+        5,
+        "1.5.1",
+        28
+      ],
+      [
+        4,
+        "Treatment options",
+        29
+      ],
+      [
+        5,
+        "1.5.2",
+        29
+      ],
+      [
+        5,
+        "1.5.3",
+        29
+      ],
+      [
+        5,
+        "Table 1",
+        30
+      ],
+      [
+        3,
+        "1.6 Treatment for a new episode of more severe depression",
+        47
+      ],
+      [
+        4,
+        "Treatment options",
+        47
+      ],
+      [
+        5,
+        "1.6.1",
+        47
+      ],
+      [
+        5,
+        "Table 2",
+        49
+      ],
+      [
+        3,
+        "1.7 Behavioural couples therapy for depression",
+        61
+      ],
+      [
+        4,
+        "1.7.1",
+        61
+      ],
+      [
+        4,
+        "1.7.2",
+        61
+      ],
+      [
+        3,
+        "1.8 Preventing relapse",
+        62
+      ],
+      [
+        4,
+        "1.8.1",
+        62
+      ],
+      [
+        4,
+        "1.8.2",
+        62
+      ],
+      [
+        4,
+        "1.8.3",
+        62
+      ],
+      [
+        4,
+        "1.8.4",
+        63
+      ],
+      [
+        4,
+        "1.8.5",
+        63
+      ],
+      [
+        4,
+        "1.8.6",
+        63
+      ],
+      [
+        4,
+        "1.8.7",
+        63
+      ],
+      [
+        4,
+        "1.8.8",
+        64
+      ],
+      [
+        4,
+        "1.8.9",
+        64
+      ],
+      [
+        4,
+        "1.8.10",
+        64
+      ],
+      [
+        4,
+        "1.8.11",
+        64
+      ],
+      [
+        4,
+        "1.8.12",
+        65
+      ],
+      [
+        3,
+        "1.9 Further-line treatment",
+        65
+      ],
+      [
+        4,
+        "1.9.1",
+        65
+      ],
+      [
+        4,
+        "1.9.2",
+        66
+      ],
+      [
+        4,
+        "1.9.3",
+        66
+      ],
+      [
+        4,
+        "1.9.4",
+        66
+      ],
+      [
+        4,
+        "1.9.5",
+        66
+      ],
+      [
+        4,
+        "1.9.6",
+        67
+      ],
+      [
+        4,
+        "1.9.7",
+        68
+      ],
+      [
+        4,
+        "1.9.8",
+        68
+      ],
+      [
+        4,
+        "1.9.9",
+        68
+      ],
+      [
+        3,
+        "1.10 Chronic depressive symptoms",
+        69
+      ],
+      [
+        4,
+        "1.10.1",
+        69
+      ],
+      [
+        4,
+        "1.10.2",
+        69
+      ],
+      [
+        4,
+        "1.10.3",
+        69
+      ],
+      [
+        4,
+        "1.10.4",
+        70
+      ],
+      [
+        4,
+        "1.10.5",
+        70
+      ],
+      [
+        4,
+        "1.10.6",
+        70
+      ],
+      [
+        4,
+        "1.10.7",
+        70
+      ],
+      [
+        4,
+        "1.10.8",
+        71
+      ],
+      [
+        4,
+        "1.10.9",
+        71
+      ],
+      [
+        3,
+        "1.11 Depression in people with a diagnosis of personality disorder",
+        72
+      ],
+      [
+        4,
+        "1.11.1",
+        72
+      ],
+      [
+        4,
+        "1.11.2",
+        72
+      ],
+      [
+        4,
+        "1.11.3",
+        72
+      ],
+      [
+        4,
+        "1.11.4",
+        72
+      ],
+      [
+        3,
+        "1.12 Psychotic depression",
+        73
+      ],
+      [
+        4,
+        "1.12.1",
+        73
+      ],
+      [
+        4,
+        "1.12.2",
+        73
+      ],
+      [
+        4,
+        "1.12.3",
+        73
+      ],
+      [
+        4,
+        "1.12.4",
+        73
+      ],
+      [
+        4,
+        "1.12.5",
+        73
+      ],
+      [
+        4,
+        "1.12.6",
+        73
+      ],
+      [
+        3,
+        "1.13 Electroconvulsive therapy for depression",
+        74
+      ],
+      [
+        4,
+        "1.13.1",
+        74
+      ],
+      [
+        4,
+        "1.13.2",
+        74
+      ],
+      [
+        4,
+        "1.13.3",
+        75
+      ],
+      [
+        4,
+        "1.13.4",
+        75
+      ],
+      [
+        4,
+        "1.13.5",
+        75
+      ],
+      [
+        4,
+        "1.13.6",
+        75
+      ],
+      [
+        4,
+        "1.13.7",
+        76
+      ],
+      [
+        4,
+        "1.13.8",
+        76
+      ],
+      [
+        4,
+        "1.13.9",
+        76
+      ],
+      [
+        3,
+        "1.14 Transcranial magnetic stimulation for depression",
+        76
+      ],
+      [
+        4,
+        "1.14.1",
+        76
+      ],
+      [
+        3,
+        "1.15 Treatment-resistant depression",
+        77
+      ],
+      [
+        4,
+        "1.15.1",
+        77
+      ],
+      [
+        4,
+        "1.15.2",
+        77
+      ],
+      [
+        3,
+        "1.16 Access, coordination and delivery of care",
+        77
+      ],
+      [
+        4,
+        "Access to services",
+        77
+      ],
+      [
+        5,
+        "1.16.1",
+        77
+      ],
+      [
+        5,
+        "1.16.2",
+        78
+      ],
+      [
+        5,
+        "1.16.3",
+        78
+      ],
+      [
+        5,
+        "1.16.4",
+        79
+      ],
+      [
+        5,
+        "1.16.5",
+        79
+      ],
+      [
+        4,
+        "Collaborative care",
+        80
+      ],
+      [
+        5,
+        "1.16.6",
+        80
+      ],
+      [
+        5,
+        "1.16.7",
+        80
+      ],
+      [
+        4,
+        "Specialist care",
+        81
+      ],
+      [
+        5,
+        "1.16.8",
+        81
+      ],
+      [
+        5,
+        "1.16.9",
+        81
+      ],
+      [
+        4,
+        "Crisis care, home treatment and inpatient care",
+        82
+      ],
+      [
+        5,
+        "1.16.10",
+        82
+      ],
+      [
+        5,
+        "1.16.11",
+        82
+      ],
+      [
+        5,
+        "1.16.12",
+        82
+      ],
+      [
+        5,
+        "1.16.13",
+        83
+      ],
+      [
+        5,
+        "1.16.14",
+        83
+      ],
+      [
+        5,
+        "1.16.15",
+        83
+      ],
+      [
+        3,
+        "Terms used in this guideline",
+        83
+      ],
+      [
+        4,
+        "Acquired cognitive impairments",
+        83
+      ],
+      [
+        4,
+        "Avoidance",
+        84
+      ],
+      [
+        4,
+        "Chronic depressive symptoms",
+        84
+      ],
+      [
+        4,
+        "Collaborative care",
+        84
+      ],
+      [
+        4,
+        "Depression",
+        84
+      ],
+      [
+        4,
+        "Less severe depression",
+        86
+      ],
+      [
+        4,
+        "Medication management",
+        86
+      ],
+      [
+        4,
+        "More severe depression",
+        86
+      ],
+      [
+        4,
+        "Personal and social functioning",
+        86
+      ],
+      [
+        4,
+        "Routine (sessional) outcome monitoring",
+        86
+      ],
+      [
+        4,
+        "Rumination",
+        87
+      ],
+      [
+        4,
+        "Stepped care or matched care",
+        87
+      ],
+      [
+        4,
+        "Treatment manuals",
+        87
+      ],
+      [
+        2,
+        "Recommendations for research",
+        88
+      ],
+      [
+        3,
+        "Key recommendations for research",
+        88
+      ],
+      [
+        4,
+        "1 Stopping antidepressants",
+        88
+      ],
+      [
+        4,
+        "2 Relapse prevention",
+        88
+      ],
+      [
+        4,
+        "3 Further-line treatment",
+        89
+      ],
+      [
+        4,
+        "4 Chronic depression",
+        89
+      ],
+      [
+        4,
+        "5 Access",
+        89
+      ],
+      [
+        3,
+        "Other recommendations for research",
+        90
+      ],
+      [
+        4,
+        "6 First-line treatment of less severe depression",
+        90
+      ],
+      [
+        4,
+        "7 First-line treatment of more severe depression",
+        90
+      ],
+      [
+        4,
+        "8 Chronic depression",
+        91
+      ],
+      [
+        4,
+        "9 Psychotic depression",
+        91
+      ],
+      [
+        4,
+        "10 Electroconvulsive therapy",
+        92
+      ],
+      [
+        2,
+        "Rationale and impact",
+        93
+      ],
+      [
+        3,
+        "Choice of treatments",
+        93
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        93
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        93
+      ],
+      [
+        3,
+        "Starting and stopping antidepressants",
+        93
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        94
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        94
+      ],
+      [
+        3,
+        "Use of lithium as augmentation",
+        94
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        95
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        95
+      ],
+      [
+        3,
+        "Use of oral antipsychotics as augmentation",
+        95
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        95
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        95
+      ],
+      [
+        3,
+        "Activities to help wellbeing",
+        95
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        96
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        96
+      ],
+      [
+        3,
+        "Treatment for a new episode of less severe depression",
+        96
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        96
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        97
+      ],
+      [
+        3,
+        "Treatment for a new episode of more severe depression",
+        98
+      ],
+      [
+        4,
+        "Why the committee made the recommendation",
+        98
+      ],
+      [
+        4,
+        "How the recommendation might affect practice",
+        99
+      ],
+      [
+        3,
+        "Behavioural couples therapy",
+        99
+      ],
+      [
+        4,
+        "Why the committee made the recommendation",
+        100
+      ],
+      [
+        4,
+        "How the recommendation might affect practice",
+        100
+      ],
+      [
+        3,
+        "Preventing relapse",
+        100
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        100
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        101
+      ],
+      [
+        3,
+        "Further-line treatment",
+        101
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        101
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        102
+      ],
+      [
+        3,
+        "Chronic depressive symptoms",
+        103
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        103
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        103
+      ],
+      [
+        3,
+        "Depression in people with a diagnosis of personality disorder",
+        104
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        104
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        104
+      ],
+      [
+        3,
+        "Psychotic depression",
+        104
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        105
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        105
+      ],
+      [
+        3,
+        "Access to services",
+        105
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        105
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        106
+      ],
+      [
+        3,
+        "Collaborative care and specialist care",
+        106
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        106
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        106
+      ],
+      [
+        3,
+        "Crisis care, home treatment and inpatient care",
+        107
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        107
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        107
+      ],
+      [
+        2,
+        "Context",
+        108
+      ],
+      [
+        2,
+        "Finding more information and committee details",
+        109
+      ],
+      [
+        2,
+        "Update information",
+        110
+      ]
+    ],
+    "embedded_title": "Depression in adults: treatment and management",
+    "n_chars": 178251,
+    "n_words": 25942,
+    "extracted_at": "2026-10-05T00:15:00"
+  },
+  "D02": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 42,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [
+      [
+        1,
+        "Generalised anxiety disorder and panic disorder in adults: management",
+        1
+      ],
+      [
+        2,
+        "Your responsibility",
+        2
+      ],
+      [
+        2,
+        "Contents",
+        3
+      ],
+      [
+        2,
+        "Overview",
+        4
+      ],
+      [
+        3,
+        "Who is it for?",
+        4
+      ],
+      [
+        2,
+        "Using this guideline",
+        5
+      ],
+      [
+        2,
+        "Recommendations",
+        6
+      ],
+      [
+        3,
+        "1.1 Principles of care for people with generalised anxiety disorder (GAD)",
+        6
+      ],
+      [
+        4,
+        "Learning disabilities and cognitive impairment",
+        6
+      ],
+      [
+        5,
+        "1.1.1",
+        6
+      ],
+      [
+        5,
+        "1.1.2",
+        6
+      ],
+      [
+        3,
+        "1.2 Stepped care for people with GAD",
+        6
+      ],
+      [
+        4,
+        "1.2.1",
+        7
+      ],
+      [
+        4,
+        "Step 1: All known and suspected presentations of GAD",
+        7
+      ],
+      [
+        5,
+        "Identification",
+        7
+      ],
+      [
+        6,
+        "1.2.2",
+        7
+      ],
+      [
+        6,
+        "1.2.3",
+        8
+      ],
+      [
+        6,
+        "1.2.4",
+        8
+      ],
+      [
+        6,
+        "1.2.5",
+        8
+      ],
+      [
+        5,
+        "Assessment and education",
+        8
+      ],
+      [
+        6,
+        "1.2.6",
+        8
+      ],
+      [
+        6,
+        "1.2.7",
+        8
+      ],
+      [
+        6,
+        "1.2.8",
+        9
+      ],
+      [
+        6,
+        "1.2.9",
+        9
+      ],
+      [
+        6,
+        "1.2.10",
+        9
+      ],
+      [
+        6,
+        "1.2.11",
+        10
+      ],
+      [
+        4,
+        "Step 2: Diagnosed GAD that has not improved after step 1 interventions",
+        10
+      ],
+      [
+        5,
+        "Low-intensity psychological interventions for GAD",
+        10
+      ],
+      [
+        6,
+        "1.2.12",
+        10
+      ],
+      [
+        6,
+        "1.2.13",
+        10
+      ],
+      [
+        6,
+        "1.2.14",
+        10
+      ],
+      [
+        6,
+        "1.2.15",
+        11
+      ],
+      [
+        6,
+        "1.2.16",
+        11
+      ],
+      [
+        4,
+        "Step 3: GAD with marked functional impairment or that has not improved after step 2 interventions",
+        11
+      ],
+      [
+        5,
+        "Treatment options",
+        11
+      ],
+      [
+        6,
+        "1.2.17",
+        11
+      ],
+      [
+        5,
+        "High-intensity psychological interventions",
+        12
+      ],
+      [
+        6,
+        "1.2.18",
+        12
+      ],
+      [
+        6,
+        "1.2.19",
+        12
+      ],
+      [
+        6,
+        "1.2.20",
+        12
+      ],
+      [
+        6,
+        "1.2.21",
+        12
+      ],
+      [
+        6,
+        "1.2.22",
+        13
+      ],
+      [
+        5,
+        "Drug treatment",
+        13
+      ],
+      [
+        6,
+        "1.2.23",
+        13
+      ],
+      [
+        6,
+        "1.2.24",
+        13
+      ],
+      [
+        6,
+        "1.2.25",
+        14
+      ],
+      [
+        6,
+        "1.2.26",
+        14
+      ],
+      [
+        6,
+        "1.2.27",
+        14
+      ],
+      [
+        6,
+        "1.2.28",
+        14
+      ],
+      [
+        6,
+        "1.2.29",
+        14
+      ],
+      [
+        6,
+        "1.2.30",
+        15
+      ],
+      [
+        6,
+        "1.2.31",
+        15
+      ],
+      [
+        6,
+        "1.2.32",
+        15
+      ],
+      [
+        6,
+        "1.2.33",
+        15
+      ],
+      [
+        5,
+        "Inadequate response to step 3 interventions",
+        15
+      ],
+      [
+        6,
+        "1.2.34",
+        15
+      ],
+      [
+        6,
+        "1.2.35",
+        15
+      ],
+      [
+        6,
+        "1.2.36",
+        16
+      ],
+      [
+        6,
+        "1.2.37",
+        16
+      ],
+      [
+        4,
+        "Step 4: Complex, treatment-refractory GAD and very marked functional impairment or high risk of self-harm",
+        16
+      ],
+      [
+        5,
+        "Assessment",
+        16
+      ],
+      [
+        6,
+        "1.2.38",
+        16
+      ],
+      [
+        6,
+        "1.2.39",
+        16
+      ],
+      [
+        5,
+        "Treatment",
+        17
+      ],
+      [
+        6,
+        "1.2.40",
+        17
+      ],
+      [
+        6,
+        "1.2.41",
+        17
+      ],
+      [
+        6,
+        "1.2.42",
+        17
+      ],
+      [
+        6,
+        "1.2.43",
+        17
+      ],
+      [
+        6,
+        "1.2.44",
+        17
+      ],
+      [
+        6,
+        "1.2.45",
+        17
+      ],
+      [
+        6,
+        "1.2.46",
+        17
+      ],
+      [
+        4,
+        "Language",
+        18
+      ],
+      [
+        5,
+        "1.2.47",
+        18
+      ],
+      [
+        4,
+        "Treatment and referral advice to help prevent relapse",
+        18
+      ],
+      [
+        5,
+        "1.2.48",
+        18
+      ],
+      [
+        3,
+        "1.3 Stepped care for people with panic disorder",
+        18
+      ],
+      [
+        4,
+        "Step 1: Recognition and diagnosis of panic disorder",
+        18
+      ],
+      [
+        5,
+        "Consultation skills",
+        18
+      ],
+      [
+        6,
+        "1.3.1",
+        18
+      ],
+      [
+        5,
+        "Diagnosis",
+        19
+      ],
+      [
+        6,
+        "1.3.2",
+        19
+      ],
+      [
+        6,
+        "1.3.3",
+        19
+      ],
+      [
+        5,
+        "Comorbidities",
+        19
+      ],
+      [
+        6,
+        "1.3.4",
+        19
+      ],
+      [
+        6,
+        "1.3.5",
+        19
+      ],
+      [
+        5,
+        "Presentation in A&E with panic attacks",
+        20
+      ],
+      [
+        6,
+        "1.3.6",
+        20
+      ],
+      [
+        4,
+        "Step 2 for people with panic disorder: offer treatment in primary care",
+        20
+      ],
+      [
+        5,
+        "1.3.7",
+        21
+      ],
+      [
+        5,
+        "1.3.8",
+        21
+      ],
+      [
+        5,
+        "1.3.9",
+        21
+      ],
+      [
+        5,
+        "1.3.10",
+        21
+      ],
+      [
+        5,
+        "1.3.11",
+        21
+      ],
+      [
+        4,
+        "Step 3 for people with panic disorder: review and offer alternative treatment if appropriate",
+        21
+      ],
+      [
+        5,
+        "1.3.12",
+        21
+      ],
+      [
+        5,
+        "Psychological interventions",
+        21
+      ],
+      [
+        6,
+        "1.3.13",
+        21
+      ],
+      [
+        6,
+        "1.3.14",
+        22
+      ],
+      [
+        6,
+        "1.3.15",
+        22
+      ],
+      [
+        6,
+        "1.3.16",
+        22
+      ],
+      [
+        6,
+        "1.3.17",
+        22
+      ],
+      [
+        6,
+        "1.3.18",
+        22
+      ],
+      [
+        6,
+        "1.3.19",
+        22
+      ],
+      [
+        5,
+        "Pharmacological interventions",
+        22
+      ],
+      [
+        5,
+        "General",
+        22
+      ],
+      [
+        6,
+        "1.3.20",
+        22
+      ],
+      [
+        6,
+        "1.3.21",
+        22
+      ],
+      [
+        5,
+        "Antidepressant medication",
+        22
+      ],
+      [
+        6,
+        "1.3.22",
+        23
+      ],
+      [
+        6,
+        "1.3.23",
+        23
+      ],
+      [
+        6,
+        "1.3.24",
+        23
+      ],
+      [
+        6,
+        "1.3.25",
+        24
+      ],
+      [
+        6,
+        "1.3.26",
+        24
+      ],
+      [
+        6,
+        "1.3.27",
+        24
+      ],
+      [
+        6,
+        "1.3.28",
+        24
+      ],
+      [
+        6,
+        "1.3.29",
+        24
+      ],
+      [
+        6,
+        "1.3.30",
+        24
+      ],
+      [
+        6,
+        "1.3.31",
+        25
+      ],
+      [
+        6,
+        "1.3.32",
+        25
+      ],
+      [
+        6,
+        "1.3.33",
+        25
+      ],
+      [
+        6,
+        "1.3.34",
+        25
+      ],
+      [
+        4,
+        "Step 4 for people with panic disorder: review and offer referral from primary care if appropriate",
+        25
+      ],
+      [
+        5,
+        "1.3.35",
+        25
+      ],
+      [
+        4,
+        "Step 5 for people with panic disorder: care in specialist mental health services",
+        26
+      ],
+      [
+        5,
+        "1.3.36",
+        26
+      ],
+      [
+        5,
+        "1.3.37",
+        26
+      ],
+      [
+        5,
+        "1.3.38",
+        26
+      ],
+      [
+        5,
+        "1.3.39",
+        27
+      ],
+      [
+        5,
+        "Monitoring and follow-up for individuals with panic disorder",
+        27
+      ],
+      [
+        5,
+        "Psychological interventions",
+        27
+      ],
+      [
+        6,
+        "1.3.40",
+        27
+      ],
+      [
+        5,
+        "Pharmacological interventions",
+        27
+      ],
+      [
+        6,
+        "1.3.41",
+        27
+      ],
+      [
+        6,
+        "1.3.42",
+        27
+      ],
+      [
+        6,
+        "1.3.43",
+        27
+      ],
+      [
+        5,
+        "Self-help",
+        28
+      ],
+      [
+        6,
+        "1.3.44",
+        28
+      ],
+      [
+        5,
+        "Outcome measures",
+        28
+      ],
+      [
+        6,
+        "1.3.45",
+        28
+      ],
+      [
+        2,
+        "Recommendations for research",
+        29
+      ],
+      [
+        3,
+        "1 A comparison of the clinical and cost effectiveness of sertraline and CBT in people with GAD that has not responded to guided self-help and psychoeducation",
+        29
+      ],
+      [
+        3,
+        "2 The clinical and cost effectiveness of 2 CBT-based low-intensity interventions (CCBT and guided bibliotherapy) compared with a waiting-list control for the treatment of GAD",
+        30
+      ],
+      [
+        3,
+        "3 The effectiveness of physical activity compared with waiting-list control for the treatment of GAD",
+        31
+      ],
+      [
+        3,
+        "4 The effectiveness of chamomile and ginkgo biloba in the treatment of GAD",
+        32
+      ],
+      [
+        3,
+        "5 The clinical and cost effectiveness of a primary care-based collaborative care approach to improving the treatment of GAD compared with usual care",
+        33
+      ],
+      [
+        3,
+        "6 The clinical and cost effectiveness of 2 CBT-based low-intensity interventions (CCBT and guided bibliotherapy) compared with a waiting-list control for the treatment of panic disorder",
+        34
+      ],
+      [
+        2,
+        "Appendix: Assessing generalised anxiety disorder",
+        36
+      ],
+      [
+        2,
+        "Context",
+        38
+      ],
+      [
+        2,
+        "Finding more information and committee details",
+        40
+      ],
+      [
+        2,
+        "Update information",
+        41
+      ]
+    ],
+    "embedded_title": "Generalised anxiety disorder and panic disorder in adults: management",
+    "n_chars": 72868,
+    "n_words": 10920,
+    "extracted_at": "2026-10-05T00:15:00"
+  },
+  "D03": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 76,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [
+      [
+        1,
+        "Self-harm: assessment, management and preventing recurrence",
+        1
+      ],
+      [
+        2,
+        "Your responsibility",
+        2
+      ],
+      [
+        2,
+        "Contents",
+        3
+      ],
+      [
+        2,
+        "Overview",
+        6
+      ],
+      [
+        3,
+        "Who is it for?",
+        6
+      ],
+      [
+        2,
+        "Recommendations",
+        7
+      ],
+      [
+        3,
+        "1.1 Information and support",
+        8
+      ],
+      [
+        4,
+        "1.1.1",
+        8
+      ],
+      [
+        4,
+        "1.1.2",
+        9
+      ],
+      [
+        4,
+        "1.1.3",
+        9
+      ],
+      [
+        4,
+        "1.1.4",
+        9
+      ],
+      [
+        3,
+        "1.2 Consent and confidentiality",
+        10
+      ],
+      [
+        4,
+        "1.2.1",
+        10
+      ],
+      [
+        4,
+        "1.2.2",
+        10
+      ],
+      [
+        3,
+        "1.3 Safeguarding",
+        11
+      ],
+      [
+        4,
+        "1.3.1",
+        11
+      ],
+      [
+        4,
+        "1.3.2",
+        11
+      ],
+      [
+        3,
+        "1.4 Involving family members and carers",
+        11
+      ],
+      [
+        4,
+        "1.4.1",
+        11
+      ],
+      [
+        4,
+        "1.4.2",
+        12
+      ],
+      [
+        3,
+        "1.5 Psychosocial assessment and care by mental health professionals",
+        12
+      ],
+      [
+        4,
+        "1.5.1",
+        12
+      ],
+      [
+        4,
+        "1.5.2",
+        12
+      ],
+      [
+        4,
+        "1.5.3",
+        12
+      ],
+      [
+        4,
+        "1.5.4",
+        12
+      ],
+      [
+        4,
+        "1.5.5",
+        13
+      ],
+      [
+        4,
+        "1.5.6",
+        13
+      ],
+      [
+        4,
+        "1.5.7",
+        13
+      ],
+      [
+        4,
+        "1.5.8",
+        13
+      ],
+      [
+        4,
+        "1.5.9",
+        13
+      ],
+      [
+        4,
+        "1.5.10",
+        14
+      ],
+      [
+        4,
+        "1.5.11",
+        14
+      ],
+      [
+        4,
+        "1.5.12",
+        14
+      ],
+      [
+        4,
+        "1.5.13",
+        14
+      ],
+      [
+        4,
+        "1.5.14",
+        15
+      ],
+      [
+        4,
+        "1.5.15",
+        15
+      ],
+      [
+        4,
+        "1.5.16",
+        15
+      ],
+      [
+        4,
+        "1.5.17",
+        15
+      ],
+      [
+        3,
+        "1.6 Risk assessment tools and scales",
+        16
+      ],
+      [
+        4,
+        "1.6.1",
+        16
+      ],
+      [
+        4,
+        "1.6.2",
+        16
+      ],
+      [
+        4,
+        "1.6.3",
+        16
+      ],
+      [
+        4,
+        "1.6.4",
+        16
+      ],
+      [
+        4,
+        "1.6.5",
+        16
+      ],
+      [
+        4,
+        "1.6.6",
+        16
+      ],
+      [
+        3,
+        "1.7 Assessment and care by healthcare professionals and social care practitioners",
+        17
+      ],
+      [
+        4,
+        "Principles for assessment and care by healthcare professionals and social care practitioners",
+        17
+      ],
+      [
+        5,
+        "1.7.1",
+        17
+      ],
+      [
+        5,
+        "1.7.2",
+        17
+      ],
+      [
+        5,
+        "1.7.3",
+        18
+      ],
+      [
+        5,
+        "1.7.4",
+        18
+      ],
+      [
+        5,
+        "1.7.5",
+        18
+      ],
+      [
+        4,
+        "Assessment and care in primary care",
+        18
+      ],
+      [
+        5,
+        "1.7.6",
+        18
+      ],
+      [
+        5,
+        "1.7.7",
+        18
+      ],
+      [
+        5,
+        "1.7.8",
+        19
+      ],
+      [
+        4,
+        "Assessment and care by ambulance staff and paramedics",
+        19
+      ],
+      [
+        5,
+        "1.7.9",
+        19
+      ],
+      [
+        5,
+        "1.7.10",
+        20
+      ],
+      [
+        5,
+        "1.7.11",
+        20
+      ],
+      [
+        4,
+        "Assessment and care by non-mental health emergency department professionals",
+        20
+      ],
+      [
+        5,
+        "1.7.12",
+        20
+      ],
+      [
+        5,
+        "1.7.13",
+        20
+      ],
+      [
+        5,
+        "1.7.14",
+        21
+      ],
+      [
+        5,
+        "1.7.15",
+        21
+      ],
+      [
+        5,
+        "1.7.16",
+        21
+      ],
+      [
+        5,
+        "1.7.17",
+        21
+      ],
+      [
+        5,
+        "1.7.18",
+        21
+      ],
+      [
+        5,
+        "1.7.19",
+        22
+      ],
+      [
+        5,
+        "1.7.20",
+        22
+      ],
+      [
+        4,
+        "Assessment and care in general hospital settings",
+        22
+      ],
+      [
+        5,
+        "1.7.21",
+        22
+      ],
+      [
+        5,
+        "1.7.22",
+        22
+      ],
+      [
+        5,
+        "1.7.23",
+        22
+      ],
+      [
+        5,
+        "1.7.24",
+        22
+      ],
+      [
+        4,
+        "Assessment and care in social care",
+        23
+      ],
+      [
+        5,
+        "1.7.25",
+        23
+      ],
+      [
+        5,
+        "1.7.26",
+        23
+      ],
+      [
+        5,
+        "1.7.27",
+        23
+      ],
+      [
+        3,
+        "1.8 Assessment and care by professionals from other sectors",
+        24
+      ],
+      [
+        4,
+        "Principles for assessment and care by professionals from other sectors",
+        24
+      ],
+      [
+        5,
+        "1.8.1",
+        24
+      ],
+      [
+        5,
+        "1.8.2",
+        25
+      ],
+      [
+        4,
+        "Assessment in schools and educational settings",
+        25
+      ],
+      [
+        5,
+        "1.8.3",
+        25
+      ],
+      [
+        5,
+        "1.8.4",
+        26
+      ],
+      [
+        5,
+        "1.8.5",
+        26
+      ],
+      [
+        5,
+        "1.8.6",
+        26
+      ],
+      [
+        5,
+        "1.8.7",
+        26
+      ],
+      [
+        4,
+        "Assessment and care in the criminal justice system and other secure settings",
+        26
+      ],
+      [
+        5,
+        "1.8.8",
+        26
+      ],
+      [
+        5,
+        "1.8.9",
+        27
+      ],
+      [
+        5,
+        "1.8.10",
+        27
+      ],
+      [
+        5,
+        "1.8.11",
+        27
+      ],
+      [
+        5,
+        "1.8.12",
+        27
+      ],
+      [
+        3,
+        "1.9 Admission to and discharge from hospital",
+        27
+      ],
+      [
+        4,
+        "1.9.1",
+        28
+      ],
+      [
+        4,
+        "1.9.2",
+        28
+      ],
+      [
+        4,
+        "1.9.3",
+        28
+      ],
+      [
+        4,
+        "1.9.4",
+        28
+      ],
+      [
+        4,
+        "1.9.5",
+        28
+      ],
+      [
+        4,
+        "1.9.6",
+        28
+      ],
+      [
+        3,
+        "1.10 Initial aftercare after an episode of self-harm",
+        29
+      ],
+      [
+        4,
+        "1.10.1",
+        29
+      ],
+      [
+        4,
+        "1.10.2",
+        29
+      ],
+      [
+        3,
+        "1.11 Interventions for self-harm",
+        30
+      ],
+      [
+        4,
+        "1.11.1",
+        30
+      ],
+      [
+        4,
+        "1.11.2",
+        30
+      ],
+      [
+        4,
+        "1.11.3",
+        31
+      ],
+      [
+        4,
+        "1.11.4",
+        31
+      ],
+      [
+        4,
+        "1.11.5",
+        31
+      ],
+      [
+        4,
+        "1.11.6",
+        31
+      ],
+      [
+        4,
+        "1.11.7",
+        31
+      ],
+      [
+        4,
+        "1.11.8",
+        32
+      ],
+      [
+        4,
+        "1.11.9",
+        32
+      ],
+      [
+        4,
+        "1.11.10",
+        32
+      ],
+      [
+        4,
+        "Harm minimisation",
+        32
+      ],
+      [
+        5,
+        "1.11.11",
+        32
+      ],
+      [
+        5,
+        "1.11.12",
+        33
+      ],
+      [
+        5,
+        "1.11.13",
+        33
+      ],
+      [
+        4,
+        "Therapeutic risk taking",
+        33
+      ],
+      [
+        5,
+        "1.11.14",
+        33
+      ],
+      [
+        3,
+        "1.12 Supporting people to be safe after self-harm",
+        34
+      ],
+      [
+        4,
+        "1.12.1",
+        34
+      ],
+      [
+        4,
+        "1.12.2",
+        34
+      ],
+      [
+        4,
+        "1.12.3",
+        34
+      ],
+      [
+        4,
+        "1.12.4",
+        34
+      ],
+      [
+        4,
+        "1.12.5",
+        35
+      ],
+      [
+        4,
+        "1.12.6",
+        35
+      ],
+      [
+        4,
+        "1.12.7",
+        35
+      ],
+      [
+        4,
+        "1.12.8",
+        35
+      ],
+      [
+        3,
+        "1.13 Safer prescribing and dispensing",
+        35
+      ],
+      [
+        4,
+        "1.13.1",
+        35
+      ],
+      [
+        4,
+        "1.13.2",
+        36
+      ],
+      [
+        4,
+        "1.13.3",
+        36
+      ],
+      [
+        4,
+        "1.13.4",
+        36
+      ],
+      [
+        4,
+        "1.13.5",
+        36
+      ],
+      [
+        3,
+        "1.14 Training",
+        36
+      ],
+      [
+        4,
+        "1.14.1",
+        36
+      ],
+      [
+        4,
+        "1.14.2",
+        37
+      ],
+      [
+        4,
+        "1.14.3",
+        38
+      ],
+      [
+        4,
+        "1.14.4",
+        38
+      ],
+      [
+        3,
+        "1.15 Supervision",
+        39
+      ],
+      [
+        4,
+        "1.15.1",
+        39
+      ],
+      [
+        4,
+        "1.15.2",
+        39
+      ],
+      [
+        2,
+        "Terms used in this guideline",
+        40
+      ],
+      [
+        3,
+        "Care plan",
+        40
+      ],
+      [
+        3,
+        "Cognitive behavioural therapy-informed psychological intervention",
+        40
+      ],
+      [
+        3,
+        "Clinical observation",
+        40
+      ],
+      [
+        3,
+        "Designated lead",
+        40
+      ],
+      [
+        3,
+        "Dialectic behavioural therapy for adolescents",
+        41
+      ],
+      [
+        3,
+        "Harm minimisation",
+        41
+      ],
+      [
+        3,
+        "Mechanical restraint",
+        41
+      ],
+      [
+        3,
+        "Psychosocial assessment",
+        41
+      ],
+      [
+        3,
+        "Risk formulation",
+        41
+      ],
+      [
+        3,
+        "Safety plan",
+        42
+      ],
+      [
+        3,
+        "Self-harm",
+        42
+      ],
+      [
+        3,
+        "Therapeutic risk taking",
+        42
+      ],
+      [
+        2,
+        "Recommendations for research",
+        43
+      ],
+      [
+        3,
+        "1 Models of care",
+        43
+      ],
+      [
+        3,
+        "2 Assessment in non-specialist settings",
+        43
+      ],
+      [
+        4,
+        "Healthcare professionals and social care practitioners",
+        43
+      ],
+      [
+        4,
+        "Professionals from other sectors",
+        44
+      ],
+      [
+        3,
+        "3 Routine admission to hospital",
+        44
+      ],
+      [
+        3,
+        "4 Psychological interventions",
+        44
+      ],
+      [
+        3,
+        "5 Harm minimisation",
+        45
+      ],
+      [
+        2,
+        "Rationale and impact",
+        46
+      ],
+      [
+        3,
+        "Information and support",
+        46
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        46
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        47
+      ],
+      [
+        3,
+        "Consent and confidentiality",
+        47
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        47
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        48
+      ],
+      [
+        3,
+        "Safeguarding",
+        48
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        48
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        49
+      ],
+      [
+        3,
+        "Involving family members and carers",
+        49
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        49
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        49
+      ],
+      [
+        3,
+        "Psychosocial assessment and care by mental health professionals",
+        50
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        50
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        51
+      ],
+      [
+        3,
+        "Risk assessment tools and scales",
+        52
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        52
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        52
+      ],
+      [
+        3,
+        "Assessment and care by healthcare professionals and social care practitioners",
+        53
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        53
+      ],
+      [
+        5,
+        "Principles for assessment and care by healthcare professionals and social care practitioners",
+        53
+      ],
+      [
+        5,
+        "Assessment and care in primary care",
+        54
+      ],
+      [
+        5,
+        "Assessment and care by ambulance staff and paramedics",
+        54
+      ],
+      [
+        5,
+        "Assessment and care by non-mental health emergency department professionals",
+        55
+      ],
+      [
+        5,
+        "Assessment and care in general hospital settings",
+        56
+      ],
+      [
+        5,
+        "Assessment and care in social care",
+        57
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        57
+      ],
+      [
+        3,
+        "Assessment and care by professionals from other sectors",
+        58
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        58
+      ],
+      [
+        5,
+        "Principles for assessment and care by professionals from other sectors",
+        58
+      ],
+      [
+        5,
+        "Assessment and care in schools and educational settings",
+        59
+      ],
+      [
+        5,
+        "Assessment and care in the criminal justice system and other secure settings",
+        59
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        60
+      ],
+      [
+        3,
+        "Admission to and discharge from hospital",
+        60
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        60
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        61
+      ],
+      [
+        3,
+        "Initial aftercare after an episode of self-harm",
+        62
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        62
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        63
+      ],
+      [
+        3,
+        "Interventions for self-harm",
+        63
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        63
+      ],
+      [
+        5,
+        "Harm minimisation",
+        66
+      ],
+      [
+        5,
+        "Therapeutic risk taking",
+        66
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        67
+      ],
+      [
+        3,
+        "Supporting people to be safe after self-harm",
+        67
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        68
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        69
+      ],
+      [
+        3,
+        "Safer prescribing and dispensing",
+        69
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        69
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        70
+      ],
+      [
+        3,
+        "Training",
+        70
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        71
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        71
+      ],
+      [
+        3,
+        "Supervision",
+        72
+      ],
+      [
+        4,
+        "Why the committee made the recommendations",
+        72
+      ],
+      [
+        4,
+        "How the recommendations might affect practice",
+        73
+      ],
+      [
+        2,
+        "Context",
+        74
+      ],
+      [
+        2,
+        "Finding more information and committee details",
+        75
+      ],
+      [
+        2,
+        "Update information",
+        76
+      ]
+    ],
+    "embedded_title": "Self-harm: assessment, management and preventing recurrence",
+    "n_chars": 147928,
+    "n_words": 21949,
+    "extracted_at": "2026-10-05T00:15:00"
+  },
+  "D04": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 184,
+    "empty_pages": [
+      2,
+      18,
+      33,
+      183
+    ],
+    "image_heavy_pages": [],
+    "outline": [],
+    "embedded_title": null,
+    "n_chars": 512503,
+    "n_words": 73197,
+    "extracted_at": "2026-10-05T00:15:00"
+  },
+  "D06": {
+    "tool": "BeautifulSoup (lxml)",
+    "html_title": "Depressive disorder (depression)",
+    "container": "section",
+    "removed_elements": 3,
+    "n_pages": 0,
+    "n_chars": 9042,
+    "n_words": 1369,
+    "extracted_at": "2026-10-05T00:15:00"
+  },
+  "D07": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 6,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [],
+    "embedded_title": "Depression - National Institute of Mental Health (NIMH)",
+    "n_chars": 16851,
+    "n_words": 2613,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D08": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 4,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [],
+    "embedded_title": "Generalized Anxiety Disorder: What You Need to Know - National Institute of Mental Health (NIMH)",
+    "n_chars": 12363,
+    "n_words": 1969,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D09": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 8,
+    "empty_pages": [],
+    "image_heavy_pages": [
+      1
+    ],
+    "outline": [
+      [
+        1,
+        "Post-Traumatic Stress Disorder",
+        1
+      ],
+      [
+        2,
+        "What is post-traumatic stress disorder, or PTSD?",
+        2
+      ],
+      [
+        2,
+        "Who develops PTSD?",
+        2
+      ],
+      [
+        2,
+        "What are the symptoms of PTSD?",
+        2
+      ],
+      [
+        3,
+        "Re-experiencing symptoms",
+        3
+      ],
+      [
+        3,
+        "Avoidance symptoms",
+        3
+      ],
+      [
+        3,
+        "Arousal and reactivity symptoms",
+        3
+      ],
+      [
+        3,
+        "Cognition and mood symptoms",
+        3
+      ],
+      [
+        2,
+        "How do children and teens react to trauma?",
+        4
+      ],
+      [
+        2,
+        "Why do some people develop PTSD and other people do not?",
+        4
+      ],
+      [
+        2,
+        "How is PTSD treated?",
+        5
+      ],
+      [
+        3,
+        "Psychotherapy",
+        5
+      ],
+      [
+        3,
+        "Medications",
+        6
+      ],
+      [
+        2,
+        "How can I find help?",
+        6
+      ],
+      [
+        2,
+        "What can I do to help myself?",
+        6
+      ],
+      [
+        2,
+        "How can I help a loved one with PTSD?",
+        7
+      ],
+      [
+        2,
+        "Where can I find more information on PTSD?",
+        7
+      ],
+      [
+        2,
+        "Are there clinical trials studying PTSD?",
+        7
+      ],
+      [
+        2,
+        "Reprints",
+        8
+      ],
+      [
+        2,
+        "For more information",
+        8
+      ],
+      [
+        3,
+        "National Institute of Mental Health",
+        8
+      ]
+    ],
+    "embedded_title": "Post-Traumatic Stress Disorder",
+    "n_chars": 13869,
+    "n_words": 2178,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D10": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 8,
+    "empty_pages": [],
+    "image_heavy_pages": [
+      1
+    ],
+    "outline": [
+      [
+        1,
+        "Eating Disorders: What You Need to Know",
+        1
+      ],
+      [
+        2,
+        "What are eating disorders?",
+        2
+      ],
+      [
+        2,
+        "Who is at risk for eating disorders?",
+        2
+      ],
+      [
+        2,
+        "What are the common types of eating disorders?",
+        2
+      ],
+      [
+        2,
+        "What are the signs and symptoms of anorexia nervosa?",
+        3
+      ],
+      [
+        2,
+        "What are the signs and symptoms of binge-eating disorder?",
+        4
+      ],
+      [
+        2,
+        "What are the signs and symptoms of bulimia nervosa?",
+        5
+      ],
+      [
+        2,
+        "What are the signs and symptoms of avoidant restrictive food intake disorder?",
+        5
+      ],
+      [
+        2,
+        "What mental illnesses can co-occur with eating disorders?",
+        6
+      ],
+      [
+        2,
+        "How are eating disorders treated?",
+        6
+      ],
+      [
+        2,
+        "How can I find help?",
+        7
+      ],
+      [
+        2,
+        "What are clinical trials and why are they important?",
+        7
+      ],
+      [
+        2,
+        "For more information",
+        8
+      ],
+      [
+        2,
+        "Contact us",
+        8
+      ],
+      [
+        2,
+        "Reprints",
+        8
+      ]
+    ],
+    "embedded_title": "Eating Disorders: What You Need to Know",
+    "n_chars": 10035,
+    "n_words": 1513,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D11": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 8,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [
+      [
+        1,
+        "Frequently Asked Questions About Suicide",
+        1
+      ],
+      [
+        2,
+        "What is suicide?",
+        2
+      ],
+      [
+        2,
+        "Who is at risk for suicide?",
+        2
+      ],
+      [
+        2,
+        "What are the warning signs of suicide?",
+        3
+      ],
+      [
+        2,
+        "What treatment options and therapies are available?",
+        4
+      ],
+      [
+        2,
+        "What should I do if I am struggling or someone I know is having thoughts of suicide?",
+        5
+      ],
+      [
+        2,
+        "What if I see suicidal messages on social media?",
+        5
+      ],
+      [
+        2,
+        "Does asking someone about suicide put the idea in their head?",
+        6
+      ],
+      [
+        2,
+        "Do people “threaten” suicide to get attention?",
+        6
+      ],
+      [
+        2,
+        "How do suicide rates differ among groups of people?",
+        6
+      ],
+      [
+        2,
+        "How can I find help for mental health concerns?",
+        6
+      ],
+      [
+        2,
+        "Where can I learn about NIMH research on suicide?",
+        7
+      ],
+      [
+        2,
+        "What should I know about clinical trials?",
+        7
+      ],
+      [
+        2,
+        "Reprints",
+        8
+      ],
+      [
+        2,
+        "For More Information",
+        8
+      ],
+      [
+        3,
+        "National Institute of Mental Health",
+        8
+      ]
+    ],
+    "embedded_title": "Frequently Asked Questions About Suicide",
+    "n_chars": 11552,
+    "n_words": 1843,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D12": {
+    "tool": "BeautifulSoup (lxml)",
+    "html_title": "Raising low self-esteem - NHS",
+    "container": "main",
+    "removed_elements": 11,
+    "n_pages": 0,
+    "n_chars": 5540,
+    "n_words": 991,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D13": {
+    "tool": "BeautifulSoup (lxml)",
+    "html_title": "Get help with loneliness - NHS",
+    "container": "main",
+    "removed_elements": 1,
+    "n_pages": 0,
+    "n_chars": 5133,
+    "n_words": 911,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D14": {
+    "tool": "BeautifulSoup (lxml)",
+    "html_title": "Antidepressants - NHS",
+    "container": "main",
+    "removed_elements": 0,
+    "n_pages": 0,
+    "n_chars": 9359,
+    "n_words": 1469,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D16": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 3,
+    "empty_pages": [],
+    "image_heavy_pages": [],
+    "outline": [],
+    "embedded_title": "I’m So Stressed Out! Fact Sheet - National Institute of Mental Health (NIMH)",
+    "n_chars": 5194,
+    "n_words": 902,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D17": {
+    "tool": "BeautifulSoup (lxml)",
+    "html_title": "Sleep problems - Every Mind Matters - NHS",
+    "container": "main",
+    "removed_elements": 6,
+    "n_pages": 0,
+    "n_chars": 6316,
+    "n_words": 1164,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D20": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 6,
+    "empty_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "image_heavy_pages": [
+      1,
+      2,
+      3
+    ],
+    "outline": [],
+    "embedded_title": "Tele MANAS new1.cdr",
+    "n_chars": 77,
+    "n_words": 12,
+    "extracted_at": "2026-10-05T00:15:01"
+  },
+  "D24": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 184,
+    "empty_pages": [
+      2,
+      18,
+      33,
+      183
+    ],
+    "image_heavy_pages": [],
+    "outline": [],
+    "embedded_title": null,
+    "n_chars": 512503,
+    "n_words": 73197,
+    "extracted_at": "2026-10-05T00:15:02"
+  },
+  "D25": {
+    "tool": "PyMuPDF 1.28.2",
+    "n_pages": 184,
+    "empty_pages": [
+      2,
+      18,
+      33,
+      183
+    ],
+    "image_heavy_pages": [],
+    "outline": [],
+    "embedded_title": null,
+    "n_chars": 512503,
+    "n_words": 73197,
+    "extracted_at": "2026-10-05T00:15:02"
+  }
+}

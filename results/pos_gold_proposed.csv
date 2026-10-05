@@ -1,0 +1,725 @@
+sent_id,position,token,nltk,spacy,gold,review,proposed_gold,reason
+0,0,Psychotherapy,NNP,NNP,NNP,,NNP,both taggers agree
+0,1,can,MD,MD,MD,,MD,both taggers agree
+0,2,provide,VB,VB,VB,,VB,both taggers agree
+0,3,support,NN,NN,NN,,NN,both taggers agree
+0,4,",",",",",",",",,",",both taggers agree
+0,5,education,NN,NN,NN,,NN,both taggers agree
+0,6,",",",",",",",",,",",both taggers agree
+0,7,and,CC,CC,CC,,CC,both taggers agree
+0,8,guidance,NN,NN,NN,,NN,both taggers agree
+0,9,to,TO,IN,,YES,TO,'to' is always TO in Penn
+0,10,people,NNS,NNS,NNS,,NNS,both taggers agree
+0,11,with,IN,IN,IN,,IN,both taggers agree
+0,12,PTSD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+0,13,and,CC,CC,CC,,CC,both taggers agree
+0,14,their,PRP$,PRP$,PRP$,,PRP$,both taggers agree
+0,15,families,NNS,NNS,NNS,,NNS,both taggers agree
+0,16,.,.,.,.,,.,both taggers agree
+1,0,Are,NNP,VBP,,YES,VBP,imperative or finite verb
+1,1,there,RB,EX,,YES,EX,context decision (see note)
+1,2,clinical,JJ,JJ,JJ,,JJ,both taggers agree
+1,3,trials,NNS,NNS,NNS,,NNS,both taggers agree
+1,4,studying,VBG,VBG,VBG,,VBG,both taggers agree
+1,5,PTSD,NNP,NN,,YES,NNP,named condition/organisation acronym -> NNP
+1,6,?,.,.,.,,.,both taggers agree
+2,0,Specific,JJ,JJ,JJ,,JJ,both taggers agree
+2,1,types,NNS,NNS,NNS,,NNS,both taggers agree
+2,2,of,IN,IN,IN,,IN,both taggers agree
+2,3,antidepressants,NNS,NNS,NNS,,NNS,both taggers agree
+2,4,selected,VBN,VBN,VBN,,VBN,both taggers agree
+2,5,should,MD,MD,MD,,MD,both taggers agree
+2,6,carefully,RB,RB,RB,,RB,both taggers agree
+2,7,consider,VB,VB,VB,,VB,both taggers agree
+2,8,factors,NNS,NNS,NNS,,NNS,both taggers agree
+2,9,such,JJ,JJ,JJ,,JJ,both taggers agree
+2,10,as,IN,IN,IN,,IN,both taggers agree
+2,11,demographic,JJ,JJ,JJ,,JJ,both taggers agree
+2,12,characteristics,NNS,NNS,NNS,,NNS,both taggers agree
+2,13,(,(,(,(,,(,both taggers agree
+2,14,e.g.,VB,RB,,YES,FW,Latin abbreviation -> FW
+3,0,Service,NNP,NN,,YES,NN,context decision (see note)
+3,1,providers,NNS,NNS,NNS,,NNS,both taggers agree
+3,2,should,MD,MD,MD,,MD,both taggers agree
+3,3,assess,VB,VB,VB,,VB,both taggers agree
+3,4,psychosocial,JJ,JJ,JJ,,JJ,both taggers agree
+3,5,stressors,NNS,NNS,NNS,,NNS,both taggers agree
+3,6,(,(,(,(,,(,both taggers agree
+3,7,e.g.,VB,RB,,YES,FW,Latin abbreviation -> FW
+4,0,To,TO,TO,TO,,TO,both taggers agree
+4,1,learn,VB,VB,VB,,VB,both taggers agree
+4,2,more,JJR,JJR,JJR,,JJR,both taggers agree
+4,3,",",",",",",",",,",",both taggers agree
+4,4,visit,IN,VB,,YES,VB,imperative or finite verb
+4,5,the,DT,DT,DT,,DT,both taggers agree
+4,6,988,CD,CD,CD,,CD,both taggers agree
+4,7,Suicide,NNP,NNP,NNP,,NNP,both taggers agree
+4,8,&,CC,CC,CC,,CC,both taggers agree
+4,9,Crisis,NNP,NNP,NNP,,NNP,both taggers agree
+4,10,Lifeline's,NNP,NNP,NNP,,NNP,both taggers agree
+4,11,webpage,NN,NN,NN,,NN,both taggers agree
+4,12,about,IN,IN,IN,,IN,both taggers agree
+4,13,safety,NN,NN,NN,,NN,both taggers agree
+4,14,and,CC,CC,CC,,CC,both taggers agree
+4,15,support,NN,NN,NN,,NN,both taggers agree
+4,16,on,IN,IN,IN,,IN,both taggers agree
+4,17,social,JJ,JJ,JJ,,JJ,both taggers agree
+4,18,media,NNS,NNS,NNS,,NNS,both taggers agree
+4,19,at,IN,IN,IN,,IN,both taggers agree
+4,20,https://988lifeline.org/,JJ,NN,,YES,NN,web address -> NN (OntoNotes ADD)
+4,21,help-someone-else,JJ,NN,,YES,NN,web address -> NN (OntoNotes ADD)
+4,22,/,JJ,SYM,,YES,SYM,context decision (see note)
+4,23,safety-and-support-on-social-media,NN,NN,NN,,NN,both taggers agree
+4,24,.,.,.,.,,.,both taggers agree
+5,0,All,DT,DT,DT,,DT,both taggers agree
+5,1,studies,NNS,NNS,NNS,,NNS,both taggers agree
+5,2,were,VBD,VBD,VBD,,VBD,both taggers agree
+5,3,done,VBN,VBN,VBN,,VBN,both taggers agree
+5,4,in,IN,IN,IN,,IN,both taggers agree
+5,5,HICs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+5,6,.,.,.,.,,.,both taggers agree
+6,0,Further,JJ,JJ,JJ,,JJ,both taggers agree
+6,1,research,NN,NN,NN,,NN,both taggers agree
+6,2,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+6,3,needed,VBN,VBN,VBN,,VBN,both taggers agree
+6,4,in,IN,IN,IN,,IN,both taggers agree
+6,5,LMICs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+6,6,.,.,.,.,,.,both taggers agree
+7,0,The,DT,DT,DT,,DT,both taggers agree
+7,1,NHS,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+7,2,recommends,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+7,3,that,IN,IN,IN,,IN,both taggers agree
+7,4,you,PRP,PRP,PRP,,PRP,both taggers agree
+7,5,do,VBP,VBP,VBP,,VBP,both taggers agree
+7,6,not,RB,RB,RB,,RB,both taggers agree
+7,7,smoke,VB,VB,VB,,VB,both taggers agree
+7,8,or,CC,CC,CC,,CC,both taggers agree
+7,9,drink,VB,VB,VB,,VB,both taggers agree
+7,10,alcohol,NN,NN,NN,,NN,both taggers agree
+7,11,",",",",",",",",,",",both taggers agree
+7,12,tea,NN,NN,NN,,NN,both taggers agree
+7,13,or,CC,CC,CC,,CC,both taggers agree
+7,14,coffee,NN,NN,NN,,NN,both taggers agree
+7,15,at,IN,RB,,YES,IN,context decision (see note)
+7,16,least,JJS,JJS,JJS,,JJS,both taggers agree
+7,17,6,CD,CD,CD,,CD,both taggers agree
+7,18,hours,NNS,NNS,NNS,,NNS,both taggers agree
+7,19,before,IN,IN,IN,,IN,both taggers agree
+7,20,going,VBG,VBG,VBG,,VBG,both taggers agree
+7,21,to,TO,IN,,YES,TO,'to' is always TO in Penn
+7,22,bed,VB,NN,,YES,NN,context decision (see note)
+7,23,.,.,.,.,,.,both taggers agree
+8,0,Although,IN,IN,IN,,IN,both taggers agree
+8,1,ways,NNS,NNS,NNS,,NNS,both taggers agree
+8,2,to,TO,IN,,YES,TO,'to' is always TO in Penn
+8,3,self-harm,JJ,NN,,YES,VB,context decision (see note)
+8,4,safely,RB,RB,RB,,RB,both taggers agree
+8,5,are,VBP,VBP,VBP,,VBP,both taggers agree
+8,6,often,RB,RB,RB,,RB,both taggers agree
+8,7,considered,VBN,VBN,VBN,,VBN,both taggers agree
+8,8,a,DT,DT,DT,,DT,both taggers agree
+8,9,harm,NN,NN,NN,,NN,both taggers agree
+8,10,minimisation,NN,NN,NN,,NN,both taggers agree
+8,11,strategy,NN,NN,NN,,NN,both taggers agree
+8,12,",",",",",",",",,",",both taggers agree
+8,13,this,DT,DT,DT,,DT,both taggers agree
+8,14,guideline,NN,NN,NN,,NN,both taggers agree
+8,15,does,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+8,16,not,RB,RB,RB,,RB,both taggers agree
+8,17,make,VB,VB,VB,,VB,both taggers agree
+8,18,any,DT,DT,DT,,DT,both taggers agree
+8,19,recommendations,NNS,NNS,NNS,,NNS,both taggers agree
+8,20,about,IN,IN,IN,,IN,both taggers agree
+8,21,the,DT,DT,DT,,DT,both taggers agree
+8,22,use,NN,NN,NN,,NN,both taggers agree
+8,23,of,IN,IN,IN,,IN,both taggers agree
+8,24,safer,JJR,JJR,JJR,,JJR,both taggers agree
+8,25,self-harm,NN,NN,,YES,NN,medicine / noun modifier -> NN
+8,26,.,.,.,.,,.,both taggers agree
+9,0,The,DT,DT,DT,,DT,both taggers agree
+9,1,accurate,JJ,JJ,JJ,,JJ,both taggers agree
+9,2,diagnosis,NN,NN,NN,,NN,both taggers agree
+9,3,of,IN,IN,IN,,IN,both taggers agree
+9,4,panic,JJ,NN,,YES,NN,medicine / noun modifier -> NN
+9,5,disorder,NN,NN,NN,,NN,both taggers agree
+9,6,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+9,7,central,JJ,JJ,JJ,,JJ,both taggers agree
+9,8,to,TO,IN,,YES,TO,'to' is always TO in Penn
+9,9,the,DT,DT,DT,,DT,both taggers agree
+9,10,effective,JJ,JJ,JJ,,JJ,both taggers agree
+9,11,management,NN,NN,NN,,NN,both taggers agree
+9,12,of,IN,IN,IN,,IN,both taggers agree
+9,13,this,DT,DT,DT,,DT,both taggers agree
+9,14,condition,NN,NN,NN,,NN,both taggers agree
+9,15,.,.,.,.,,.,both taggers agree
+10,0,Further,JJ,JJ,JJ,,JJ,both taggers agree
+10,1,evidence,NN,NN,NN,,NN,both taggers agree
+10,2,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+10,3,required,VBN,VBN,VBN,,VBN,both taggers agree
+10,4,to,TO,TO,TO,,TO,both taggers agree
+10,5,conclude,VB,VB,VB,,VB,both taggers agree
+10,6,whether,IN,IN,IN,,IN,both taggers agree
+10,7,the,DT,DT,DT,,DT,both taggers agree
+10,8,balance,NN,NN,NN,,NN,both taggers agree
+10,9,of,IN,IN,IN,,IN,both taggers agree
+10,10,effects,NNS,NNS,NNS,,NNS,both taggers agree
+10,11,differs,NNS,NNS,NNS,,NNS,both taggers agree
+10,12,between,IN,IN,IN,,IN,both taggers agree
+10,13,baclofen,NN,NNP,,YES,NN,medicine / noun modifier -> NN
+10,14,and,CC,CC,CC,,CC,both taggers agree
+10,15,acamprosate,NN,NN,,YES,NN,medicine / noun modifier -> NN
+10,16,or,CC,CC,CC,,CC,both taggers agree
+10,17,naltrexone,NN,NN,,YES,NN,medicine / noun modifier -> NN
+10,18,.,.,.,.,,.,both taggers agree
+11,0,Further,JJ,JJ,JJ,,JJ,both taggers agree
+11,1,research,NN,NN,NN,,NN,both taggers agree
+11,2,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+11,3,needed,VBN,VBN,VBN,,VBN,both taggers agree
+11,4,in,IN,IN,IN,,IN,both taggers agree
+11,5,LMICs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+11,6,.,.,.,.,,.,both taggers agree
+12,0,Some,DT,DT,DT,,DT,both taggers agree
+12,1,types,NNS,NNS,NNS,,NNS,both taggers agree
+12,2,of,IN,IN,IN,,IN,both taggers agree
+12,3,psychotherapy,NN,NN,NN,,NN,both taggers agree
+12,4,target,NN,NN,NN,,NN,both taggers agree
+12,5,PTSD,NNP,JJ,,YES,NNP,named condition/organisation acronym -> NNP
+12,6,symptoms,NNS,NNS,NNS,,NNS,both taggers agree
+12,7,",",",",",",",",,",",both taggers agree
+12,8,while,IN,IN,IN,,IN,both taggers agree
+12,9,others,NNS,NNS,NNS,,NNS,both taggers agree
+12,10,focus,VBP,VBP,VBP,,VBP,both taggers agree
+12,11,on,IN,IN,IN,,IN,both taggers agree
+12,12,social,JJ,JJ,JJ,,JJ,both taggers agree
+12,13,",",",",",",",",,",",both taggers agree
+12,14,family,NN,NN,NN,,NN,both taggers agree
+12,15,",",",",",",",",,",",both taggers agree
+12,16,or,CC,CC,CC,,CC,both taggers agree
+12,17,job-related,JJ,JJ,JJ,,JJ,both taggers agree
+12,18,problems,NNS,NNS,NNS,,NNS,both taggers agree
+12,19,.,.,.,.,,.,both taggers agree
+13,0,For,IN,IN,IN,,IN,both taggers agree
+13,1,guidance,NN,NN,NN,,NN,both taggers agree
+13,2,on,IN,IN,IN,,IN,both taggers agree
+13,3,how,WRB,WRB,WRB,,WRB,both taggers agree
+13,4,to,TO,TO,TO,,TO,both taggers agree
+13,5,treat,VB,VB,VB,,VB,both taggers agree
+13,6,coexisting,VBG,VBG,VBG,,VBG,both taggers agree
+13,7,conditions,NNS,NNS,NNS,,NNS,both taggers agree
+13,8,that,WDT,WDT,WDT,,WDT,both taggers agree
+13,9,may,MD,MD,MD,,MD,both taggers agree
+13,10,be,VB,VB,VB,,VB,both taggers agree
+13,11,related,VBN,VBN,VBN,,VBN,both taggers agree
+13,12,to,TO,IN,,YES,TO,'to' is always TO in Penn
+13,13,self-harm,NN,JJ,,YES,NN,medicine / noun modifier -> NN
+14,0,GAD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+14,1,",",",",",",",",,",",both taggers agree
+14,2,with,IN,IN,IN,,IN,both taggers agree
+14,3,some,DT,DT,DT,,DT,both taggers agree
+14,4,women,NNS,NNS,NNS,,NNS,both taggers agree
+14,5,experiencing,VBG,VBG,VBG,,VBG,both taggers agree
+14,6,it,PRP,PRP,PRP,,PRP,both taggers agree
+14,7,during,IN,IN,IN,,IN,both taggers agree
+14,8,pregnancy,NN,NN,NN,,NN,both taggers agree
+14,9,and,CC,CC,CC,,CC,both taggers agree
+14,10,the,DT,DT,DT,,DT,both taggers agree
+14,11,postpartum,NN,JJ,,YES,JJ,context decision (see note)
+14,12,period,NN,NN,NN,,NN,both taggers agree
+14,13,.,.,.,.,,.,both taggers agree
+15,0,There,EX,EX,EX,,EX,both taggers agree
+15,1,were,VBD,VBD,VBD,,VBD,both taggers agree
+15,2,limited,VBN,JJ,,YES,JJ,context decision (see note)
+15,3,data,NNS,NNS,NNS,,NNS,both taggers agree
+15,4,on,IN,IN,IN,,IN,both taggers agree
+15,5,psychological,JJ,JJ,JJ,,JJ,both taggers agree
+15,6,interventions,NNS,NNS,NNS,,NNS,both taggers agree
+15,7,other,JJ,JJ,JJ,,JJ,both taggers agree
+15,8,than,IN,IN,IN,,IN,both taggers agree
+15,9,those,DT,DT,DT,,DT,both taggers agree
+15,10,based,VBN,VBN,VBN,,VBN,both taggers agree
+15,11,on,IN,IN,IN,,IN,both taggers agree
+15,12,principles,NNS,NNS,NNS,,NNS,both taggers agree
+15,13,of,IN,IN,IN,,IN,both taggers agree
+15,14,CBT,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+15,15,.,.,.,.,,.,both taggers agree
+16,0,Learn,NNP,VB,,YES,VB,imperative or finite verb
+16,1,more,JJR,JJR,JJR,,JJR,both taggers agree
+16,2,about,IN,IN,IN,,IN,both taggers agree
+16,3,psychotherapy,NN,NN,NN,,NN,both taggers agree
+16,4,at,IN,IN,IN,,IN,both taggers agree
+16,5,www.nimh.nih.gov/psychotherapies,NNS,NNS,,YES,NN,web address -> NN (OntoNotes ADD)
+16,6,.,.,.,.,,.,both taggers agree
+17,0,Benzodiazepines,NNS,NNS,NNS,,NNS,both taggers agree
+17,1,are,VBP,VBP,VBP,,VBP,both taggers agree
+17,2,not,RB,RB,RB,,RB,both taggers agree
+17,3,recommended,VBN,VBN,VBN,,VBN,both taggers agree
+17,4,for,IN,IN,IN,,IN,both taggers agree
+17,5,the,DT,DT,DT,,DT,both taggers agree
+17,6,treatment,NN,NN,NN,,NN,both taggers agree
+17,7,of,IN,IN,IN,,IN,both taggers agree
+17,8,adults,NNS,NNS,NNS,,NNS,both taggers agree
+17,9,with,IN,IN,IN,,IN,both taggers agree
+17,10,generalized,JJ,JJ,JJ,,JJ,both taggers agree
+17,11,anxiety,NN,NN,NN,,NN,both taggers agree
+17,12,disorder,NN,NN,NN,,NN,both taggers agree
+17,13,(,(,(,(,,(,both taggers agree
+17,14,GAD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+17,15,),),),),,),both taggers agree
+17,16,and/or,VBZ,CC,,YES,CC,context decision (see note)
+17,17,panic,JJ,NN,,YES,NN,medicine / noun modifier -> NN
+17,18,disorder,NN,NN,NN,,NN,both taggers agree
+17,19,.,.,.,.,,.,both taggers agree
+18,0,obsessive,JJ,JJ,JJ,,JJ,both taggers agree
+18,1,compulsive,JJ,JJ,JJ,,JJ,both taggers agree
+18,2,disorder,NN,NN,NN,,NN,both taggers agree
+18,3,(,(,(,(,,(,both taggers agree
+18,4,OCD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+18,5,),),),),,),both taggers agree
+19,0,NIMH,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+19,1,supports,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+19,2,clinical,JJ,JJ,JJ,,JJ,both taggers agree
+19,3,trials,NNS,NNS,NNS,,NNS,both taggers agree
+19,4,across,IN,IN,IN,,IN,both taggers agree
+19,5,the,DT,DT,DT,,DT,both taggers agree
+19,6,United,NNP,NNP,NNP,,NNP,both taggers agree
+19,7,States,NNPS,NNP,,YES,NNPS,context decision (see note)
+19,8,.,.,.,.,,.,both taggers agree
+20,0,Symptoms,NNS,NNS,NNS,,NNS,both taggers agree
+20,1,of,IN,IN,IN,,IN,both taggers agree
+20,2,PTSD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+20,3,usually,RB,RB,RB,,RB,both taggers agree
+20,4,begin,VBP,VBP,VBP,,VBP,both taggers agree
+20,5,within,IN,IN,IN,,IN,both taggers agree
+20,6,3,CD,CD,CD,,CD,both taggers agree
+20,7,months,NNS,NNS,NNS,,NNS,both taggers agree
+20,8,of,IN,IN,IN,,IN,both taggers agree
+20,9,the,DT,DT,DT,,DT,both taggers agree
+20,10,traumatic,JJ,JJ,JJ,,JJ,both taggers agree
+20,11,event,NN,NN,NN,,NN,both taggers agree
+20,12,",",",",",",",",,",",both taggers agree
+20,13,but,CC,CC,CC,,CC,both taggers agree
+20,14,they,PRP,PRP,PRP,,PRP,both taggers agree
+20,15,sometimes,RB,RB,RB,,RB,both taggers agree
+20,16,emerge,VBP,VBP,VBP,,VBP,both taggers agree
+20,17,later,RB,RBR,,YES,RB,context decision (see note)
+20,18,.,.,.,.,,.,both taggers agree
+21,0,Follow,IN,VB,,YES,VB,imperative or finite verb
+21,1,the,DT,DT,DT,,DT,both taggers agree
+21,2,MHRA,NNP,NNP,NNP,,NNP,both taggers agree
+21,3,safety,NN,NN,NN,,NN,both taggers agree
+21,4,advice,NN,NN,NN,,NN,both taggers agree
+21,5,on,IN,IN,IN,,IN,both taggers agree
+21,6,citalopram,NN,NN,,YES,NN,medicine / noun modifier -> NN
+21,7,.,.,.,.,,.,both taggers agree
+22,0,CBT,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+22,1,to,TO,TO,TO,,TO,both taggers agree
+22,2,become,VB,VB,VB,,VB,both taggers agree
+22,3,available,JJ,JJ,JJ,,JJ,both taggers agree
+22,4,in,IN,IN,IN,,IN,both taggers agree
+22,5,routine,JJ,JJ,JJ,,JJ,both taggers agree
+22,6,practice,NN,NN,NN,,NN,both taggers agree
+22,7,.,.,.,.,,.,both taggers agree
+23,0,Further,JJ,JJ,JJ,,JJ,both taggers agree
+23,1,research,NN,NN,NN,,NN,both taggers agree
+23,2,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+23,3,needed,VBN,VBN,VBN,,VBN,both taggers agree
+23,4,in,IN,IN,IN,,IN,both taggers agree
+23,5,LMICs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+23,6,.,.,.,.,,.,both taggers agree
+24,0,The,DT,DT,DT,,DT,both taggers agree
+24,1,medicine,NN,NN,NN,,NN,both taggers agree
+24,2,choice,NN,NN,NN,,NN,both taggers agree
+24,3,should,MD,MD,MD,,MD,both taggers agree
+24,4,consider,VB,VB,VB,,VB,both taggers agree
+24,5,",",",",",",",",,",",both taggers agree
+24,6,besides,IN,IN,IN,,IN,both taggers agree
+24,7,effectiveness,NN,NN,NN,,NN,both taggers agree
+24,8,",",",",",",",",,",",both taggers agree
+24,9,factors,NNS,NNS,NNS,,NNS,both taggers agree
+24,10,such,JJ,JJ,JJ,,JJ,both taggers agree
+24,11,as,IN,IN,IN,,IN,both taggers agree
+24,12,demographic,JJ,JJ,JJ,,JJ,both taggers agree
+24,13,characteristics,NNS,NNS,NNS,,NNS,both taggers agree
+24,14,(,(,(,(,,(,both taggers agree
+24,15,e.g.,VB,RB,,YES,FW,Latin abbreviation -> FW
+25,0,The,DT,DT,DT,,DT,both taggers agree
+25,1,National,NNP,NNP,NNP,,NNP,both taggers agree
+25,2,Center,NNP,NNP,NNP,,NNP,both taggers agree
+25,3,for,IN,IN,IN,,IN,both taggers agree
+25,4,PTSD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+25,5,",",",",",",",",,",",both taggers agree
+25,6,a,DT,DT,DT,,DT,both taggers agree
+25,7,program,NN,NN,NN,,NN,both taggers agree
+25,8,of,IN,IN,IN,,IN,both taggers agree
+25,9,the,DT,DT,DT,,DT,both taggers agree
+25,10,U,NNP,NN,,YES,NNP,context decision (see note)
+25,11,.,.,.,.,,.,both taggers agree
+25,12,S,NNP,NN,,YES,NNP,context decision (see note)
+25,13,.,.,.,.,,.,both taggers agree
+25,14,Department,NNP,NNP,NNP,,NNP,both taggers agree
+25,15,of,IN,IN,IN,,IN,both taggers agree
+25,16,Veterans,NNP,NNPS,,YES,NNPS,context decision (see note)
+26,0,EML,NNP,NNP,NNP,,NNP,both taggers agree
+26,1,",",",",",",",",,",",both taggers agree
+26,2,with,IN,IN,IN,,IN,both taggers agree
+26,3,other,JJ,JJ,JJ,,JJ,both taggers agree
+26,4,SSRIs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+26,5,listed,VBN,VBN,VBN,,VBN,both taggers agree
+26,6,as,IN,IN,IN,,IN,both taggers agree
+26,7,alternatives,NNS,NNS,NNS,,NNS,both taggers agree
+26,8,(,(,(,(,,(,both taggers agree
+26,9,13,CD,CD,CD,,CD,both taggers agree
+26,10,),),),),,),both taggers agree
+26,11,.,.,.,.,,.,both taggers agree
+27,0,higher,JJR,JJR,JJR,,JJR,both taggers agree
+27,1,risks,NNS,NNS,NNS,,NNS,both taggers agree
+27,2,and,CC,CC,CC,,CC,both taggers agree
+27,3,side-effects,NNS,NNS,NNS,,NNS,both taggers agree
+27,4,that,WDT,WDT,WDT,,WDT,both taggers agree
+27,5,may,MD,MD,MD,,MD,both taggers agree
+27,6,be,VB,VB,VB,,VB,both taggers agree
+27,7,associated,VBN,VBN,VBN,,VBN,both taggers agree
+27,8,with,IN,IN,IN,,IN,both taggers agree
+27,9,pregnancy,NN,NN,NN,,NN,both taggers agree
+27,10,or,CC,CC,CC,,CC,both taggers agree
+27,11,older,JJR,JJR,JJR,,JJR,both taggers agree
+27,12,age,NN,NN,NN,,NN,both taggers agree
+27,13,),),),),,),both taggers agree
+27,14,",",",",",",",",,",",both taggers agree
+27,15,side-effects,JJ,JJ,JJ,,JJ,both taggers agree
+27,16,profiles,NNS,NNS,NNS,,NNS,both taggers agree
+27,17,(,(,(,(,,(,both taggers agree
+27,18,e.g.,VB,RB,,YES,FW,Latin abbreviation -> FW
+28,0,Sedating,VBG,VBG,VBG,,VBG,both taggers agree
+28,1,antihistamines,NNS,NNS,NNS,,NNS,both taggers agree
+28,2,or,CC,CC,CC,,CC,both taggers agree
+28,3,antipsychotics,NNS,NNS,NNS,,NNS,both taggers agree
+28,4,should,MD,MD,MD,,MD,both taggers agree
+28,5,not,RB,RB,RB,,RB,both taggers agree
+28,6,be,VB,VB,VB,,VB,both taggers agree
+28,7,prescribed,VBN,VBN,VBN,,VBN,both taggers agree
+28,8,for,IN,IN,IN,,IN,both taggers agree
+28,9,the,DT,DT,DT,,DT,both taggers agree
+28,10,treatment,NN,NN,NN,,NN,both taggers agree
+28,11,of,IN,IN,IN,,IN,both taggers agree
+28,12,panic,JJ,NN,,YES,NN,medicine / noun modifier -> NN
+28,13,disorder,NN,NN,NN,,NN,both taggers agree
+28,14,.,.,.,.,,.,both taggers agree
+29,0,NIMH,NNP,JJ,,YES,NNP,named condition/organisation acronym -> NNP
+29,1,website,JJ,NN,,YES,NN,context decision (see note)
+29,2,www.nimh.nih.gov,NN,NNP,,YES,NN,web address -> NN (OntoNotes ADD)
+29,3,www.nimh.nih.gov/espanol,NN,NN,,YES,NN,web address -> NN (OntoNotes ADD)
+29,4,(,(,(,(,,(,both taggers agree
+29,5,en,JJ,FW,,YES,FW,context decision (see note)
+29,6,espa,FW,NN,,YES,FW,context decision (see note)
+29,7,ol,NN,NNP,,YES,FW,context decision (see note)
+29,8,),),),),,),both taggers agree
+30,0,Further,RB,JJ,,YES,JJ,context decision (see note)
+30,1,research,NN,NN,NN,,NN,both taggers agree
+30,2,on,IN,IN,IN,,IN,both taggers agree
+30,3,disulfiram,NN,NNP,,YES,NN,medicine / noun modifier -> NN
+30,4,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+30,5,required,VBN,VBN,VBN,,VBN,both taggers agree
+30,6,.,.,.,.,,.,both taggers agree
+31,0,Care,NN,NN,NN,,NN,both taggers agree
+31,1,managers,NNS,NNS,NNS,,NNS,both taggers agree
+31,2,often,RB,RB,RB,,RB,both taggers agree
+31,3,also,RB,RB,RB,,RB,both taggers agree
+31,4,facilitate,JJ,VBP,,YES,VBP,imperative or finite verb
+31,5,access,NN,NN,NN,,NN,both taggers agree
+31,6,to,TO,IN,,YES,TO,'to' is always TO in Penn
+31,7,community,NN,NN,NN,,NN,both taggers agree
+31,8,resources,NNS,NNS,NNS,,NNS,both taggers agree
+31,9,where,WRB,WRB,WRB,,WRB,both taggers agree
+31,10,indicated,VBN,VBN,VBN,,VBN,both taggers agree
+31,11,(,(,(,(,,(,both taggers agree
+31,12,e.g.,NN,RB,,YES,FW,Latin abbreviation -> FW
+32,0,However,RB,RB,RB,,RB,both taggers agree
+32,1,",",",",",",",",,",",both taggers agree
+32,2,the,DT,DT,DT,,DT,both taggers agree
+32,3,NHS,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+32,4,advises,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+32,5,avoiding,VBG,VBG,VBG,,VBG,both taggers agree
+32,6,exercise,NN,NN,NN,,NN,both taggers agree
+32,7,in,IN,IN,IN,,IN,both taggers agree
+32,8,the,DT,DT,DT,,DT,both taggers agree
+32,9,4,CD,CD,CD,,CD,both taggers agree
+32,10,hours,NNS,NNS,NNS,,NNS,both taggers agree
+32,11,before,IN,IN,IN,,IN,both taggers agree
+32,12,bed,NN,NN,NN,,NN,both taggers agree
+32,13,",",",",",",",",,",",both taggers agree
+32,14,so,RB,RB,RB,,RB,both taggers agree
+32,15,try,VB,VB,VB,,VB,both taggers agree
+32,16,to,TO,TO,TO,,TO,both taggers agree
+32,17,be,VB,VB,VB,,VB,both taggers agree
+32,18,active,JJ,JJ,JJ,,JJ,both taggers agree
+32,19,in,IN,IN,IN,,IN,both taggers agree
+32,20,the,DT,DT,DT,,DT,both taggers agree
+32,21,morning,NN,NN,NN,,NN,both taggers agree
+32,22,or,CC,CC,CC,,CC,both taggers agree
+32,23,early,JJ,JJ,JJ,,JJ,both taggers agree
+32,24,afternoon,NN,NN,NN,,NN,both taggers agree
+32,25,instead,RB,RB,RB,,RB,both taggers agree
+32,26,.,.,.,.,,.,both taggers agree
+33,0,Psychosocial,JJ,JJ,JJ,,JJ,both taggers agree
+33,1,interventions,NNS,NNS,NNS,,NNS,both taggers agree
+33,2,for,IN,IN,IN,,IN,both taggers agree
+33,3,alcohol,NN,NN,NN,,NN,both taggers agree
+33,4,dependence,NN,NN,NN,,NN,both taggers agree
+33,5,should,MD,MD,MD,,MD,both taggers agree
+33,6,be,VB,VB,VB,,VB,both taggers agree
+33,7,considered,VBN,VBN,VBN,,VBN,both taggers agree
+33,8,in,IN,IN,IN,,IN,both taggers agree
+33,9,conjunction,NN,NN,NN,,NN,both taggers agree
+33,10,with,IN,IN,IN,,IN,both taggers agree
+33,11,other,JJ,JJ,JJ,,JJ,both taggers agree
+33,12,modalities,NNS,NNS,NNS,,NNS,both taggers agree
+33,13,of,IN,IN,IN,,IN,both taggers agree
+33,14,treatment,NN,NN,NN,,NN,both taggers agree
+33,15,(,(,(,(,,(,both taggers agree
+33,16,i.e.,JJ,FW,,YES,FW,Latin abbreviation -> FW
+34,0,The,DT,DT,DT,,DT,both taggers agree
+34,1,combination,NN,NN,NN,,NN,both taggers agree
+34,2,of,IN,IN,IN,,IN,both taggers agree
+34,3,depot,NN,JJ,,YES,NN,context decision (see note)
+34,4,naltrexone,NN,NN,,YES,NN,medicine / noun modifier -> NN
+34,5,and,CC,CC,CC,,CC,both taggers agree
+34,6,bupropion,NN,NN,NN,,NN,both taggers agree
+34,7,had,VBD,VBD,VBD,,VBD,both taggers agree
+34,8,a,DT,DT,DT,,DT,both taggers agree
+34,9,small,JJ,JJ,JJ,,JJ,both taggers agree
+34,10,but,CC,CC,CC,,CC,both taggers agree
+34,11,statistically,JJ,RB,,YES,RB,context decision (see note)
+34,12,significant,JJ,JJ,JJ,,JJ,both taggers agree
+34,13,impact,NN,NN,NN,,NN,both taggers agree
+34,14,on,IN,IN,IN,,IN,both taggers agree
+34,15,methamphetamine,NN,NN,NN,,NN,both taggers agree
+34,16,use,NN,NN,NN,,NN,both taggers agree
+34,17,in,IN,IN,IN,,IN,both taggers agree
+34,18,a,DT,DT,DT,,DT,both taggers agree
+34,19,recent,JJ,JJ,JJ,,JJ,both taggers agree
+34,20,trial,NN,NN,NN,,NN,both taggers agree
+34,21,.,.,.,.,,.,both taggers agree
+35,0,GAD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+35,1,usually,RB,RB,RB,,RB,both taggers agree
+35,2,involves,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+35,3,a,DT,DT,DT,,DT,both taggers agree
+35,4,persistent,JJ,JJ,JJ,,JJ,both taggers agree
+35,5,feeling,NN,NN,NN,,NN,both taggers agree
+35,6,of,IN,IN,IN,,IN,both taggers agree
+35,7,anxiety,NN,NN,NN,,NN,both taggers agree
+35,8,or,CC,CC,CC,,CC,both taggers agree
+35,9,dread,NN,NN,NN,,NN,both taggers agree
+35,10,that,WDT,WDT,WDT,,WDT,both taggers agree
+35,11,interferes,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+35,12,with,IN,IN,IN,,IN,both taggers agree
+35,13,how,WRB,WRB,WRB,,WRB,both taggers agree
+35,14,you,PRP,PRP,PRP,,PRP,both taggers agree
+35,15,live,VBP,VBP,VBP,,VBP,both taggers agree
+35,16,your,PRP$,PRP$,PRP$,,PRP$,both taggers agree
+35,17,life,NN,NN,NN,,NN,both taggers agree
+35,18,.,.,.,.,,.,both taggers agree
+36,0,The,DT,DT,DT,,DT,both taggers agree
+36,1,decision,NN,NN,NN,,NN,both taggers agree
+36,2,to,TO,TO,TO,,TO,both taggers agree
+36,3,use,VB,VB,VB,,VB,both taggers agree
+36,4,acamprosate,NN,NN,,YES,NN,medicine / noun modifier -> NN
+36,5,",",",",",",",",,",",both taggers agree
+36,6,disulfiram,NN,NNP,,YES,NN,medicine / noun modifier -> NN
+36,7,or,CC,CC,CC,,CC,both taggers agree
+36,8,naltrexone,NN,NN,,YES,NN,medicine / noun modifier -> NN
+36,9,should,MD,MD,MD,,MD,both taggers agree
+36,10,be,VB,VB,VB,,VB,both taggers agree
+36,11,made,VBN,VBN,VBN,,VBN,both taggers agree
+36,12,taking,VBG,VBG,VBG,,VBG,both taggers agree
+36,13,into,IN,IN,IN,,IN,both taggers agree
+36,14,consideration,NN,NN,NN,,NN,both taggers agree
+36,15,harms,NNS,NNS,NNS,,NNS,both taggers agree
+36,16,and,CC,CC,CC,,CC,both taggers agree
+36,17,benefits,NNS,NNS,NNS,,NNS,both taggers agree
+36,18,",",",",",",",",,",",both taggers agree
+36,19,availability,NN,NN,NN,,NN,both taggers agree
+36,20,and,CC,CC,CC,,CC,both taggers agree
+36,21,individual,JJ,JJ,JJ,,JJ,both taggers agree
+36,22,preference,NN,NN,NN,,NN,both taggers agree
+36,23,.,.,.,.,,.,both taggers agree
+37,0,Brief,JJ,JJ,JJ,,JJ,both taggers agree
+37,1,intervention,NN,NN,NN,,NN,both taggers agree
+37,2,programmes,NNS,NNS,NNS,,NNS,both taggers agree
+37,3,are,VBP,VBP,VBP,,VBP,both taggers agree
+37,4,suitable,JJ,JJ,JJ,,JJ,both taggers agree
+37,5,for,IN,IN,IN,,IN,both taggers agree
+37,6,LMICs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+37,7,.,.,.,.,,.,both taggers agree
+38,0,Suicide,NNP,NN,,YES,NN,context decision (see note)
+38,1,is,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+38,2,the,DT,DT,DT,,DT,both taggers agree
+38,3,third,JJ,JJ,JJ,,JJ,both taggers agree
+38,4,leading,JJ,VBG,,YES,JJ,context decision (see note)
+38,5,cause,NN,NN,NN,,NN,both taggers agree
+38,6,of,IN,IN,IN,,IN,both taggers agree
+38,7,death,NN,NN,NN,,NN,both taggers agree
+38,8,in,IN,IN,IN,,IN,both taggers agree
+38,9,15–29,CD,CD,,YES,CD,context decision (see note)
+38,10,-,:,:,:,,:,both taggers agree
+38,11,year-olds,NNS,NNS,NNS,,NNS,both taggers agree
+38,12,.,.,.,.,,.,both taggers agree
+39,0,The,DT,DT,DT,,DT,both taggers agree
+39,1,term,NN,NN,NN,,NN,both taggers agree
+39,2,"""",NNP,``,,YES,``,context decision (see note)
+39,3,alcohol,NN,NN,NN,,NN,both taggers agree
+39,4,dependence,NN,NN,NN,,NN,both taggers agree
+39,5,"""",NN,'',,YES,'',context decision (see note)
+39,6,refers,NNS,VBZ,,YES,VBZ,imperative or finite verb
+39,7,to,TO,IN,,YES,TO,'to' is always TO in Penn
+39,8,diagnosis,VB,NN,,YES,NN,context decision (see note)
+39,9,according,VBG,VBG,VBG,,VBG,both taggers agree
+39,10,to,TO,IN,,YES,TO,'to' is always TO in Penn
+39,11,the,DT,DT,DT,,DT,both taggers agree
+39,12,ICD-10,NNP,NNP,,YES,NNP,classification code -> NNP
+39,13,or,CC,CC,CC,,CC,both taggers agree
+39,14,DSM-IV,NNP,JJ,,YES,NNP,classification code -> NNP
+39,15,criteria,NNS,NNS,NNS,,NNS,both taggers agree
+39,16,or,CC,CC,CC,,CC,both taggers agree
+39,17,equivalent,JJ,JJ,JJ,,JJ,both taggers agree
+39,18,ICD-11,JJ,NNP,,YES,NNP,classification code -> NNP
+39,19,and,CC,CC,CC,,CC,both taggers agree
+39,20,DSM-5,JJ,NNP,,YES,NNP,classification code -> NNP
+39,21,diagnosis,NN,NN,NN,,NN,both taggers agree
+39,22,.,.,.,.,,.,both taggers agree
+40,0,Feltz-Cornelis,JJ,JJ,JJ,,JJ,both taggers agree
+40,1,et,NN,NNP,,YES,FW,context decision (see note)
+40,2,al,NN,NNP,,YES,FW,context decision (see note)
+40,3,.,.,NNP,,YES,.,context decision (see note)
+40,4,",",",",",",",",,",",both taggers agree
+40,5,2021,CD,CD,CD,,CD,both taggers agree
+40,6,(,(,(,(,,(,both taggers agree
+40,7,8,CD,CD,CD,,CD,both taggers agree
+40,8,RCTs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+40,9,on,IN,IN,IN,,IN,both taggers agree
+40,10,long-term,JJ,JJ,JJ,,JJ,both taggers agree
+40,11,outcomes,NNS,NNS,NNS,,NNS,both taggers agree
+40,12,for,IN,IN,IN,,IN,both taggers agree
+40,13,adults,NNS,NNS,NNS,,NNS,both taggers agree
+40,14,with,IN,IN,IN,,IN,both taggers agree
+40,15,anxiety,NN,NN,NN,,NN,both taggers agree
+40,16,disorders,NNS,NNS,NNS,,NNS,both taggers agree
+40,17,following,VBG,VBG,VBG,,VBG,both taggers agree
+40,18,benzodiazepine,NN,NN,NN,,NN,both taggers agree
+40,19,use,NN,NN,NN,,NN,both taggers agree
+40,20,),),),),,),both taggers agree
+40,21,(,(,(,(,,(,both taggers agree
+40,22,50,CD,CD,CD,,CD,both taggers agree
+40,23,),),),),,),both taggers agree
+40,24,.,.,.,.,,.,both taggers agree
+41,0,supporting,VBG,VBG,VBG,,VBG,both taggers agree
+41,1,people,NNS,NNS,NNS,,NNS,both taggers agree
+41,2,to,TO,TO,TO,,TO,both taggers agree
+41,3,be,VB,VB,VB,,VB,both taggers agree
+41,4,safe,JJ,JJ,JJ,,JJ,both taggers agree
+41,5,after,IN,IN,IN,,IN,both taggers agree
+41,6,self-harm,NN,JJ,,YES,NN,medicine / noun modifier -> NN
+41,7,.,.,.,.,,.,both taggers agree
+42,0,Adults,NNS,NNS,NNS,,NNS,both taggers agree
+42,1,with,IN,IN,IN,,IN,both taggers agree
+42,2,GAD,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+42,3,are,VBP,VBP,VBP,,VBP,both taggers agree
+42,4,often,RB,RB,RB,,RB,both taggers agree
+42,5,highly,RB,RB,RB,,RB,both taggers agree
+42,6,nervous,JJ,JJ,JJ,,JJ,both taggers agree
+42,7,about,IN,IN,IN,,IN,both taggers agree
+42,8,everyday,JJ,JJ,JJ,,JJ,both taggers agree
+42,9,circumstances,NNS,NNS,NNS,,NNS,both taggers agree
+42,10,",",",",",",",",,",",both taggers agree
+42,11,such,JJ,JJ,JJ,,JJ,both taggers agree
+42,12,as,IN,IN,IN,,IN,both taggers agree
+42,13,:,:,:,:,,:,both taggers agree
+43,0,The,DT,DT,DT,,DT,both taggers agree
+43,1,term,NN,NN,NN,,NN,both taggers agree
+43,2,"""",NNP,'',,YES,``,context decision (see note)
+43,3,cocaine,NN,NN,NN,,NN,both taggers agree
+43,4,or,CC,CC,CC,,CC,both taggers agree
+43,5,stimulant,NN,JJ,,YES,NN,context decision (see note)
+43,6,use,NN,NN,NN,,NN,both taggers agree
+43,7,disorders,NNS,NNS,NNS,,NNS,both taggers agree
+43,8,"""",VBP,'',,YES,'',context decision (see note)
+43,9,refers,NNS,VBZ,,YES,VBZ,imperative or finite verb
+43,10,to,TO,IN,,YES,TO,'to' is always TO in Penn
+43,11,diagnosis,VB,NN,,YES,NN,context decision (see note)
+43,12,according,VBG,VBG,VBG,,VBG,both taggers agree
+43,13,to,TO,IN,,YES,TO,'to' is always TO in Penn
+43,14,the,DT,DT,DT,,DT,both taggers agree
+43,15,ICD-10,NNP,NNP,,YES,NNP,classification code -> NNP
+43,16,",",",",",",",",,",",both taggers agree
+43,17,DSM-IV,NNP,VBD,,YES,NNP,classification code -> NNP
+43,18,criteria,NNS,NNS,NNS,,NNS,both taggers agree
+43,19,or,CC,CC,CC,,CC,both taggers agree
+43,20,equivalent,JJ,JJ,JJ,,JJ,both taggers agree
+43,21,ICD-11,JJ,NNP,,YES,NNP,classification code -> NNP
+43,22,and,CC,CC,CC,,CC,both taggers agree
+43,23,DSM-5,JJ,NNP,,YES,NNP,classification code -> NNP
+43,24,diagnosis,NN,NN,NN,,NN,both taggers agree
+43,25,.,.,.,.,,.,both taggers agree
+44,0,some,DT,DT,DT,,DT,both taggers agree
+44,1,other,JJ,JJ,JJ,,JJ,both taggers agree
+44,2,medicines,NNS,NNS,NNS,,NNS,both taggers agree
+44,3,–,IN,:,,YES,:,context decision (see note)
+44,4,including,VBG,VBG,VBG,,VBG,both taggers agree
+44,5,non-steroidal,JJ,JJ,JJ,,JJ,both taggers agree
+44,6,anti-inflammatory,JJ,JJ,JJ,,JJ,both taggers agree
+44,7,drugs,NNS,NNS,NNS,,NNS,both taggers agree
+44,8,(,(,(,(,,(,both taggers agree
+44,9,NSAIDs,NNP,NNS,,YES,NNS,plural acronym (drug class / country group) -> NNS
+44,10,),),),),,),both taggers agree
+44,11,",",",",",",",",,",",both taggers agree
+44,12,and,CC,CC,CC,,CC,both taggers agree
+44,13,other,JJ,JJ,JJ,,JJ,both taggers agree
+44,14,antidepressants,NNS,NNS,NNS,,NNS,both taggers agree
+45,0,The,DT,DT,DT,,DT,both taggers agree
+45,1,Interagency,NNP,NNP,NNP,,NNP,both taggers agree
+45,2,health,NN,NN,NN,,NN,both taggers agree
+45,3,kit,NN,NN,NN,,NN,both taggers agree
+45,4,2017,CD,CD,CD,,CD,both taggers agree
+45,5,includes,VBZ,VBZ,VBZ,,VBZ,both taggers agree
+45,6,fluoxetine,NN,NN,,YES,NN,medicine / noun modifier -> NN
+45,7,(,(,(,(,,(,both taggers agree
+45,8,133,CD,CD,CD,,CD,both taggers agree
+45,9,),),),),,),both taggers agree
+45,10,.,.,.,.,,.,both taggers agree
+46,0,For,IN,IN,IN,,IN,both taggers agree
+46,1,additional,JJ,JJ,JJ,,JJ,both taggers agree
+46,2,resources,NNS,NNS,NNS,,NNS,both taggers agree
+46,3,",",",",",",",",,",",both taggers agree
+46,4,visit,NN,VB,,YES,VB,imperative or finite verb
+46,5,www.nimh.nih.gov/findhelp,NN,NN,,YES,NN,web address -> NN (OntoNotes ADD)
+46,6,.,.,.,.,,.,both taggers agree
+47,0,There,EX,EX,EX,,EX,both taggers agree
+47,1,were,VBD,VBD,VBD,,VBD,both taggers agree
+47,2,no,DT,DT,DT,,DT,both taggers agree
+47,3,significant,JJ,JJ,JJ,,JJ,both taggers agree
+47,4,differences,NNS,NNS,NNS,,NNS,both taggers agree
+47,5,between,IN,IN,IN,,IN,both taggers agree
+47,6,CBT,NNP,NNP,,YES,NNP,named condition/organisation acronym -> NNP
+47,7,",",",",",",",",,",",both taggers agree
+48,0,For,IN,IN,IN,,IN,both taggers agree
+48,1,more,JJR,JJR,JJR,,JJR,both taggers agree
+48,2,information,NN,NN,NN,,NN,both taggers agree
+48,3,",",",",",",",",,",",both taggers agree
+48,4,visit,NN,VB,,YES,VB,imperative or finite verb
+48,5,www.nimh.nih.gov/clinicaltrials,NNS,NNS,,YES,NN,web address -> NN (OntoNotes ADD)
+48,6,.,.,.,.,,.,both taggers agree
+49,0,Step,NN,NN,NN,,NN,both taggers agree
+49,1,3,CD,CD,CD,,CD,both taggers agree
+49,2,for,IN,IN,IN,,IN,both taggers agree
+49,3,people,NNS,NNS,NNS,,NNS,both taggers agree
+49,4,with,IN,IN,IN,,IN,both taggers agree
+49,5,panic,JJ,NN,,YES,NN,medicine / noun modifier -> NN
+49,6,disorder,NN,NN,NN,,NN,both taggers agree
+49,7,:,:,:,:,,:,both taggers agree
+49,8,review,NN,VB,,YES,VB,imperative or finite verb
+49,9,and,CC,CC,CC,,CC,both taggers agree
+49,10,offer,VBP,VB,,YES,VB,imperative or finite verb
+49,11,alternative,JJ,JJ,JJ,,JJ,both taggers agree
+49,12,treatment,NN,NN,NN,,NN,both taggers agree
+49,13,if,IN,IN,IN,,IN,both taggers agree
+49,14,appropriate,JJ,JJ,JJ,,JJ,both taggers agree

@@ -1,0 +1,21 @@
+n,N-gram type,List,Rank,N-gram,Frequency,Relative frequency (%)
+3,Trigram,raw,1,in adults with,60,0.179
+3,Trigram,raw,2,for people with,42,0.125
+3,Trigram,raw,3,for adults with,39,0.116
+3,Trigram,raw,4,of mental health,32,0.096
+3,Trigram,raw,5,how is this,30,0.09
+3,Trigram,raw,6,is this delivered,30,0.09
+3,Trigram,raw,7,other things to,30,0.09
+3,Trigram,raw,8,things to think,30,0.09
+3,Trigram,raw,9,to think about,30,0.09
+3,Trigram,raw,10,health care provider,30,0.09
+3,Trigram,phrase,1,health care provider,30,0.09
+3,Trigram,phrase,2,certainty of evidence,27,0.081
+3,Trigram,phrase,3,drug use disorders,27,0.081
+3,Trigram,phrase,4,research is needed,26,0.078
+3,Trigram,phrase,5,end of treatment,24,0.072
+3,Trigram,phrase,6,adults with anxiety,23,0.069
+3,Trigram,phrase,7,mental health services,22,0.066
+3,Trigram,phrase,8,strength of recommendation,22,0.066
+3,Trigram,phrase,9,compared with no,21,0.063
+3,Trigram,phrase,10,potential side effects,19,0.057

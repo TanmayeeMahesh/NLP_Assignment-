@@ -1,0 +1,22 @@
+Word,Stemmed (Snowball),Lemmatized (spaCy + domain rules)
+depression,depress,depression
+depressed,depress,depressed
+antidepressants,antidepress,antidepressant
+medication,medic,medication
+medical,medic,medical
+medicines,medicin,medicine
+anxiety,anxieti,anxiety
+anxious,anxious,anxious
+therapies,therapi,therapy
+suicidal,suicid,suicidal
+sleeping,sleep,sleep
+slept,slept,sleep
+children,children,child
+worse,wors,bad
+better,better,well
+diagnoses,diagnos,diagnose
+psychoses,psychos,psychosis
+worries,worri,worry
+SSRIs,ssris,ssri
+generalised,generalis,generalised
+media,media,media

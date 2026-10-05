@@ -1,0 +1,6 @@
+Measure,Before processing,After processing,Change (%)
+Documents,17.0,17.0,0.0
+Tokens,39961.0,24913.0,-37.7
+Unique tokens,5976.0,2919.0,-51.2
+Vocabulary size,5421.0,2919.0,-46.2
+Average tokens per document,2350.6,1465.5,-37.7

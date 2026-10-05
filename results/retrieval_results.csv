@@ -1,0 +1,15 @@
+Query ID,Query,Query Type,Query terms (pipeline),Retrieved Documents,# Results,Time (ms)
+Q01,anxiety,Unigram (keyword),anxiety,"D04, D08, D16, D02, D13, D07, D10, D14, D01, D17, D03, D09, D12",13,6.6
+Q02,panic disorder,Bigram (phrase),panic disorder,"D04, D02, D03, D07, D09, D14",6,6.8
+Q03,generalised anxiety disorder,Trigram (phrase),generalised anxiety disorder,"D08, D04, D02, D03, D07, D14",6,5.8
+Q04,antidepressant side effects,Trigram (keyword),antidepressant side effect,"D14, D01, D02, D07, D04, D08, D25, D06, D24, D17, D12, D03, D09, D11",14,4.7
+Q05,how to stop taking antidepressants safely,4-gram (keyword),stop take antidepressant safely,"D14, D01, D04, D02, D03, D07, D25, D24, D06, D12, D08, D09, D11, D13, D16, D10, D17",17,6.5
+Q06,alcohol AND medication,Boolean AND,alcohol medication,"D01, D07, D02, D08, D09, D24, D14",7,11.8
+Q07,suicide OR self-harm,Boolean OR,suicide self-harm,"D03, D11, D06, D04, D07, D10, D01, D02, D14, D08, D09, D16",12,13.5
+Q08,depression AND NOT anxiety,Boolean NOT,depression anxiety,"D06, D11, D25",3,12.0
+Q09,trouble sleeping,Bigram (keyword),trouble sleep,"D08, D11, D07, D09, D17, D04, D16, D06, D14, D01, D02, D10",12,6.8
+Q10,PTSD OR trauma,Boolean OR,ptsd trauma,"D09, D14, D25",3,13.8
+Q11,crisis helpline,Bigram (keyword),crisis helpline,"D11, D03, D07, D06, D08, D09, D10, D14, D16",9,17.0
+Q12,low self-esteem,Bigram (phrase),low self-esteem,"D12, D07",2,4.4
+Q13,loneliness,Unigram (keyword),loneliness,D13,1,5.2
+Q14,"""drug use disorders"" AND psychosocial",Combined (phrase + Boolean),drug use disorder psychosocial,D25,1,14.0

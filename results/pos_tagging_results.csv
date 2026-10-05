@@ -1,0 +1,24 @@
+Word,Gold POS,Default POS (NLTK),Default POS (spaCy),Custom POS (rule-based),NLTK,spaCy,Custom
+panic,,JJ,NN,NN,Incorrect,Incorrect,Incorrect
+LMICs,,NNP,NNS,NNS,Incorrect,Incorrect,Incorrect
+GAD,,NNP,NNP,NNP,Incorrect,Incorrect,Incorrect
+NIMH,,NNP,JJ,NNP,Incorrect,Incorrect,Incorrect
+www.nimh.nih.gov,,NN,NNP,NNP,Incorrect,Incorrect,Incorrect
+www.nimh.nih.gov/espanol,,NN,NN,NNP,Incorrect,Incorrect,Incorrect
+naltrexone,,NN,NN,NN,Incorrect,Incorrect,Incorrect
+CBT,,NNP,NNP,NNP,Incorrect,Incorrect,Incorrect
+NSAIDs,,NNP,NNS,NNS,Incorrect,Incorrect,Incorrect
+GAD,,NNP,NNP,NNP,Incorrect,Incorrect,Incorrect
+e.g.,,VB,RB,FW,Incorrect,Incorrect,Incorrect
+NHS,,NNP,NNP,NNP,Incorrect,Incorrect,Incorrect
+e.g.,,NN,RB,FW,Incorrect,Incorrect,Incorrect
+self-harm,,NN,JJ,NN,Incorrect,Incorrect,Incorrect
+PTSD,,NNP,NN,NNP,Incorrect,Incorrect,Incorrect
+self-harm,,JJ,NN,NN,Incorrect,Incorrect,Incorrect
+self-harm,,NN,NN,NN,Incorrect,Incorrect,Incorrect
+RCTs,,NNP,NNS,NNS,Incorrect,Incorrect,Incorrect
+GAD,,NNP,NNP,NNP,Incorrect,Incorrect,Incorrect
+www.nimh.nih.gov/findhelp,,NN,NN,NNP,Incorrect,Incorrect,Incorrect
+PTSD,,NNP,JJ,NNP,Incorrect,Incorrect,Incorrect
+i.e.,,JJ,FW,FW,Incorrect,Incorrect,Incorrect
+disulfiram,,NN,NNP,NN,Incorrect,Incorrect,Incorrect

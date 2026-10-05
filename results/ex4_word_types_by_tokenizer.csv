@@ -1,0 +1,22 @@
+Word,Category,NLTK,spaCy,Custom,Hybrid,BPE
+treatment,common,treatment,treatment,treatment,treatment,treatment
+people,common,people,people,people,people,people
+depression,common,depression,depression,depression,depression,depression
+anxiety,common,anxiety,anxiety,anxiety,anxiety,anxiety
+sleep,common,sleep,sleep,sleep,sleep,sleep
+antidepressants,domain,antidepressants,antidepressants,antidepressants,antidepressants,antidepressants
+PTSD,domain,PTSD,PTSD,PTSD,PTSD,PTSD
+psychotherapy,domain,psychotherapy,psychotherapy,psychotherapy,psychotherapy,psychotherapy
+self-harm,domain,self-harm,self | - | harm,self-harm,self-harm,self | - | harm
+mhGAP,domain,mhGAP,mhGAP,mhGAP,mhGAP,mh | GA | P
+escitalopram,domain,escitalopram,escitalopram,escitalopram,escitalopram,escitalopram
+benzodiazepines,domain,benzodiazepines,benzodiazepines,benzodiazepines,benzodiazepines,benzodiazepines
+lofepramine,rare (occurs once),lofepramine,lofepramine,lofepramine,lofepramine,lof | e | pramine
+norepinephrine,rare (occurs once),norepinephrine,norepinephrine,norepinephrine,norepinephrine,no | re | p | ine | ph | r | ine
+agoraphobia,rare (occurs once),agoraphobia,agoraphobia,agoraphobia,agoraphobia,ag | or | aph | ob | ia
+comorbidity,rare (occurs once),comorbidity,comorbidity,comorbidity,comorbidity,comorbid | ity
+antihistamines,rare (occurs once),antihistamines,antihistamines,antihistamines,antihistamines,anti | h | is | tam | ines
+buprenorphine,unseen (not in corpus),buprenorphine,buprenorphine,buprenorphine,buprenorphine,b | up | ren | or | ph | ine
+methadone,unseen (not in corpus),methadone,methadone,methadone,methadone,meth | ad | one
+lithium,unseen (not in corpus),lithium,lithium,lithium,lithium,li | th | i | um
+Samaritans,unseen (not in corpus),Samaritans,Samaritans,Samaritans,Samaritans,S | am | ar | it | ans

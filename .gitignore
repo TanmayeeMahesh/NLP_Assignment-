@@ -1,0 +1,20 @@
+# Source documents are copyrighted / licence-restricted: keep them private.
+data/raw/**
+!data/raw/**/.gitkeep
+data/processed/extracted/*.txt
+data/processed/clean/*.txt
+data/processed/units/*.json
+data/processed/corpus.json
+
+# Environment, editor and OS files
+.venv/
+venv/
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.lnk
+.gradio/
+
+# Course reference material (not ours to publish)
+notebooks/*.pdf

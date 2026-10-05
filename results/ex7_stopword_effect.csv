@@ -1,0 +1,5 @@
+Stop list,List size,Tokens kept,Removed (%),Vocabulary,Negation tokens kept,Modal tokens kept
+No removal,0,39660,0.0,3662,327,828
+NLTK list,198,24570,38.0,3539,22,326
+spaCy list,326,22968,42.1,3438,0,0
+Custom list,190,24913,37.2,3546,327,828

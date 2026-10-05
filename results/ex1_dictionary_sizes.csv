@@ -1,0 +1,4 @@
+Tokenizer,Tokens,Dictionary size,Term dictionary size,Reduction (%)
+split(),39961,5976,3804,36.3
+NLTK word_tokenize,46218,4356,3743,14.1
+spaCy tokenizer,47429,4254,3654,14.1

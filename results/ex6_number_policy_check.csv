@@ -1,0 +1,11 @@
+,Custom tokenizer only,Number policy + custom tokenizer
+Tokens,46128,45723
+Number tokens,886,613
+Distinct number tokens,358,247
+Vocabulary,4367,4255
+dose kept,0,0
+duration kept,72,72
+age kept,8,8
+sessions / frequency kept,8,8
+percentage kept,35,35
+helpline number kept,28,28
