@@ -172,6 +172,53 @@ if "Query" in QUERIES:
 EVAL_CHOICES = [f"{v['id']} · {q} · {m}" for (q, m), v in JUDGED.items()]
 
 
+# Topic labels assigned to every document when the corpus was built (corpus.json "topics"), independent of retrieval.
+# Query terms (after the pipeline, or stems for Pipeline A) that name a topic -> documents with that topic count as relevant.
+TOPIC_WORDS = {
+    "depression": ["depression", "depressive", "depressed", "depress"],
+    "anxiety": ["anxiety", "anxious", "anxieti", "gad", "panic", "worry", "generalised", "generalis"],
+    "medication": ["medication", "medic", "medicine", "medicin", "antidepressant", "antidepress", "ssri", "snri",
+                   "sertraline", "fluoxetine", "citalopram", "escitalopram", "paroxetine", "mirtazapine"],
+    "self_harm": ["self-harm"],
+    "suicide": ["suicide", "suicid", "suicidal"],
+    "trauma": ["ptsd", "trauma", "traumat", "traumatic", "post-traumatic"],
+    "eating": ["eating", "eat", "anorexia", "bulimia", "binge"],
+    "self_esteem": ["self-esteem", "confidence", "confid"],
+    "loneliness": ["loneliness", "loneli", "lonely"],
+    "stress": ["stress", "stressed"],
+    "sleep": ["sleep", "insomnia", "insomnia"],
+    "substance_use": ["alcohol", "drug", "substance", "naltrexone", "acamprosate", "disulfiram", "baclofen", "cocaine", "opioid"],
+}
+TOPIC_OF = {word: topic for topic, words in TOPIC_WORDS.items() for word in words}
+
+
+def parse_doc_ids(text):
+    """'d1, D07 d25' -> {'D01', 'D07', 'D25'} (only IDs that exist)."""
+    ids = set()
+    for item in re.split(r"[,;\s]+", text or ""):
+        match = re.fullmatch(r"[Dd](\d+)", item.strip())
+        if match and f"D{int(match.group(1)):02d}" in DOC_INFO:
+            ids.add(f"D{int(match.group(1)):02d}")
+    return ids
+
+
+def relevance_for(query, mode, terms, manual=""):
+    """(relevant doc set or None, description). Priority: user's list > our judgments > topic-label estimate."""
+    own = parse_doc_ids(manual)
+    if own:
+        return own, "your relevant documents"
+    judged = JUDGED.get((" ".join(query.split()), mode))
+    if judged:
+        return judged["relevant"], f"our relevance judgments ({judged['id']}: {judged['need']})"
+    topics = sorted({TOPIC_OF[t] for t in terms if t in TOPIC_OF})
+    if topics:
+        docs = {d for d, info in DOC_INFO.items() if set(topics) & set(info["topics"])}
+        if docs:
+            return docs, (f"an ESTIMATE: documents labelled with the topic(s) '{', '.join(topics)}' in the corpus metadata "
+                          "(not hand-judged for this query)")
+    return None, "none"
+
+
 def evaluate(ranked_docs, relevant):
     hits = len(set(ranked_docs) & relevant)
     precision = hits / len(ranked_docs) if ranked_docs else 0.0
@@ -203,28 +250,28 @@ def snippet(engine, doc_id, terms, require_all=False, width=230):
     return re.sub(r"[A-Za-z0-9][\w'-]*", lambda m: f"**{m.group()}**" if stem(m.group().lower()) in found_stems else m.group(), text)
 
 
-def run_engine(engine, query, mode, top_k):
-    """Returns (summary dict, results markdown)."""
+def run_engine(engine, query, mode, top_k, manual_relevant="", fixed_relevance=None):
+    """Returns (summary dict, results markdown). fixed_relevance=(set, source) scores several engines on one set."""
     start = time.perf_counter()
     results, terms = engine.search(query, mode)
     elapsed = 1000 * (time.perf_counter() - start)
     ranked = [d for d, _ in results]
-    judged = JUDGED.get((" ".join(query.split()), mode))
+    relevant, source = fixed_relevance or relevance_for(query, mode, terms, manual_relevant)
     summary = {"terms": " ".join(terms) or "(none: only stop words)", "docs": "  ".join(ranked) or "(none)",
-               "n": len(ranked), "ms": f"{elapsed:.1f} ms", "judged": judged}
-    if judged:
-        summary["metrics"] = evaluate(ranked, judged["relevant"])
+               "n": len(ranked), "ms": f"{elapsed:.1f} ms", "relevant": relevant, "source": source}
+    if relevant:
+        summary["metrics"] = evaluate(ranked, relevant)
     lines = []
     for rank, (doc_id, score) in enumerate(results[: int(top_k)], 1):
         info = DOC_INFO[doc_id]
         mark = ""
-        if judged:
-            mark = " ✅ relevant" if doc_id in judged["relevant"] else " ❌ not relevant"
+        if relevant:
+            mark = " ✅ relevant" if doc_id in relevant else " ❌ not relevant"
         lines.append(f"**{rank}. {doc_id}: {info['title']}**{mark}  \n"
                      f"*{info['organization']} · {info['document_type'].replace('_', ' ')} · score {score}*  \n"
                      f"> {snippet(engine, doc_id, terms, mode == 'Phrase') or '(no single sentence contains the terms)'}")
-    if judged:
-        missed = sorted(judged["relevant"] - set(ranked))
+    if relevant:
+        missed = sorted(relevant - set(ranked))
         if missed:
             lines.append(f"*Relevant but not retrieved:* {', '.join(missed)}")
     return summary, "\n\n".join(lines) or "No document matches."
@@ -328,45 +375,52 @@ def pick_eval_query(choice):
     return query, mode
 
 
-def run_search(query, mode, top_k):
+NO_RELEVANCE_NOTE = ("No relevant-document set for this query: type the relevant document IDs in the box above "
+                     "(e.g. D01, D07), pick one of the 14 judged queries, or use a query that names a topic "
+                     "(depression, anxiety, medication, sleep, suicide, PTSD, alcohol, ...).")
+
+
+def run_search(query, mode, top_k, manual_relevant=""):
     query = (query or "").strip()
     empty = ("", "", "", "", "-", "-", "-", "-", "")
     if not query:
         return ("Type a query.",) + empty[1:]
     try:
-        s, results = run_engine(FINAL, query, mode, top_k)
+        s, results = run_engine(FINAL, query, mode, top_k, manual_relevant)
     except ValueError as error:
         return (f"**Query error:** {error}. Use AND / OR / NOT in capitals, quotes for phrases.",) + empty[1:]
-    if s["judged"]:
+    if s["relevant"]:
         p, r, f1, p3 = s["metrics"]
-        info = f"Judged query **{s['judged']['id']}**: *{s['judged']['need']}* · relevant: {', '.join(sorted(s['judged']['relevant']))}"
+        info = (f"**Metrics based on {s['source']}** · relevant documents: {', '.join(sorted(s['relevant']))}")
         metrics = (fmt(p), fmt(r), fmt(f1), fmt(p3))
     else:
-        info = "No relevance judgments for this query: Precision / Recall / F1 are shown for the 14 judged queries (pick one above)."
+        info = NO_RELEVANCE_NOTE
         metrics = ("n/a", "n/a", "n/a", "n/a")
     return (f"**Query terms after the Final Pipeline:** `{s['terms']}`", s["docs"], str(s["n"]), s["ms"], *metrics, info + "\n\n" + results)
 
 
-def compare_pipelines(query, mode, top_k):
+def compare_pipelines(query, mode, top_k, manual_relevant=""):
     query = (query or "").strip()
     if not query:
         return "Type a query.", "", ""
+    # One relevant set for BOTH pipelines, decided from the Final Pipeline's query terms
+    try:
+        final_terms = FINAL.search(query, mode)[1]
+    except ValueError as error:
+        return f"**Query error:** {error}", "", ""
+    shared = relevance_for(query, mode, final_terms, manual_relevant)
     outputs = []
     for name, engine in [("Pipeline A (stop words → stemming)", PIPELINE_A), ("Final Pipeline (lemmas → custom stop words)", FINAL)]:
-        try:
-            s, results = run_engine(engine, query, mode, top_k)
-        except ValueError as error:
-            outputs.append(f"### {name}\n**Query error:** {error}")
-            continue
+        s, results = run_engine(engine, query, mode, top_k, fixed_relevance=shared)
         metrics = ""
-        if s["judged"]:
+        if s["relevant"]:
             p, r, f1, p3 = s["metrics"]
             metrics = f"**Precision {fmt(p)} · Recall {fmt(r)} · F1 {fmt(f1)} · P@3 {fmt(p3)}**  \n"
         outputs.append(f"### {name}\nQuery terms: `{s['terms']}`  \n"
                        f"Retrieved ({s['n']}, {s['ms']}): {s['docs']}  \n{metrics}\n{results}")
-    judged = JUDGED.get((" ".join(query.split()), mode))
-    note = (f"Judged query {judged['id']}: relevant = {', '.join(sorted(judged['relevant']))}" if judged
-            else "Not a judged query: compare the retrieved documents; metrics need relevance judgments.")
+    relevant, source = shared
+    note = (f"**Both pipelines scored on {source}** · relevant documents: {', '.join(sorted(relevant))}" if relevant
+            else NO_RELEVANCE_NOTE)
     return note, outputs[0], outputs[1]
 
 
@@ -458,6 +512,9 @@ with gr.Blocks(title="Domain Text Analysis & Retrieval") as demo:
             query_box = gr.Textbox(label="Query", placeholder='coming off antidepressants  |  panic disorder  |  CBT AND depression NOT medication', scale=4)
             mode_box = gr.Dropdown(["Keyword", "Phrase", "Boolean"], value="Keyword", label="Query Type", scale=1)
             topk_box = gr.Slider(1, len(DOC_INFO), value=5, step=1, label="Show top K", scale=1)
+        relevant_box = gr.Textbox(label="Relevant documents (optional): your own judgment for this query, e.g. D01, D06, D07",
+                                  placeholder="Leave empty: our judgments are used for the 14 evaluation queries, "
+                                              "otherwise an estimate from document topic labels")
         search_button = gr.Button("SEARCH", variant="primary")
         terms_out = gr.Markdown()
         docs_out = gr.Textbox(label="Retrieved Documents (ranked)", interactive=False)
@@ -473,8 +530,10 @@ with gr.Blocks(title="Domain Text Analysis & Retrieval") as demo:
                     "*Boolean:* **AND / OR / NOT in capitals** (lower-case 'not' is a search word), quotes = phrase, brackets allowed.")
         eval_pick.change(pick_eval_query, eval_pick, [query_box, mode_box])
         search_outputs = [terms_out, docs_out, n_out, time_out, p_out, r_out, f_out, p3_out, results_out]
-        search_button.click(run_search, [query_box, mode_box, topk_box], search_outputs)
-        query_box.submit(run_search, [query_box, mode_box, topk_box], search_outputs)
+        search_inputs = [query_box, mode_box, topk_box, relevant_box]
+        search_button.click(run_search, search_inputs, search_outputs)
+        query_box.submit(run_search, search_inputs, search_outputs)
+        relevant_box.submit(run_search, search_inputs, search_outputs)
 
     # ---------- 5. Compare pipelines ----------
     with gr.Tab("5 · Compare Pipelines"):
@@ -485,13 +544,14 @@ with gr.Blocks(title="Domain Text Analysis & Retrieval") as demo:
             cmp_query = gr.Textbox(label="Query", value="do not stop taking antidepressants", scale=4)
             cmp_mode = gr.Dropdown(["Keyword", "Phrase", "Boolean"], value="Phrase", label="Query Type", scale=1)
             cmp_k = gr.Slider(1, len(DOC_INFO), value=3, step=1, label="Show top K", scale=1)
+        cmp_relevant = gr.Textbox(label="Relevant documents (optional), e.g. D14", placeholder="Same rules as the Search tab")
         cmp_button = gr.Button("Compare Pipelines", variant="primary")
         cmp_note = gr.Markdown()
         with gr.Row():
             cmp_a = gr.Markdown()
             cmp_final = gr.Markdown()
         cmp_pick.change(pick_eval_query, cmp_pick, [cmp_query, cmp_mode])
-        cmp_button.click(compare_pipelines, [cmp_query, cmp_mode, cmp_k], [cmp_note, cmp_a, cmp_final])
+        cmp_button.click(compare_pipelines, [cmp_query, cmp_mode, cmp_k, cmp_relevant], [cmp_note, cmp_a, cmp_final])
         gr.Markdown("#### Table H: Pipeline comparison (all 14 queries)")
         gr.Dataframe(read_result("pipeline_comparison.csv"), wrap=True, interactive=False)
         gr.Markdown("#### Table J: Overall performance")

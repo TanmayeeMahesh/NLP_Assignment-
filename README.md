@@ -19,6 +19,7 @@ an evaluation with relevance judgments, and a Gradio GUI.
 | `src/nlp_pipeline.py` | Final Pipeline + domain NER, packaged for the GUI |
 | `src/build_corpus.py` | Corpus pipeline: register → extract → clean → section → QC → build → validate |
 | `results/` | All result tables as CSV (Tables A–J), `inverted_index.json`, gold sets, queries, relevance judgments |
+| `data/documents/` | Cleaned text of the corpus documents (14 of 17; NICE D01–D03 excluded for licence reasons), with an index of titles, sources and licences |
 | `data/metadata/` | Source manifest (URLs, licences, dates), QC report, cleaning and extraction logs, coverage, exclusions |
 | `Report.md`, `Report.pdf` | Project report |
 
@@ -36,10 +37,12 @@ an evaluation with relevance judgments, and a Gradio GUI.
 | I. Retrieval results | `results/retrieval_results.csv`, `results/inverted_index.json` |
 | J. Overall performance | `results/evaluation_results.csv`, `results/evaluation_per_query.csv` |
 
-## Source documents are not included
-The guidance documents are licence-restricted (NICE: © NICE, academic use only, no redistribution), so **raw files and
-extracted corpus text are not in this repository** (see `.gitignore`). `data/metadata/source_manifest.csv` lists every
-document's official URL, licence and the sections used. To rebuild the corpus:
+## Source documents
+`data/documents/` holds the cleaned text of **14 of the 17 corpus documents** (WHO, NIMH, NHS: licences allow sharing
+with attribution), exactly as used by the notebook. The **3 NICE documents (D01–D03) are not included**: © NICE allows
+academic use but not redistribution. The original PDF/HTML files and the full `corpus.json` are not in the repository either
+(see `.gitignore`). `data/metadata/source_manifest.csv` lists every document's official URL, licence and the sections used.
+To rebuild the complete corpus:
 
 1. Download each document from its URL in the manifest and save it as `data/raw/pdf/Dnn__<name>.pdf` or
    `data/raw/html/Dnn__<name>.html` (D24 and D25 are page ranges of the WHO mhGAP guideline PDF, as given in the manifest).

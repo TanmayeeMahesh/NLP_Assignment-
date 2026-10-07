@@ -1,0 +1,192 @@
+3.1 Alcohol use disorders (ALC)
+ALC1. In adults with alcohol dependence post-detoxification, is baclofen effective for relapse prevention and management of alcohol dependence?
+Recommendation (update):
+Baclofen should be considered for treatment of adults with alcohol dependence post-detoxification.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Moderate
+Justification
+
+A systematic review was updated: Agabio et al., 2023 (17 RCTs) (25).
+
+Compared with placebo, baclofen decreases the risk of relapse into any drinking at end of treatment (high certainty) and increases the percentage of days abstinent at end of treatment (moderate certainty).
+
+Compared with placebo, baclofen does not increase the number of participants with at least one adverse event at the end of treatment (high certainty) and does not increase the number of dropouts due to adverse events (high certainty).
+
+In subgroup analysis for baclofen versus placebo, for some outcomes (return to any drinking and percentage of days abstinent), baclofen showed better effectiveness for people with alcohol dependence post-detoxification (after management of withdrawal syndrome) when compared with people who are using alcohol (non-detoxified), but no differences were identified for low/high dosages or duration of treatment. For other outcomes (dropouts from treatment), duration of treatment longer than 12 weeks showed effect, but no other difference was identified for adverse events or dropouts due to adverse events for dosages, duration of treatment or detoxification status.
+Remarks
+
+The term "alcohol dependence" refers to diagnosis according to The ICD-10 classification of mental and behavioural disorders (26) or the Diagnostic and statistical manual of mental disorders (27), 4th edition (DSM-IV) criteria or equivalent ICD-11 (28) and DSM-5 diagnosis (29).
+
+Post-detoxification refers to completion of the management of withdrawal symptoms at least three days before starting treatment. Most included studies required participants to abstain from alcohol for at least three days (3–28) before beginning the pharmacological treatment.
+
+Service providers should include appropriate psychosocial interventions in their treatment plan and should only consider medication alone for adults with alcohol dependence when psychosocial interventions are not available.
+Research gaps
+
+The majority of the evidence is from high-income countries (HICs). Further research is needed in low- and middle-income countries (LMICs).
+
+All RCTs excluded participants with comorbid severe mental disorders, but five studies recruited participants under stable doses of antidepressants.
+Further research is required to investigate baclofen's profile of efficacy and safety among those with comorbid severe mental disorders.
+
+Further evidence is required to conclude whether the balance of effects differs between baclofen and acamprosate or naltrexone.
+Implementation considerations
+
+Baclofen is available in a generic form and is inexpensive but may not be available in all countries and is not registered for the treatment of alcohol dependence. The lack of formal approval for baclofen's use for alcohol dependence places increased responsibility on the medical practitioner prescribing baclofen to inform
+
+3. Recommendations people of the risks and benefits of its use for alcohol dependence.
+
+Even though differences were not identified when compared with placebo, baclofen can have side-effects such as sedation, and cessation of baclofen treatment can be associated with a mild benzodiazepine-like withdrawal syndrome.
+Therefore, baclofen should be reduced gradually rather than stopped abruptly with service providers monitoring for these side-effects.
+ALC2. In adults with alcohol dependence, are psychosocial interventions effective?
+Recommendation (update):
+Structured and standardized psychosocial interventions should be considered for the treatment of alcohol dependence.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+A systematic review was updated: Ghosh et al., 2023 (16 studies).4
+
+In adults with alcohol dependence, any psychosocial intervention compared with treatment as usual (TAU) shows an effect for increasing the proportion of abstinent participants/abstinence rates (low certainty).
+
+In adults with alcohol dependence, any psychosocial intervention compared with TAU shows little to no difference for the proportion of days abstinent (low certainty), quantity of drinks (high certainty) and frequency of drinking (high certainty) at end of treatment.
+
+In adults with alcohol dependence, it is uncertain if any particular type of psychosocial intervention (e.g. cognitive behavioural therapy [CBT], mindfulness-based relapse prevention, contingency management, brief intervention) is effective in comparison with TAU, as opposed to the grouped category of "any psychosocial intervention".
+
+In adults with alcohol dependence, network support therapy (including Alcoholics Anonymous attendance) compared with CBT showed an effect for increasing the proportion of days of abstinence (moderate certainty).
+4 Ghosh A, Morgan N, Calvey T, Scheibein F, Angelakis I, Panagioti M et al. Effectiveness of psychosocial intervention for alcohol dependence: a systematic review and meta-analysis update. 2023 (in preparation).
+Remarks
+
+The term "alcohol dependence" refers to diagnosis according to the ICD-10 or DSM-IV criteria or equivalent ICD-11 and DSM-5 diagnosis.
+
+Psychosocial interventions included: CBT, couples therapy, psychodynamic therapy, behavioural therapies, social network therapy, contingency management, motivational interviewing, 12-step facilitation, mutual help groups and mindfulness-based therapies. Studies were included if they considered the above treatments alone or in combination with other types of treatment. The review excluded studies on a combination of pharmacotherapy and psychosocial interventions, as well as on interventions delivered on digital platforms.
+
+Integrating the provision of psychosocial interventions into primary care provides many advantages, including more holistic health care, increased accessibility of services for MNS disorders for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+Research gaps
+
+The majority of studies were conducted in HICs.
+Further research is needed in LMICs.
+
+All studies excluded participants with comorbid severe mental disorders, with two studies recruiting participants with common mental disorders.
+Further research is required to investigate the balance of effects in those with comorbid severe mental disorders.
+
+Further research is needed to determine whether the balance of effects differs by type of psychosocial intervention.
+Implementation considerations
+
+Country adaptation and translation of training materials and tools for the provision of psychosocial interventions is essential.
+
+Psychosocial interventions for alcohol dependence should be considered in conjunction with other modalities of treatment (i.e. pharmacological).
+
+Most psychosocial interventions may be delivered by a wide range of professional staff – counsellors, psychologists, nurses, lay health counsellors and health volunteers. This increases the feasibility of implementing psychosocial interventions.
+
+Psychosocial interventions can be delivered effectively in non-specialized health-care settings but also in other settings, including specialized mental health care and social care.
+ALC3. In adults with alcohol use disorders or hazardous drinking, are digital interventions effective?
+Recommendation (new):
+Digitally delivered interventions should be considered for adults with alcohol use disorders or with hazardous alcohol use. They should not replace provision of other forms of interventions and should ensure free and informed consent, safety, confidentiality, privacy and security.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from two systematic reviews:
+Sundström et al., 2017 (14 RCTs) (30); and an update of this review by Boumparis et al., 2023 (49 RCTs).5
+
+In adults with alcohol use disorders or with hazardous alcohol use, digital interventions, when compared with non-active (waitlist, assessment-only
+) and active TAU, brief interventions) comparators, show an effect for reducing alcohol use (low certainty).
+Remarks
+
+The terms "alcohol use disorder" and "hazardous alcohol use" refer to diagnosis according to the
+ICD-10 or DSM-IV criteria or equivalent ICD-11 and
+DSM-5 diagnosis.
+5 Boumparis N, Khazaal Y, Krupchanka D, Schaub MP. Digital interventions for problem drinkers: a systematic review and meta-analysis. 2023 (in preparation).
+
+The included digital interventions encompass both unguided and guided digital interventions. In unguided digital interventions, psychoeducation and psychotherapeutic techniques are provided for the individual to self-manage their symptoms without the help of a health professional. In guided digital interventions, additional guidance is provided from health professionals who can assist participants with technical or health-related questions via chat, email or telephone.
+
+The studies assessing alcohol reduction via digital interventions compared with active comparators usually recruited individuals from specialized treatment facilities. The majority of those interventions combined the digital component with face-to-face treatments, such as TAU or CBT, and last
+8–12 weeks.
+
+3. Recommendations
+
+Differences in findings between active/non-active comparators should be interpreted with caution. For the comparisons involving non-active comparators, the majority of individuals were recruited based on self-reported use patterns and not assessed for an alcohol use disorder. This is contrary to the studies involving active comparators, which recruited participants after the diagnosis of an alcohol use disorder. For this reason, it is important to stress that different findings for active/non-active comparators are likely due to the different characteristics (such as severity) of the target group and the intensity of the treatment provided.
+
+Digital interventions should not be used to replace or detract from provision of other forms of interventions.
+
+There are concerns regarding potentially sensitive content and data privacy while using digitally delivered health interventions. Measures should be taken to ensure that digital interventions are provided under conditions of safety/security, confidentiality, informed consent and privacy of data. This can include the establishment of standard operating procedures that describe protocols for ensuring consent, data protection and storage, and verifying provider licensing and credentials. Further guidance can be found in the 2019 WHO guideline:
+recommendations on digital interventions for health system strengthening (31).
+Research gaps
+
+Subgroup analyses did not show significant differences between groups (guided versus unguided interventions, alcohol use disorders versus no alcohol use disorders). However, the ability to perform subgroup analyses was limited due to the small number of studies in the different conditions and types of interventions. Larger studies are required to understand these subgroup differences.
+
+Further individual participant data meta-analyses and network meta-analyses (NMAs) would also be of value in investigating the effectiveness of digital interventions for alcohol use disorders and identifying important characteristics that might be associated with an improved treatment effect.
+
+There is not enough data to understand the role of digital interventions for equity, equality and non-discrimination of people using substances: while there is potential for increasing access to care, it is also possible that not all people can benefit due to the "digital divide", which requires further research.
+Implementation considerations
+
+Digitally delivered interventions can provide benefits to people with an alcohol use disorder and those with hazardous alcohol use, especially when provided in addition to TAU. Digitally delivered interventions should not substitute provision of other types of conventional treatment (psychosocial or pharmacological) to people with alcohol use disorders. When face-to-face treatment is not available or acceptable, then self-help digital interventions can be a feasible option to provide support.
+
+Setting up and sustaining digital health solutions can be costly, while costs for individual users are usually not very high, making implementation feasible for the end user.
+
+There is a need to consider the potential digital divide across population groups with some having unequal access to and skills to use digital technologies. Access might be particularly difficult for certain population groups with poor access to network services, mobile devices or electricity, and/or with low literacy and digital literacy skills.
+Measures should be taken to address inequities in access to mobile devices so that further inequity is not perpetuated in accessing health information and services, including mechanisms to ensure individuals who do not have access to mobile devices can still receive appropriate services.
+
+Country adaptation and translation of digital interventions tools with subsequent evaluation is essential.
+
+ALC4. In adults with alcohol use disorders, are combined pharmacological and psychosocial interventions effective and safe?
+Recommendation (new):
+Combined psychosocial and pharmacological interventions should be offered for adults with alcohol dependence.
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Moderate
+Justification
+
+Evidence was extracted from a new systematic review: Agabio et al., 2023 (14 studies) (32).
+
+In adults with alcohol dependence, combined treatment in comparison with psychosocial interventions alone showed an effect (at the end of treatment) for: (i) decreasing risk to return to any drinking (74 fewer per 1000; 95% CI: 132 to 16 fewer; high certainty); (ii) decreasing risk to return to heavy drinking (75 fewer per 1000; 95% CI: 1270 to 22 fewer; moderate certainty); (iii) increasing proportion of abstinent days (6.22% abstinent days more; 95% CI: 3.82% to 8.61%; high certainty);
+(iv) decreasing the number of drinks per drinking day (standardized mean difference [SMD] = 0.31;
+95% CI: 0.5 to 0.11; high certainty).
+
+In adults with alcohol dependence, combined treatment in comparison with pharmacological interventions alone, showed an effect (at the end of treatment) for: (i) decreasing proportion of heavy drinking days (HDD) (0.76% HDD less; 95% CI: 1.48 to 0.04; moderate certainty); (ii) decreasing number of drinks per drinking day (SMD = 0.54 less; 95%
+CI: 0.77 to 0.31; moderate certainty). Combined treatment in comparison with pharmacological interventions alone does not show difference (at the end of treatment) in: (i) return to any drinking (high certainty); (ii) return to heavy drinking (high certainty); (iii) proportion of abstinent days (high certainty).
+
+In adults with alcohol dependence, combined treatment compared with psychosocial/ pharmacological interventions alone does not show difference in number of people with adverse events, dropouts from treatment (moderate or high certainty), and dropouts due to adverse events (moderate or high certainty).
+
+There are differences across medicines, in particular:
+(i) combined naltrexone plus psychosocial treatment is more effective compared with psychosocial/ pharmacological interventions alone for several outcomes at the end of treatment (moderate or high certainty); (ii) combined acamprosate plus psychosocial treatment is more effective in comparison with pharmacological interventions alone for reducing number of drinks per drinking day at the end of treatment (moderate certainty);
+(iii) combined acamprosate plus psychosocial treatment does not show difference in comparison with psychosocial interventions alone (moderate certainty); (iv) combined disulfiram plus psychosocial interventions do not show difference in comparison with psychosocial interventions alone (low certainty).
+Remarks
+
+The term "combined treatment" refers to psychosocial interventions provided together with pharmacological treatment.
+
+– Psychosocial interventions considered included:
+CBT, couples therapy, psychodynamic therapy, behavioural therapies, social network therapy, contingency management, motivational interventions, 12-step facilitation and mutual help groups.
+
+– Pharmacological treatment considered included:
+acamprosate, disulfiram and naltrexone.
+
+The term "alcohol dependence" refers to diagnosis according to the ICD-10 or DSM-IV criteria or equivalent ICD-11 and DSM-5 diagnosis.
+
+3. Recommendations
+Research gaps
+
+All studies were conducted in HICs. Further research is needed to enhance understanding on use in low-resource settings.
+
+Most studies comparing combined treatment to psychosocial interventions were on naltrexone.
+Further research on acamprosate and disulfiram is required.
+
+Studies comparing combined treatment to pharmacological interventions were on acamprosate or naltrexone, with no studies on disulfiram. Further research on disulfiram is required.
+
+Most studies focused on CBT and combined behavioural interventions with fewer studies on other psychosocial interventions. Further research is needed to understand whether the balance of effects differs by type of psychosocial intervention.
+Implementation considerations
+
+Both naltrexone and acamprosate are relatively expensive medicines compared with disulfiram, which is considerably less expensive and may be more readily accessible in low-income settings.
+However, medicines may not be registered and available in all countries. The decision to use acamprosate, disulfiram or naltrexone should be made taking into consideration harms and benefits, availability and individual preference.
+
+Decision on the choice and implementation of psychosocial and/or pharmacological treatment should be based on individual characteristics of the person it is prescribed for. Service providers should help the person make decisions about available treatments, based on providing relevant information (e.g. possible side-effects, counterindications, costs). Even if it is not possible to provide combined interventions, individuals should be provided with either psychosocial or pharmacological treatment.
+
+Even though differences for adverse events were not identified, medicines for alcohol dependence treatment can have side-effects and service providers should monitor them carefully. The side-effect profile is generally acceptable for most people receiving acamprosate or naltrexone. Education of the individual and their carer (e.g. family member) regarding potential adverse events with disulfiram is important. The balance of benefits versus harms in non-specialized settings is unclear.
+
+Discontinuities in drug availability and access to psychosocial interventions (common in LMICs) may interfere with continuation of treatment and should be considered in planning treatment.

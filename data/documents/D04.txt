@@ -1,0 +1,589 @@
+3.2 Anxiety (ANX)
+ANX1. In adults with anxiety disorders (excluding social anxiety disorder and specific phobias), are antidepressants (tricyclic antidepressants [TCAs] and selective serotonin reuptake inhibitors [SSRIs]) effective and safe compared with treatment as usual, waitlist, no treatment, or alternative psychological or pharmacological treatments?
+Recommendation (new):
+Selective serotonin reuptake inhibitors (SSRIs) should be considered for adults with panic disorder. If SSRIs are not available, consider offering tricyclic antidepressants (TCAs). SSRIs should be considered for adults with generalized anxiety disorder (GAD).
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Evidence was included from two meta-analyses:
+Chawla et al., 2022 (87 RCTs on pharmacological interventions for panic disorder) (33); and Slee et al.,
+2019 (89 RCTs on pharmacological interventions for
+GAD) (34).
+
+Low-quality evidence suggested reduced levels of anxiety symptoms in adults with GAD and panic disorder using antidepressants (TCAs or SSRIs). Very low-quality evidence suggested reduced levels of anxiety symptoms in adults with anxiety disorders (GAD or panic disorder) using either psychological interventions or antidepressant medicines and no consistent difference between the two in direct comparisons.
+
+See recommendation ANX2 for further detail on psychological interventions.
+Remarks
+
+SSRIs for panic disorder examined included:
+citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine and sertraline. Individual analyses indicated sertraline and escitalopram may be the most efficacious with lowest risk of adverse effects.
+Fluvoxamine, paroxetine and fluoxetine indicated favourable efficacy but higher risk of adverse events.
+Citalopram indicated minimal efficacy and high risk of adverse events. However, individual analyses are based on limited data and should be interpreted with caution.
+
+TCAs for panic disorder examined included imipramine and clomipramine.
+
+SSRIs for GAD examined included citalopram, escitalopram, fluoxetine, paroxetine and sertraline.
+Paroxetine was the only SSRI that demonstrated increased risk of adverse events (dropout) relative to placebo.
+
+Evidence on the use of TCAs (imipramine) for GAD was limited and indicated they did not demonstrate a significant effect relative to placebo.
+
+TCAs are generally less well tolerated than SSRIs and therefore are recommended for consideration in cases where SSRIs are not available for adults with panic disorder.
+
+Antidepressants should only be offered in those contexts where health workers are competent (e.g.
+qualified, trained and supervised) to prescribe psychotropic medicines.
+
+Psychological interventions should be offered only in contexts where individuals are competent (e.g.
+qualified, trained and supervised) to provide them and demonstrate necessary competencies to do so.
+
+In resource-constrained settings, antidepressants (SSRIs for GAD; SSRIs as first-line treatment and then
+TCAs as second-line treatment for panic disorder) that are accessible should be favoured, as evidence
+
+3. Recommendations does not indicate a statistically significant difference between the individual antidepressant medicines in these classes for anxiety disorders.
+
+TCAs are generally less well tolerated than SSRIs and also generally considered less safe, due to anticholinergic side-effects, toxicity, psychomotor and cognitive impairment risks, and lethality risks in cases of acute intoxication or overdose. TCAs are therefore recommended for consideration in cases where SSRIs are not available for adults with panic disorder.
+
+TCAs should be avoided in older adults and in people diagnosed with glaucoma, heart conditions, prostatism or other prostate conditions, or at risk of these conditions.
+
+Consider increased risk of bleeding associated with SSRIs, particularly for older people or people taking other medicines that can damage the gastrointestinal mucosa or interfere with clotting (e.g. non-steroidal anti-inflammatory drugs [NSAIDs]).
+
+Antidepressants should be offered combined with psychological treatments, when sufficient resources are available.
+Research gaps
+
+The majority of studies were conducted in
+HICs. Further research is needed to enhance understanding on use in low-resource settings.
+
+Limited evidence on outcomes such as functioning.
+
+Few studies directly compared psychological interventions with pharmacological interventions, particularly for adults with GAD, including for important outcomes like symptom reduction, adverse effects, acceptability, sustained response and functioning.
+Implementation considerations
+
+Providers should keep in mind the possible adverse effects associated with antidepressant medicines, treatment availability and individual preferences.
+Discontinuities in drug availability (common in
+LMICs) may interfere with continuation of treatment.
+
+Specific types of antidepressants selected should carefully consider factors such as demographic characteristics (e.g. higher risks and side-effects that may be associated with pregnancy or older age), side-effects profiles (e.g. sexual dysfunction, sleep problems, weight gain) and availability (e.g.
+continuous availability, costs).
+
+Support the person in making a decision between antidepressants and psychological interventions (if available), based on providing relevant information (e.g. possible side-effects, costs). Before prescribing medicines, discuss treatment options and any concerns the person has about taking medicines.
+
+Explain rationale for prescribing and provide written and verbal information on benefits and harms, side-effects, drug interactions, the importance of taking medicines as prescribed and the likely time to improvement in symptoms.
+
+Regularly review the effectiveness of the medicine and side-effects with the person during the first three months of treatment and every three months afterwards. For adults who experience side-effects after starting medicine, consider closer monitoring of their symptoms, reducing the dose of the medicine or stopping the medicine gradually and offering alternative interventions.
+
+For adults under 30 years of age who are prescribed antidepressants:
+– Inform them of increased risk of suicidal thinking and self-harm behaviour among younger people when taking these medicines.
+– Ensure follow-up within one week after initiating the medicines if at all possible.
+– Monitor and follow-up on suicidal thinking and self-harm on regular (e.g. weekly) basis within the first month after initiating the medicine or changing the dose.
+
+If the medicine is effective, continue use for at least six months after remission to reduce likelihood of relapse.
+
+ANX2. Is brief, structured psychological treatment (e.g. cognitive behavioural therapy [CBT], problem-solving therapy [PST]) better than treatment as usual in people with anxiety disorders (excluding social anxiety disorder and specific phobias)?
+Recommendation (new):
+Brief, structured psychological interventions based on principles of cognitive behavioural therapy (CBT) should be offered for adults with generalized anxiety disorder (GAD) and/or panic disorder
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Moderate
+Justification
+
+Evidence was extracted from four systematic reviews: Parker et al., 2021 (19 RCTs on psychological interventions for adults with anxiety disorders in non-specialized care settings) (35); Haller et al.,
+2021 (23 RCTs on psychological interventions for adults with anxiety disorders) (36); van Dis et al.,
+2020 (69 RCTs on long-term outcomes following psychological interventions for adults with anxiety disorders) (37); and Papola et al., 2020 (136 RCTs on psychological interventions for adults with panic disorder) (38).
+
+Moderate-certainty evidence suggests reduced levels of anxiety in adults with anxiety disorders (GAD or panic disorder) when engaging in brief, structured psychological interventions based on
+CBT principles. The undesirable effects were judged to be trivial.
+Remarks
+
+Provision of psychological interventions should be based on appropriate diagnosis and need for care. Many individuals suffering transient anxiety may improve with less intensive psychosocial interventions (e.g. stress management) or basic support and problem solving.
+
+Face-to-face brief psychological interventions delivered by service providers is human resource-intensive as it requires substantial provider time, training and supervision.
+
+Integrating the provision of brief psychological interventions into primary care provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+Research gaps
+
+The majority of studies were conducted in HICs.
+Further research is needed in LMICs.
+
+There were limited data on psychological interventions other than those based on principles of CBT. Further research is needed to understand if other therapies (e.g. PST) could offer similar benefit.
+Implementation considerations
+
+Brief psychological interventions can be delivered effectively in non-specialized health-care settings as well as in other settings, including specialized mental health care and social care.
+
+Most psychological interventions may be delivered by a wide range of professional staff: counsellors, psychologists, nurses, lay health counsellors and health volunteers. This increases the feasibility of the implementation of psychosocial interventions.
+
+Task sharing has been found to be an effective approach to delivering brief psychological interventions.
+
+See recommendation ANX3 for discussion of recommended delivery formats for brief, structured psychological interventions.
+
+Country adaptation and translation of training materials and tools for the provision of psychological interventions is essential.
+
+3. Recommendations
+ANX3. For adults with anxiety disorders, what is the comparative effectiveness of different formats of psychological interventions?
+Recommendation (new):
+When brief, structured psychological interventions based on principles of cognitive behavioural therapy (CBT) are offered for adults with generalized anxiety disorder (GAD) and/or panic disorder, different delivery formats should be considered based on available resources as well as individual preferences, including:
+individual and/or group face-to-face;
+digital/online and/or face-to-face;
+guided and/or unguided self-help;
+specialist and/or non-specialist.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from three systematic reviews: Barkowski et al., 2020 (57 RCTs on group psychotherapy for adults with anxiety disorders) (39); Pauley et al., 2023 (47 RCTs on digital interventions for adults with anxiety disorders) (40);
+and Parker et al., 2021 (19 RCTs on psychological interventions for adults with anxiety disorders in non-specialized care settings) (35).
+
+Low-quality evidence suggests that the differences between individual versus group and digital versus face-to-face psychological interventions were small or non-existent. Additionally, while evidence does demonstrate a potential difference between guided versus unguided self-help and specialist versus non-specialist provided care, there is substantial value in expanding care through less resource-intensive means, including expanding the delivery of psychological interventions beyond care by specialists.
+
+In terms of undesirable effects, dropout rates were higher in group psychotherapy (RR = 1.58; 95%
+CI: 1.00 to 2.49).
+Remarks
+
+For all delivery formats listed in the recommendation, there is no inherent hierarchy or priority intended in the listing of delivery formats.
+
+See ANX2 for further discussion of evidence for the brief, structured psychological interventions recommended in mhGAP for GAD and/or panic disorder.
+
+While interventions that are provided by specialists or as guided self-help (either digitally or face-toface
+) are likely to demonstrate better outcomes than those provided in groups, by non-specialists, or as unguided self-help, the latter may be suitable for adults with anxiety disorders who either (i) do not have access to face-to-face psychological treatment provided by specialists or guided self-help psychological treatment or (ii) are not willing to access such treatments.
+
+The choice of intervention format depends on available resources in the health system as well as individual preferences.
+
+Self-help psychological treatment may involve information technology (IT)-supported self-help materials and/or paper-based self-help books or visual materials and can be guided by professionals or lay workers with varying degrees of support, or can be unguided.
+
+Face-to-face brief psychological interventions delivered by service providers is human resource-intensive as it requires substantial provider time, training and supervision.
+
+There are concerns regarding potentially sensitive content and data privacy while using digital health interventions. Measures should be taken to ensure that digitally delivered psychological interventions are provided under conditions of safety/security, confidentiality, informed consent and privacy of data. This can include the establishment of standard operating procedures that describe protocols for ensuring consent, data protection and storage, and verifying provider licensing and credentials. Further guidance can be found in the 2019 WHO guideline:
+recommendations on digital interventions for health system strengthening (31).
+Research gaps
+
+The majority of studies were conducted in
+HICs. Further research is needed to enhance understanding on use in low-resource settings.
+
+There is not enough data to understand the role of digital interventions for equity, equality and non-discrimination of people with anxiety disorders:
+while there is the potential to increase access to care, it is also possible that not all people can benefit due to the "digital divide", which requires further research.
+Implementation considerations
+
+Brief psychological interventions can be delivered effectively in non-specialized health-care settings, as well as in other settings including specialized mental health care and social care.
+
+Task sharing has been found to be an effective approach to delivering brief psychological interventions.
+
+Integrating the provision of brief psychological interventions into primary care provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+
+Country adaptation and translation of training materials and tools for the provision of psychological interventions is essential.
+
+Psychological interventions have shown to be effective for people of different ages and genders.
+
+If all else is equal, group face-to-face interventions are less resource-intensive per person receiving care than individual face-to-face interventions.
+However, groups may be more difficult to organize and require an initial individual assessment for each group member and preparation of individuals for group treatment formats. In many countries, people often do not attend for health care at pre-specified appointment times. Therefore, groups may experience high dropout rates or delayed session start times.
+
+Self-help books are less cost intensive but require sufficient literacy skills, which can be limited in various settings. Materials that rely on visual or audio media may be useful alternatives.
+
+Setting up and sustaining digital health solutions can be costly, while costs for individual users are usually not very high, making implementation feasible for the end user.
+
+There is a need to consider the potential digital divide across population groups with some having unequal access to and skills to use digital technologies. Access might be particularly difficult for certain population groups with poor access to network services, mobile devices or electricity, and/or with low literacy and digital literacy skills.
+Measures should be taken to address inequities in access to mobile devices so that further inequity is not perpetuated in accessing health information and services, including mechanisms to ensure individuals who do not have access to mobile devices can still receive appropriate services.
+
+3. Recommendations
+ANX4. Are stress management techniques better than (more effective than/as safe as) treatment as usual in adults with anxiety disorders (excluding social anxiety disorder and specific phobias)?
+Recommendation (new):
+Stress management techniques, namely relaxation and/or mindfulness training, should be considered for adults with generalized anxiety disorder (GAD) and/or panic disorder.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Data were extracted from a systematic review: Kim and Kim, 2018 (16 RCTs on relaxation techniques and mindfulness techniques for adults with anxiety disorders) (41).
+
+Low-quality evidence suggests reduced levels of anxiety symptoms in adults with anxiety disorders (GAD and panic disorder) using stress management techniques. No reviews examining undesirable effects were identified.
+Remarks
+
+In resource-constrained settings, stress management techniques may be more feasible than psychological interventions, which may require more time and capacity-building.
+
+Stress management techniques may include a wide range of approaches (e.g. relaxation training, mindfulness) and should be evidence-based and selected based on individual preference and local context.
+
+Integrating stress management into primary care and/or other general health-care services provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+Research gaps
+
+No reviews examined important outcomes like adverse events, acceptability or functioning in adults with anxiety disorders following stress management.
+
+Few studies examined follow-up data to determine sustained impact of stress management.
+
+Evidence pertained to stress management techniques provided in-person. However, in resource-constrained settings, online delivery formats may be more feasible for providing these techniques. Further evidence is needed on this.
+Implementation considerations
+
+Stress management techniques should be taught or delivered by competent providers who are qualified, trained and supervised.
+
+Stress management can often be provided through guided or unguided self-help formats. IT-based self-help interventions often require access to computers and/or smart phones, and sometimes the internet, which can make these interventions difficult to access for people with low-income or those living in poverty.
+
+ANX5. Is advice on physical activity better than (more effective than/ as safe as) treatment as usual, waitlist, no treatment in adults with anxiety disorders (excluding social anxiety disorders and specific phobias)?
+Recommendation (new):
+Structured physical exercise should be considered for adults with generalized anxiety disorder (GAD) and/or panic disorder.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Very low
+Justification
+
+Evidence was extracted from three systematic reviews: Ramos-Sanchez et al., 2021 (13 RCTs on physical exercise for adults with anxiety disorders) (42); Vancampfort et al., 2021 (14 RCTs on physical exercise for adults with anxiety disorders) (43); and
+Machado et al., 2022 (8 RCTs on physical exercise for adults with panic disorder) (44).
+
+Very low-quality evidence suggests reduced levels of anxiety symptoms in adults with anxiety disorders after engaging in physical exercise.
+
+There is also general evidence of the direct health and mental health co-benefits of physical exercise for all adults with mental disorders.
+
+In the evidence supporting this recommendation, the specific type and format of physical exercise varied. Evidence appears to indicate the effects of physical exercise on reducing anxiety symptoms in adults with GAD and/or panic disorder is not explained by exercise setting, duration or intensity.
+There is also no current evidence on inter-individual differences in these effects.
+Remarks
+
+The 2020 WHO guidelines on physical activity and sedentary behaviour provide further detail on physical exercise and physical activity.
+– Exercise is defined as "a subcategory of physical activity that is planned, structured, repetitive, and purposeful in the sense that the improvement or maintenance of one or more components of physical fitness is the objective." "Exercise" and "exercise training" are frequently used interchangeably and generally refer to physical activity performed during leisure time with the primary purpose of improving or maintaining physical fitness, physical performance, or health.
+– It is recommended that all adults ages 18–64 (not specific to those with GAD or panic disorder)
+"should do at least 150–300 minutes of moderate-intensity aerobic physical activity; or at least
+75–150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week, for substantial health benefits" (45).
+
+This current recommendation is specific to the additional benefits of physical exercise in the reduction of anxiety symptoms in adults with GAD or panic disorder.
+
+In resource-constrained settings, physical exercise may be more feasible than more intensive psychological interventions.
+
+The type of physical exercise may vary and depend on individual preferences and feasibility for the person.
+
+In cases of moderate-to-severe anxiety disorders, this intervention may be most appropriate as an adjunct to pharmacological and/or psychological interventions.
+Research gaps
+
+The types of physical exercise that were studied varied in reviews. Further research which includes standardized intervention formats and/or clear description of the exercise activities, duration and intensity would help to clarify best practices.
+
+3. Recommendations
+Implementation considerations
+
+There is cultural variability in the perceived value of physical exercise, which may lead to variability in uptake and successful implementation of this intervention in different settings.
+
+This intervention for the reduction of anxiety symptoms in adults with GAD or panic disorder may be less appropriate for people engaged in physical labour or otherwise with an active lifestyle and instead may be more relevant for those with less active lifestyles.
+ANX6. Are benzodiazepines better than (more effective than/as safe as) placebo for adults with anxiety disorders (excluding social anxiety disorders and specific phobias)?
+Recommendation (new):
+Benzodiazepines are not recommended for the treatment of adults with generalized anxiety disorder (GAD) and/or panic disorder. For emergency management of acute and severe anxiety symptoms, benzodiazepines may be considered but only as a short-term (3–7 days maximum) measure.
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from three systematic reviews: Slee et al., 2019 (89 RCTs on pharmacological interventions for adults with
+GAD) (34); Breilmann et al., 2019 (24 RCTs on benzodiazepines for adults with panic disorder) (46); and Shinfuku et al., 2019 (8 RCTs on long-term outcomes for adults with anxiety disorders following benzodiazepine use) (47).
+
+Low-quality evidence suggests reduced levels of anxiety and improved functioning in adults with anxiety disorders but also increased risk of adverse effects and dropout following benzodiazepine use.
+
+A strong recommendation was made despite low-quality evidence since the GDG concluded that the risks of the intervention outweighed the benefits.
+Remarks
+
+Benzodiazepines for panic disorder examined in the included reviews were alprazolam, adinazolam, clonazepam, diazepam and midazolam.
+
+Benzodiazepines for GAD examined in the included reviews were not reported individually.
+
+Benzodiazepines have a risk of dependence. Use beyond the recommended 3- to 7-day maximum period requires monitoring and follow-up by trained specialist providers and is beyond the scope of this guideline.
+Research gaps
+
+The majority of studies were conducted in
+HICs. Further research is needed to enhance understanding on use in low-resource settings.
+
+There is a limited number of studies on the long-term effectiveness and safety of benzodiazepines.
+Further research would help to quantify the risks of longer term use.
+Implementation considerations
+
+Benzodiazepines should not be universally prescribed to treat anxiety or distress and should instead be used in select cases of acute and severe anxiety or distress and where other treatment approaches have proved ineffective or unavailable.
+
+Before prescribing benzodiazepines, discuss the treatment options and any concerns the person has.
+Explain the rationale for prescribing this medicine and provide written and verbal information on benefits and harms; side-effects; drug interactions;
+the importance of taking medicines as prescribed;
+
+risks when driving, operating machinery, etc.; the likely time to improvement in symptoms; and the potential for addiction.
+
+Discontinue benzodiazepines gradually as soon as symptoms improve to avoid tolerance.
+
+For adults who demonstrate potential signs of dependance, consider management approaches for benzodiazepine withdrawal and dependance;
+for further information, see the 2015 Update of the
+Mental Health Gap Action Programme (mhGAP) guidelines for mental, neurological and substance use disorders (7) and the 2016 mhGAP intervention guide module on "Disorders due to substance use" (9).
+ANX7. Is collaborative care better than (more effective than/as safe as) treatment as usual, waitlist, no treatment for adults with depression or anxiety (living with chronic health conditions)?
+Recommendation (new):
+Collaborative care should be considered for adults with depression and/or anxiety and physical health conditions.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from three systematic reviews: Xiao et al., 2021 (89 RCTs on pharmacological interventions for adults with GAD) (48); Stein et al., 2020 (24 RCTs on benzodiazepines for adults with panic disorder) (49); and van der
+Feltz-Cornelis et al., 2021 (8 RCTs on long-term outcomes for adults with anxiety disorders following benzodiazepine use) (50).
+
+Low-certainty evidence suggests reduced levels of depression and anxiety and improved physical health outcomes in adults with chronic health conditions who receive collaborative care (CC) services. The GDG also identified additional evidence that was included as additional information in the evidence profile, which suggested reduced levels of anxiety in adults with physical health conditions.
+Remarks
+
+The CC model generally adds one new team member to the medical team (a care manager) and includes coordinated consultation with mental health care providers. It typically involves:
+– a health-care team sharing tasks, with a care manager (a new role) coordinating care;
+– approaches to identifying people in need of support (through use of systematic screening or case identification);
+– implementation of evidence-based interventions (where psychological interventions can be delivered by the care manager or, where available, by a non-specialist counsellor);
+– administration of medicine, if indicated (by a general medical care provider);
+– monitoring of mental health symptoms by recording results of measurement tools in a basic registry that is regularly reviewed by the case manager to inform changes to care; and
+– a mental health care provider, who consults with the team and supervises the care manager and general medical care provider.
+
+Care managers often also facilitate access to community resources where indicated (e.g. housing or employment services).
+
+Physical health conditions concern both communicable and noncommunicable diseases.
+
+Conditionality in this recommendation is based solely on availability of resources. In settings where resources are available, CC should be implemented.
+
+3. Recommendations
+
+Integrating mental health services into primary care settings and physical disease programmes through the CC model is an effective way of increasing access to mental health care, improving health outcomes and reducing stigma towards people with mental health conditions, particularly for populations where prevalence of mental disorders (e.g. depression) may be high.
+
+There is wide variation in how CC has been implemented as CC is a model of providing care, rather than an intervention in and of itself.
+Nonetheless, this model of care can be resource intensive, though it is feasible in LMIC settings when necessary resources are allocated.
+Research gaps
+
+Further research is needed to demonstrate feasibility and effectiveness of CC when adapted to LMICs.
+Implementation considerations
+
+CC is generally more intensive in terms of human resources than usual care models (although there is evidence to suggest it may provide good economic value). The human resources required for CC vary widely based on how the components of the model are adapted for implementation in a given setting.
+
+CC should only be implemented in settings where there are human resources allocated to support the intervention.
+
+Specific efforts are required to identify, orient and build capacity in medical teams, care providers and mental health care providers for this model of integrated care.
+
+Acceptability of CC can be increased when implementors:
+– engage key stakeholders (e.g. service-users, providers, policy-makers, and community members) in the development of the CC model to ensure it will be suitable for the setting in which it is being implemented;
+– incorporate trusted community members in the
+CC team;
+– adapt CC training materials, guidelines, and interventions to be culturally appropriate; and
+– address lack of understanding of integrated care, understanding of mental health and confidence in delivering mental health care, resistance due to feeling overburdened, stigma or medical hierarchies among providers.
+
+3.6 Depression (DEP)
+DEP1. Are antidepressants (tricyclic antidepressants [TCAs] and selective serotonin reuptake inhibitors [SSRIs]) better than (more effective than/as safe as) pill placebo/treatment as usual in adults with depressive episode/disorder?
+Recommendation (update):
+In adults with moderate-to-severe depression, citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine or sertraline (SSRIs) or amitriptyline (TCA) should be considered.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Very low
+Justification
+
+Evidence was extracted from two meta-analyses:
+Cao et al., 2021 (42 RCTs) (129) and Cipriani et al.,
+2018 (522 RCTs) (130).
+
+SSRIs (namely citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine and sertraline) and TCAs (namely amitriptyline) were significantly better than pill placebo in reducing depressive symptoms.
+
+The certainties of evidence for change in depressive symptoms, response, all-cause dropout, and dropout due to adverse events were low for citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine and sertraline (all SSRIs) and for amitriptyline (TCA).
+
+Amitriptyline and fluoxetine are included in the WHO
+EML, with other SSRIs listed as alternatives (13).
+Remarks
+
+The term "depression" refers to moderate to severe depressive episode or disorder.
+
+There were no studies identified in the review that included comparisons by severity of depression (e.g. moderate versus severe). However, there was no evidence of an association between baseline severity and the network estimates in meta-regression analysis.
+
+TCAs are generally less well tolerated than SSRIs and are also generally considered less safe, due to anticholinergic side-effects, toxicity, psychomotor and cognitive impairment risks, and lethality risks in cases of acute intoxication or overdose. TCAs are therefore recommended for consideration in cases where SSRIs are not available for adults with panic disorder.
+
+TCAs should be avoided in older adults and in people diagnosed with glaucoma, heart conditions, prostatism or other prostate conditions, or at risk of these conditions.
+
+Consider increased risk of bleeding associated with SSRIs, particularly for older people or people taking other medicines that can damage the gastrointestinal mucosa or interfere with clotting (e.g. NSAIDs).
+Research gaps
+
+Most of the evidence is from HICs. Further research is needed in LMICs.
+
+There was no direct evidence to evaluate the risk of suicide-related adverse effects of antidepressants.
+Implementation considerations
+
+Service providers should only consider antidepressant medicine alone for adults with depression when psychological interventions are not available.
+
+Service providers should assess psychosocial stressors (e.g. domestic abuse, unemployment) associated with depression and include appropriate psychosocial interventions in their treatment plan.
+
+Providers should keep in mind the possible adverse effects associated with antidepressants, the ability to deliver either intervention (in terms of expertise and/or treatment availability) and individual preferences. Discontinuities in drug availability
+
+3. Recommendations (common in LMICs) may interfere with continuation of treatment.
+
+Generic TCAs and many generic SSRIs are associated with low acquisition costs. Cost of daily dose of generic antidepressants varies from region to region throughout the world ranging between 3% and 9% of minimum wage (131).
+
+For the treatment of depressive disorder, the WHO
+EML (13) includes:
+
+– TCA: amitriptyline;
+
+– SSRI: fluoxetine (therapeutic alternatives:
+citalopram, escitalopram, fluvoxamine, paroxetine and sertraline).
+
+The Interagency health kit 2017 includes fluoxetine (133).
+
+Specific types of antidepressants selected should carefully consider factors such as demographic characteristics (e.g. higher risks and side-effects that may be associated with pregnancy or older age), side-effects profiles (e.g. sexual dysfunction, sleep problems, weight gain) and availability (e.g.
+continuous availability, costs).
+
+Explain rationale for prescribing and provide written and verbal information on benefits and harms, side-effects, drug interactions, the importance of taking medicines as prescribed and the likely time to improvement in symptoms.
+
+Regularly review the effectiveness of the medicine and side-effects with the person during the first three months of treatment and every three months afterwards. For adults who experience side-effects after starting medicine, consider closer monitoring of their symptoms, reducing the dose of the medicine or stopping the medicine gradually and offering alternative interventions.
+DEP2. How long should treatment with antidepressants continue in adults with depressive episode/disorder?
+Recommendation (update):
+In adults with moderate-to-severe depression who have benefited from initial antidepressant treatment, continuation of the antidepressant treatment should be considered for at least six months after remission. Treatment should be regularly monitored, with special attention to treatment adherence, change in depressive symptoms and possible adverse effects.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Very low
+Justification
+
+Two meta-analyses contributed to the evidence profile: Kato et al., 2021 (40 RCTs) (134); Zhou et al.,
+2022 (40 RCTs) (135). One primary study (RCT) also contributed: Lewis et al., 2021 (136).
+
+Most of the difference in relapse rates (85.5%) between pharmacotherapy and placebo occurred in the first three months (63.9%) and first six months (another 22.6%). The difference in relapse-free rates becomes much smaller after six months.
+
+The relapse rate at one year was lower for pharmacotherapy compared with placebo. The average of relapse-free months over a year was higher in the pharmacotherapy groups than in the placebo groups.
+
+The certainty of evidence for the mean difference in relapse rates between antidepressant medicines and pill placebo from 0 to 9 months, and relapse-free months at one year post-remission, response or recovery, is very low.
+
+The certainty of evidence is low for relapse rates at six months post-remission between antidepressants and pill placebo.
+
+Remarks
+
+The term "depression" refers to moderate-to-severe depressive episode or disorder.
+
+The term "remission" is defined as relief from depressive symptoms.
+
+The studies identified in the review included people experiencing first or recurrent episodes of depression.
+
+Antidepressants are typically most effective in the initial 6–12 months and should only be continued where there is need and clinical oversight.
+Research gaps
+
+Most of the research is from HICs. Further research is needed in LMICs.
+
+More research is needed to investigate the relationship between the number of depressive episodes and optimal treatment duration.
+
+More research is needed to examine the evidence to evaluate adverse effects regarding the duration of treatment.
+
+Further research is needed on how best to support individuals in managing withdrawal symptoms when stopping antidepressant medicines and guidance for clinicians on tapering of antidepressants and management of withdrawal symptoms.
+Implementation considerations
+
+Long-term antidepressant use may be associated with additional adverse effects such as weight gain.
+
+Specific types of antidepressants selected should carefully consider factors such as demographic characteristics (e.g. higher risks that may be associated with pregnancy or older age) and side-effects profiles (e.g. sexual dysfunction, sleep problems, weight gain).
+
+When discontinuing antidepressants, abrupt discontinuation should be avoided and medicine doses should be tapered off slowly. Any withdrawal symptoms should be closely monitored.
+
+Providers should keep in mind the possible adverse effects associated with antidepressants, the ability to deliver either intervention (in terms of expertise, and/or treatment availability) and individual preferences. Discontinuities in drug availability (common in LMICs) may interfere with continuation of treatment.
+
+Costs accumulate with duration of prescription.
+Cost of daily dose of generic antidepressants varies from region to region throughout the world ranging between 3% and 9% of minimum wage (131).
+
+3. Recommendations
+DEP3. Is brief, structured psychological treatment better than (more effective than/as safe as) treatment as usual in adults with depressive episode/disorder?
+7 Third wave therapies included in the review are: mindfulness-based interventions, acceptance and commitment therapy, metacognitive therapy and dialectical behavioural therapy.
+8 Brief psychological treatments included in this review are: CBT: cognitive behavioural therapy; iCBT: internet-based cognitive behavioural therapy; BAT: behavioural activation therapy; PST: problem-solving therapy; 3WV: third wave therapies; IPT: interpersonal therapy; DYN: brief psychodynamic therapy; SUP: non-directive support counselling; LRT: life review therapy.
+Recommendation (update):
+Structured psychological interventions should be offered for the treatment of adults with moderate-to-severe depression, namely behavioural activation therapy (BAT), brief psychodynamic therapy (DYN), cognitive behavioural therapy (CBT), interpersonal therapy (IPT), problem-solving therapy (PST) and third wave therapies (3WV).7
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Moderate
+Justification
+
+Evidence was extracted from three meta-analyses:
+Cuijpers et al., 2021 (331 RCTs) (137); Karyotaki et al.,
+2021 (39 RCTs) (138); and Karyotaki et al., 2022 (11
+RCTs) (139).
+
+A range of brief psychological treatments8 including guided/unguided internet-based CBT (iCBT) and task-shared psychological treatments were significantly better than treatment as usual (TAU) in reducing depressive symptoms.
+
+Life Review Therapy (LRT) and non-directive support counselling (SUP) were not included in the recommendation. For LRT, the certainty of evidence was low for reduction in depressive symptoms, treatment response and all-cause dropout, and very low for remission. SUP was less efficacious than all other therapies in one NMA.
+
+There were no significant differences between CBT,
+BAT, PST, 3WV, IPT, SUP, LRT and TAU in acceptability of treatment (all-cause dropout). DYN interventions had a significantly higher dropout rate than TAU.
+Remarks
+
+The term "depression" covers moderate to severe depressive episode or disorder.
+
+The brief structured psychological interventions included in the review delivered an average of 8–10 sessions (with a range of 1–20 sessions).
+
+Brief psychological interventions can be delivered effectively in different modalities (e.g. individual and group formats, internet-based) and through task sharing approaches. However, guided iCBT was more effective than unguided iCBT for people with moderate-to-severe depression.
+
+Promotion of the person's psychological skills (e.g.
+emotional, interpersonal, behavioural and cognitive skills) is a component of many brief psychological treatments for depressive episode/disorder. This has value beyond the reduction of depression.
+
+It is of value to include a range of brief psychological interventions in a non-specialized health-care package covering the treatment of depression to be able to respond to people's preferences.
+Research gaps
+
+None of the studies included measured improvement in "quality of life and functioning" or
+"relapse" as outcomes.
+
+Implementation considerations
+
+Psychological interventions can be delivered effectively in non-specialized health-care settings, as well as in other settings including specialized mental health care and social care.
+
+Face-to-face psychological interventions delivered by service providers is human resource-intensive as it requires substantial provider time, training and supervision.
+
+Regardless of severity, both guided and unguided interventions were more effective than TAU. However, the more severe symptoms the individual had, the better the effect of the guided psychological interventions (e.g. guided iCBT) compared with unguided. Unguided brief psychological interventions can be delivered without any therapist/service provider support, so they can be less resource intensive as well and may be an option for the treatment of depressive episode/disorder in non-specialized health-care settings if there are insufficient human resources for face-to-face/guided psychological treatment.
+
+Task sharing has been found to be an effective approach to delivering psychological interventions.
+
+Integrating the provision of psychological interventions into primary care provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+
+Country adaptation and translation of training materials and tools for the provision of psychological interventions is essential.
+
+Psychological interventions have shown to be effective for people of different ages and genders.
+DEP4. In adults with moderate-to-severe depressive disorder, what is the effectiveness and safety of antidepressant medicine compared with psychological treatment?
+Recommendation (update):
+In adults with moderate-to-severe depression, psychological interventions or combined treatment should be considered based on individual preferences and careful consideration of the balance of benefits and harms. Antidepressant medicine alone for adults with moderate-to-severe depression should only be considered when psychological interventions are not available. Providers should keep in mind the possible adverse effects associated with antidepressant medicines, and individual preferences.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from two meta-analyses:
+Cuijpers et al., 2020 (101 studies) (140); and
+Furukawa et al., 2021 (81 RCTs) (141).
+
+Antidepressant medicines are as effective as psychological interventions in the short term in the treatment of depression. However, psychological interventions showed higher sustained response than antidepressants over the long term and antidepressants have more adverse effects.
+
+In terms of treatment efficacy, combined psychological interventions and antidepressants showed the best results across most of the analyses.
+
+– Combined treatment was better than pharmacotherapy alone in the reduction of depressive symptoms (SMD = 0.33), treatment response (RR = 1.25) and remission (RR = 1.23).
+These effects were sustained at 6–12 months follow-up (RR = 0.72), favouring combined treatment.
+
+3. Recommendations
+
+– Combined treatment was better than psychotherapy alone in the reduction of depressive symptoms (SMD = 0.30), treatment response (RR = 1.27) and remission (RR =
+1.22). These effects were sustained at 6–12 months follow-up (RR = 0.84), favouring combined treatment.
+
+– No significant differences were found between pharmacotherapy alone and psychological interventions alone in the reduction of depressive symptoms, treatment response and remission.
+However, psychological interventions were more effective than pharmacotherapy at 6–12 months follow-up (sustained response RR = 0.85).
+
+In terms of treatment efficacy for individuals with moderate depression, combined treatment had a significantly better treatment response compared with pharmacotherapy alone (RR = 1.23) and psychological interventions alone (RR = 1.19). No differences were found between psychological interventions alone and pharmacotherapy alone.
+
+In terms of treatment efficacy for individuals with severe depression, combined treatment had a better treatment response compared with pharmacotherapy alone (RR = 1.09). There were no differences between psychotherapy alone and pharmacotherapy alone, and between combined therapy and psychological interventions alone.
+
+In terms of treatment acceptability, all-cause study dropout was significantly better for combined treatment compared with pharmacotherapy alone (RR = 1.23). Psychotherapy alone also had higher acceptability rates compared with pharmacotherapy alone (RR = 1.17). No significant differences were found between combined treatment and psychological interventions regarding treatment acceptability.
+Remarks
+
+The term "combined treatment" refers to psychological interventions provided together with antidepressant medicines.
+
+Psychological interventions include BAT, DYN,
+CBT, IPT, PST and 3WV. The review focused on psychological interventions delivered by mental health professionals.
+
+Antidepressants include SSRIs (e.g. citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine or sertraline) and TCAs (e.g. amitriptyline and clomipramine).
+Research gaps
+
+Most of the evidence (80%) is from HICs.
+Implementation considerations
+
+Face-to-face psychological interventions delivered by service providers are human resource-intensive as they require substantial provider time, training and supervision.
+
+Both generic TCAs and many generic SSRIs are associated with low acquisition costs.
+
+Discontinuities in drug availability (common in
+LMICs) may interfere with continuation of treatment.
+
+Service providers should help the person make decisions about available treatments, based on providing relevant information (e.g. possible side-effects, costs).
+
+A stepped care treatment approach may be considered offering psychological interventions first.
+If the person does not improve with psychological interventions, combined treatment can be considered based on individual preferences and careful consideration of the balance of benefits and harms.

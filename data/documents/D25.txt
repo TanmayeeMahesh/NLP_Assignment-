@@ -1,0 +1,450 @@
+3.7 Drug use disorders (DRU)
+DRU1. Are brief psychosocial interventions for people using cannabis or stimulants effective in reducing drug use, dependence and harm from drug use?
+Recommendation (update):
+1.1 Adults using cannabis should be offered screening and brief intervention.
+Brief intervention should comprise at least a single session, incorporating individualized feedback and advice on reducing or stopping cannabis consumption, and the offer of follow-up care.
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Very low
+1.2 Adults using psychostimulants should be offered screening and brief intervention. Brief intervention should comprise at least a single session, incorporating individualized feedback and advice on reducing or stopping psychostimulant consumption, and the offer of follow-up care.
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Very low
+1.3 For adults with hazardous cannabis or psychostimulant use, or with disorders due to use of these substances who do not respond to brief interventions, referral for specialist intervention should be considered.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Very low
+Justification
+
+Evidence was extracted from a systematic review by Arcadepani et al., 2023 (23 studies)9 that was conducted to update an earlier systematic review by
+Chou et al., 2020 (20 studies) (142).
+
+In adults with cannabis use, brief interventions, in comparison with minimal intervention (or waitlist), show effect for: increasing abstinence at 3- to
+4-month follow-up (RR = 2.08; 95% CI: 1.51 to 3.07;
+very low certainty); increasing abstinence at 6- to
+12-month follow-up (RR = 1.58; 95% CI: 1.17 to 3.06;
+very low certainty).
+9 Arcadepani FB, Fidalgo TM, Bisaga A. Are brief psychosocial interventions for people using cannabis and/or stimulants effective in reducing drug use, dependence and harm from drug use? 2023 (in preparation).
+In adults with psychostimulant use, brief interventions, in comparison with minimal intervention (or waitlist), show effect for: increasing abstinence at 6- to 12-months follow-up (RR = 1.25;
+95% CI: 1.11 to 1.52; very low certainty).
+
+A strong recommendation was suggested despite very low certainty of evidence due to potential public health benefits of increasing identification of people who might benefit from simple advice and referral to treatment.
+
+Suggestion to separate cannabis and psychostimulants into two separate
+
+3. Recommendations recommendations/statements was made during a technical expert group meeting due to substantial differences in pharmacological effects, clinical manifestations and treatment approaches.
+Remarks
+
+About 209 million people use cannabis (143) and there are about 24 million people with cannabis use disorders globally (144). While it is estimated that around 1 in 10 cannabis users (and half of daily cannabis users) develop cannabis dependence (145), cannabis use is associated with well documented health risks or harms even for those not meeting criteria for cannabis dependence, including increased risks of negative mental health outcomes (decline in cognitive function, social and educational outcomes, psychosis, mood disorders), physical health (respiratory, cardiovascular diseases, cancer), road traffic accidents and more (146).
+
+Considering high prevalence and well documented health risks associated with cannabis use, wider implementation and scale up of simple advice, brief interventions and, when appropriate, offer of referral to treatment can result in significant health gains at population level.
+
+Use of cannabis or psychostimulants in the recommendation refers to the use of substances without medical prescription. Psychostimulants considered in the recommendations include cocaine and amphetamine-type stimulants.
+
+In ICD-11, hazardous use refers to a pattern of substance use that appreciably increases the risk of harmful (physical or mental) health consequences to the user or to others to an extent that warrants attention and advice from health professionals.
+The increased risk may be from the frequency of substance use, from the amount used on a given occasion, from risky behaviours associated with substance use or the context of use, from a harmful route of administration, or from a combination of these. The risk may be related to short-term effects of the substance or to longer-term cumulative effects on physical or mental health or functioning.
+Hazardous drug use has not yet reached the level of having caused harm to physical or mental health of the user or others around the user.
+
+In ICD-11, harmful use refers a pattern of substance use that has caused damage to a person's physical or mental health or has resulted in behaviour leading to harm to the health of others. The pattern of drug use is evident over a period of at least 12 months if substance use is episodic or at least one month if use is continuous (i.e. daily or almost daily).
+Harm to the health of the individual occurs due to one or more of the following:
+(i) behaviour related to intoxication; (ii) direct or secondary toxic effects on body organs and systems;
+or (iii) a harmful route of administration. Harm to health of others includes any form of physical harm, including trauma or mental disorder that is directly attributable to behaviour related to substance intoxication on the part of the person to whom the diagnosis of harmful pattern of use applies.
+
+Screening refers to asking about drug use with an aim to detect health problems or risks at an early stage before they have caused serious disease or other problems. It includes screening by using standardized instruments but does not refer to testing of biological fluids for the presence of drugs.
+
+The term "brief interventions" refers to a structured, time-limited approach aiming to help individuals reduce or stop substance use. Its intensity and duration ranges from a single short conversation to a few sessions, not necessarily linked to the use of a specific screening instrument.
+
+Brief interventions are often designed to be delivered opportunistically in most settings, including primary care where people may be seeking help for problems unrelated to substance use and which can be delivered by professionals with limited training, thus facilitating access to interventions for a large number of individuals.
+
+Any treatment or support for people using drugs or with drug use disorders should ensure ethical standards – including respect for human rights and the individual's dignity, and never using humiliating or degrading interventions – in line with the WHO and United Nations Office on Drugs and Crime (UNODC) International standards for the treatment of drug use disorders (147), as shown in Box 3.1.
+
+BOX 3.1 Ethical standards for providing treatment of support to people using drugs or with drug use disorders
+
+The patients should grant informed consent before treatment begins and have a guaranteed option to withdraw from treatment at any time.
+
+Patient data should be strictly confidential. Circumventing the confidentiality of health records in order to register patients entering treatment should be prohibited.
+
+Legislative measures, supported by appropriate staff training and service rules and regulations, should ensure and protect the confidentiality of patient data.
+
+Staff of treatment services should receive proper training in the delivery of treatment in full compliance with ethical standards and human rights principles, and show respectful, non-stigmatizing and non-discriminatory attitudes towards service-users.
+
+Service procedures should require staff to adequately inform patients of treatment processes and procedures, including their right to withdraw from treatment at any time.
+Source: WHO and UNODC, 2020 (147).
+Research gaps
+
+Most of the studies were done in HICs. Further research is needed in LMICs.
+
+There were more studies on cannabis use: 12 specifically on cannabis use and 10 on both cannabis and psychostimulants, while only one study specifically focused on psychostimulant use.
+
+Only two studies were performed in the emergency department. Further research is needed on this setting.
+
+Evidence of effectiveness remains primarily extracted from trials conducted in treatment-seeking populations.
+
+There is not enough evidence to assess the balance of benefits and harms of screening for drug use in adolescents.
+Implementation considerations
+
+Brief intervention programmes are of low intensity with respect to human resources and training, making them suitable for low-resource settings.
+In addition, they can be conducted in a variety of settings, including non-medical settings, and can be given opportunistically to people who are not in formal drug treatment. Brief intervention programmes are suitable for LMICs.
+
+Screening and brief interventions should ideally be provided in settings where services for detailed assessment, diagnosis, treatment and appropriate care can be offered or in settings when referral to further services can be arranged. However, in some settings services for those with positive screening results might be limited or unaffordable. All efforts should be made to offer additional support to people with positive results of screening.
+
+Screening for drug use and drug use disorders might increase detection of substance use disorders but has a number of potential implications. In some countries, health practitioners can be pressured to forward this information to the police or other authorities. Clinicians should be aware and cautious of the potential implications for individuals screened positively in a given jurisdiction and offer interventions on the basis of informed consent and confidentiality.
+
+Integrating the provision of brief interventions into primary care provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+
+It is important to ensure availability, acceptability and country adaptation of training materials and tools for the provision of brief interventions.
+
+3. Recommendations
+DRU2. Are pharmacotherapies safe and effective for the treatment of cocaine or stimulant dependence?
+Recommendation (update):
+Dexamphetamine, methylphenidate and modafinil are not recommended for the treatment of cocaine or stimulant use disorders due to safety concerns.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+The systematic reviews that provided information were divided into two categories, according to drug of abuse:
+
+– cocaine: Tardelli et al., 2020 (148); Nourredine et al., 2021 (149); Chan et al., 2020 (150); Buchholz and Saxon, 2019 (151); Chan et al., 2019 (152);
+Fluyau et al., 2021 (153); and
+
+– methamphetamine: Tardelli et al., 2020 (148);
+Siefried et al., 2020 (154); Naji et al., 2022 (155);
+Nourredine et al., 2021 (149); Chan et al., 2020 (150); Fluyau et al., 2021 (153); Chan et al., 2019 (152); Lam et al., 2019 (156).
+
+– Note: The reviews by Tardelli et al. (148),
+Chan et al. (150), Nourredine et al. (149) and
+Fluyau et al. (153) included both cocaine and methamphetamine.
+
+In adults with cocaine dependence, compared with no treatment or treatment as usual (TAU), there is inconsistent or no evidence for effectiveness of:
+naltrexone (very low certainty), modafinil (low to very low certainty), methylphenidate (very low to moderate certainty) or mirtazapine (very low certainty) in terms of reducing drug use, promoting abstinence, reducing harm from drug use or improving retention to treatment.
+
+In adults with stimulant dependence, compared with no treatment or TAU, there is controversial or no evidence for effectiveness of use of topiramate (low to moderate certainty); naltrexone (low to very low certainty); modafinil (low certainty); prescription amphetamines/dexamphetamine (low to very low certainty); methylphenidate (very low to moderate certainty); mirtazapine (very low certainty) or bupropion (low certainty) in terms of reducing drug consumption, promoting abstinence, reducing harm from drug use or improving retention to treatment.
+
+In adults with cocaine dependence, compared with no treatment or TAU, there is some evidence for effectiveness of: topiramate for increasing abstinence in some studies (very low to moderate certainty); prescription amphetamines/ dexamphetamine for increasing abstinence (RR
+= 2.44; 95% CI: 1.66 to 3.58; moderate certainty);
+bupropion for increasing abstinence (RR = 1.63; 95%
+CI: 1.03 to 2.59; very low certainty).
+
+In adults with cocaine dependence, compared with no treatment or TAU, there is limited evidence that bupropion can potentially worsen treatment retention due to adverse effects (very low certainty).
+
+Despite presence of some evidence of effectiveness of topiramate, prescription amphetamines/ dexamphetamine and bupropion, it was decided not to recommend their use due to limited data on effectiveness, safety and absence of studies in non-specialized settings.
+
+Some medicines might have severe side effects and have potential for abuse (such as dexamphetamines, methylphenidate, modafinil) and require careful monitoring, which might be difficult to achieve in non-specialized settings; their use should therefore be discouraged.
+
+Remarks
+
+There is insufficient evidence to support use of naltrexone, dexamphetamine, methylphenidate, modafinil, topiramate, mirtazapine or bupropion for the treatment of stimulant use disorders in non-specialized settings.
+
+The term "cocaine or stimulant use disorders" refers to diagnosis according to the ICD-10, DSM-IV criteria or equivalent ICD-11 and DSM-5 diagnosis.
+
+Pharmacological treatment considered in the current review included: naltrexone, dexamphetamine, methylphenidate, modafinil, topiramate, mirtazapine and bupropion.
+
+Most of the trials using above medicines had elevated dropout rates which severely impacted their results.
+
+Mirtazapine is a promising alternative that was found to have a relevant impact on subgroups (cisgender men and transgender women who have sex with men).
+
+The combination of depot naltrexone and bupropion had a small but statistically significant impact on methamphetamine use in a recent trial.
+
+Any treatment or support for people using drugs or with drug use disorders should ensure ethical standards – including respect for human rights and the individual's dignity, and never using humiliating or degrading interventions – in line with the
+WHO and UNODC International standards for the treatment of drug use disorders (147) (see Box 3.1).
+Research gaps
+
+All studies were done in HICs. Further research is needed in LMICs.
+
+Most trials assessed adult populations, excluding individuals under 18 or above 70 years old. Further research is needed on adolescents and older adults.
+
+Evidence on prescription amphetamines/ dexamphetamine is very limited, as few studies assessed them for methamphetamine dependence, with heterogeneous outcomes. Evidence on prescription amphetamines for cocaine dependence is limited by earlier trials that used very small doses.
+Further research is needed.
+
+There are no studies in non-specialized settings.
+Further research in these settings would be beneficial in understanding feasibility, acceptability and effectiveness.
+
+Most of the evidence is of low or very low quality with high levels of uncertainty. This is very much attributable to the high dropout rates observed in most of the trials, and lack of data on techniques to reduce attrition.
+Implementation considerations
+
+Some medicines have potential for abuse and adverse effects (such as prescription amphetamines/ dexamphetamine and methylphenidate).
+
+Service providers should assess psychosocial stressors (e.g. domestic abuse, unemployment) associated with methamphetamine or cocaine use and dependence and include appropriate psychosocial interventions in their treatment plan.
+
+The costs of the medicines evaluated here can vary between countries. There is very little literature on cost-effectiveness and pharmacoeconomic aspects in general for medicines to treat methamphetamine dependence.
+
+If implemented, any psychopharmacological treatment of stimulant dependence should carefully consider the specific clinical characteristics of each person receiving the treatment (e.g. higher risk of psychotic episodes with prescription psychostimulants among individuals with previous history of psychosis). The medicine choice should consider, besides effectiveness, factors such as demographic characteristics (e.g. higher risks and side-effects that may be associated with pregnancy or older age), side-effects profiles (e.g. cardiovascular effects, psychosis/mania, weight gain) and availability (e.g. continuous availability, costs).
+
+Comorbidities and complications, namely cardiovascular events and psychosis, should be carefully monitored during the treatment of methamphetamine dependence.
+
+3. Recommendations
+DRU3. Which psychosocial interventions are effective in the treatment of stimulant dependence for adults?
+Recommendation (update):
+Psychosocial interventions – namely cognitive behavioural therapy (CBT) and contingency management – should be offered to adults with cocaine and stimulant dependence.
+Strength of recommendation:
+Strong
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from a new systematic review by Minozzi et al., 2023 (65 RCTs).10 This is an update to an earlier Cochrane Review by Minozzi et al., 2016 (157).
+
+In adults with stimulant dependence, any psychosocial interventions:
+
+– compared with no treatment, show effect for:
+decreasing dropouts from study and frequency of drug intake, increasing longest period of abstinence (moderate certainty), and increasing continuous abstinence at the end of treatment (low certainty);
+
+– compared with no treatment, show little to no difference for: point abstinence at the end of treatment (high certainty), and point abstinence and continuous abstinence at longest follow-up (low certainty);
+
+– compared with TAU, show effect for: decreasing dropouts from treatment (moderate certainty), and increasing point abstinence at the end of treatment and at longest follow-up (very low certainty);
+
+– compared with TAU, show little to no difference for: continuous abstinence at end of treatment (low certainty), increasing continuous abstinence at longest follow-up, and longest period of abstinence (very low certainty).
+
+In adults with stimulant dependence, CBT:
+
+– compared with no treatment, shows effect for:
+increasing continuous abstinence at the end of treatment, and increasing longest period of abstinence (moderate certainty);
+10 Minozzi, S. Which psychosocial interventions are effective in the treatment of stimulant dependence for adults? 2023 (in preparation).
+
+– compared with no treatment, shows little to no difference for: dropout from study and point abstinence at the end of treatment (moderate certainty), point (high certainty) and continuous abstinence at longest follow-up (very low certainty), and frequency of drug intake at longest follow-up (low certainty);
+
+– compared with TAU, shows effect for: decreasing dropouts, increasing point abstinence at longest follow-up (low certainty), probably increasing point abstinence at the end of treatment (RR
+= 1.73; 95% CI: 0.99 to 3.02), and decreasing frequency of drug intake (very low certainty);
+
+– compared with TAU, shows little to no effect for:
+continuous abstinence at the end of treatment and on longest period of abstinence (very low certainty).
+
+In adults with stimulant dependence, contingency management:
+
+– compared with no treatment, shows effect for:
+reducing dropouts (low certainty), increasing continuous abstinence at the end of treatment and point abstinence at longest follow-up, increasing longest period of abstinence, and decreasing frequency of drug intake (moderate certainty);
+
+– compared with no treatment, shows little to no difference for: point abstinence at the end of treatment (low certainty), and point and continuous abstinence at longest follow-up (very low certainty);
+
+– compared with TAU, shows effect for: probably reducing dropouts and increasing point
+
+abstinence at the end of treatment and longest follow-up (low to very low certainty).
+
+In adults with stimulant dependence, motivational interviewing:
+
+– compared with no treatment, shows effect for:
+probably reducing frequency of drug intake (SMD = 0.18 lower; 0.38 lower to 0.03 higher;
+moderate certainty);
+
+– compared with no treatment, shows little to no difference for: dropouts; point abstinence at longest follow-up (low certainty), and continuous abstinence at longest follow-up (very low certainty);
+
+– compared with TAU, shows little to no difference for: frequency of drug intake at the end of treatment (low certainty) and dropouts (very low certainty).
+
+In adults with stimulant dependence, psychodynamic therapy:
+
+– compared with no treatment, shows effect for:
+probably reducing dropouts (RR = 0.87; 95% CI:
+0.74 to 1.01; moderate certainty);
+
+– compared with no treatment, shows little to no difference for: point abstinence at the end of treatment and at longest follow-up (moderate certainty).
+
+In adults with stimulant dependence, individual counselling:
+
+– compared with no treatment, shows effect for:
+probably increasing point abstinence at the end of treatment (RR = 1.26; 95% CI: 1.00 to 1.59;
+moderate certainty);
+
+– compared with no treatment, shows little to no difference for: point abstinence at longest follow-up (moderate certainty).
+
+In adults with stimulant dependence, positive affect therapy:
+
+– compared with no treatment, shows effect for:
+probably reducing frequency of drug intake at longest follow-up (SMD = 0.29 lower; 0.56 lower to
+0.02 lower; moderate certainty).
+
+It is unclear whether 12-step approach has effect on adults with stimulant dependence, compared with no treatment or TAU.
+
+In adults with stimulant dependence, it is uncertain if any psychosocial interventions, compared with no treatment or TAU, have any effect on frequency of adverse events and depression.
+
+In adults with stimulant dependence, head-tohead comparison of different interventions (from
+15 studies) shows no difference, except for CBT, compared with individual counselling, showing effect for: probably decreasing dropouts (RR = 0.86;
+95% CI: 0.74 to 1.01) and point abstinence at the end of treatment (moderate certainty).
+Remarks
+
+The term "cocaine and stimulants dependence" refers to diagnosis according to the ICD-10 or DSM-IV criteria or equivalent ICD-11 and DSM-5 diagnosis.
+
+Psychosocial interventions considered in the current review included: cognitive behavioural approach (including: cognitive therapy, community reinforcement approach, coping skills training [CST], relapse prevention), contingency management approach, motivational interviewing approach (motivational interviewing, motivational enhancement), IPT approach, psychodynamic therapy and supportive expressive therapy and the 12-step approach. It included studies if they considered the above treatments alone or in combination with other types of treatment. Focus was on included structured and standardized interventions targeting individual, case management and counselling that are usually provided in standard care (TAU), so the review did not consider them among the experimental interventions. Similarly, family or couples-therapy was not included in the review, as they do not target only individuals but involve people in their close environment. The review excluded studies that compared the same type of intervention as a different modality or at a different intensity (e.g.
+intensive versus standard, group versus individual, long versus short).
+
+Any treatment or support for people using drugs or with drug use disorders should ensure ethical standards – including respect for human rights and the individual's dignity, and never using humiliating or degrading interventions – in line with the
+WHO and UNODC International standards for the treatment of drug use disorders (147) (see Box 3.1).
+Research gaps
+
+Most of the studies were done in HICs. Further research is needed in LMICs.
+
+There was a relatively low number of studies on some interventions: 12-step approach (4 studies);
+
+3. Recommendations
+IPT (3 studies); positive affect intervention (1 study);
+psychodynamic therapy (1 study). Further research is needed to understand the balance of risks and benefits for these interventions.
+Implementation considerations
+
+Face-to-face psychosocial interventions delivered by service providers are human resource-intensive as they require substantial provider time, training and supervision.
+
+Psychosocial interventions can be delivered effectively in non-specialized health-care settings if proper training to health professionals is provided, as well as in other settings, including specialized services for mental and substance use disorders.
+
+Integrating the provision of psychosocial interventions into primary care provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+
+Country adaptation and translation of training materials and tools for the provision of psychosocial interventions is essential.
+DRU4. In adults with drug use disorders or using drugs, are digital or telemedicine interventions effective?
+Recommendation (new):
+Digital interventions should be considered for adults using drugs or with drug use disorders. They should not replace provision of other forms of interventions and should ensure informed consent, safety, confidentiality, privacy and security.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Very low
+Justification
+
+Evidence was extracted from a systematic review:
+Boumparis et al., 2023 (49 RCTs).11
+
+In adults with cannabis use disorders or those using cannabis, digital interventions, when compared with non-active (waitlist, assessment-only) and active (TAU, brief interventions) comparators, show effect for reducing cannabis use (very low certainty).
+
+In adults with any drug use disorders or those using drugs, it is uncertain if digital interventions, when compared with non-active (waitlist, assessment-only
+) comparators, have effect for reducing drug use (very low certainty).
+
+In adults with stimulant use disorders or those using psychostimulants, it is uncertain if digital interventions, when compared with non-active (waitlist, assessment-only) comparators, have
+11 Boumparis N, Khazaal Y, Krupchanka D, Schaub MP. Digital interventions for adult drug users: a systematic review and meta-analysis. 2023 (in preparation).
+effect for reducing psychostimulant use (very low certainty).
+
+There were no studies examining the effect of digital interventions among people with opioid use disorders or using opioids compared with non-active comparators.
+
+In adults with any drug use disorder or those using drugs, digital interventions, when compared with active (TAU, brief interventions) comparators, show effect for reducing any drug use (very low certainty).
+
+In adults with any stimulant use disorders or those using psychostimulants, digital interventions, when compared with active (TAU, brief interventions) comparators, show effect for reducing psychostimulant use (very low certainty).
+
+In adults with opioid use disorders or those using opioids, digital interventions, when compared
+
+with active (TAU, brief interventions) comparators, show effect for reducing opioid use (very low certainty).
+Remarks
+
+The term "drug use disorders", "cannabis use disorders", "stimulant use disorders", "opioid use disorders" refers to diagnosis according to the
+ICD-10 or DSM-IV criteria or equivalent ICD-11 and
+DSM-5 diagnosis.
+
+By the term "any drug use", we refer to studies recruiting participants who use at least one psychoactive drug and are included in interventions targeting substance use reduction regardless of the primary drug.
+
+The included digital interventions encompass unguided digital interventions, in which psychoeducation and psychotherapeutic techniques are provided for the individual to self-manage their symptoms without the help of a health worker. In guided digital interventions, additional guidance is provided to assist participants with technical or health-related questions via chat, email or telephone.
+
+Studies that assess the reduction of any drug use via digital interventions compared with non-active comparators are usually recruiting individuals from settings in which brief interventions are conducted.
+These settings commonly include hospitals, primary care clinics and community health centres. The majority of those interventions consist of very brief screenings and brief interventions lasting up to
+30 minutes.
+
+The studies assessing the reduction of drug use via digital interventions compared with active comparators are usually recruiting individuals from specialized treatment facilities. The majority of those interventions combine the digital component with face-to-face treatments, such as TAU or CBT, and last 8–12 weeks.
+
+Differences in findings between active/non-active comparators should be interpreted with caution. For the comparisons involving non-active comparators, the majority of individuals were recruited based on self-reported use patterns and not assessed for a substance use disorder. This is contrary to the studies involving active comparators that recruited participants after the diagnosis of a substance use disorder. For this reason, it is important to stress that different findings for active/non-active comparators are likely due to the different characteristics (such as severity) of the target group and intensity of the provided treatment.
+
+While the evidence is limited, it is possible that individuals with a substance use disorder who receive TAU in addition to a digital intervention benefit more from the digital component. This is particularly relevant for individuals with drug use disorders.
+
+While digital health interventions show effectiveness and can enhance access to health services, they should not be used to replace or detract from provision of other forms of interventions and should ensure patients' free and informed consent, safety, confidentiality, privacy and security.
+
+Any treatment or support for people using drugs or with drug use disorders should ensure ethical standards – including respect for human rights and the individual's dignity, and never using humiliating or degrading interventions – in line with the
+WHO and UNODC International standards for the treatment of drug use disorders (147) (see Box 3.1).
+Research gaps
+
+The certainty of evidence for reduction in drug use (compared with non-active and active comparators) was very low, mainly due to the limited number of available studies and their high risk of bias. Further research is needed to understand the outcome of reduction in drug use.
+
+Subgroup analyses did not show significant differences between groups (guided vs unguided interventions, drug use disorders vs no drug use disorders). However, the ability to perform subgroup analyses was limited due to the small number of studies in the different conditions and types of interventions.
+
+Most studies are from HICs. Further research is needed on LMICs.
+
+There is a lack of an established gold standard for reporting drug use outcomes. Further development of this would aid consistency of reporting in the field.
+
+There are not enough data to understand the role of digital interventions for equity, equality and non-discrimination of people using substances: while there is a potential of increasing access to care, it is also possible that not all people can benefit
+
+3. Recommendations from it due to the "digital divide", which requires further research.
+Implementation considerations
+
+Digital interventions can provide benefits to people using drugs and with drug use disorders, especially when provided in addition to TAU. They should not substitute provision of other types of conventional treatment (psychosocial or pharmacological) to people with drug use disorders. When face-to-face treatment is not available or acceptable, self-help digital interventions can be a feasible option to provide support.
+
+There are concerns regarding potentially sensitive content and data privacy while using digital health interventions. Measures should be taken ensuring that digital interventions are provided under conditions of safety/security, confidentiality, informed consent and privacy of data. This can include the establishment of standard operating procedures that describe protocols for ensuring patient consent, data protection and storage, and verifying provider licensing and credentials. Further guidance can be found in the 2019 WHO guideline:
+recommendations on digital interventions for health system strengthening (31).
+
+There might be an issue with potential digital divide across population groups having unequal access to and skills to use digital technologies. Access might be particularly difficult for certain population groups with poor access to network services, mobile devices or electricity, and/or with low literacy and digital literacy skills. Measures should be taken to address inequities in access to mobile devices so that further inequity is not perpetuated in accessing health information and services, including mechanisms to ensure individuals who do not have access to mobile devices can still receive appropriate services.
+
+Country adaptation and translation of digital interventions tools is essential.
+DRU5. In adults with drug dependence, are recovery-oriented services effective?
+Recommendation (new):
+Recovery-oriented services on a voluntary basis should be considered for adults with drug-dependence. Namely, case management, long-term residential and continuing community care approaches, occupation-based therapies and peer support groups should be considered for recovery management of people with drug dependence.
+Strength of recommendation:
+Conditional
+Certainty of evidence:
+Low
+Justification
+
+Evidence was extracted from 25 systematic reviews that included different recovery-oriented interventions: Ashford et al., 2019 (158); Nesvag and McKay, 2018 (159); Wasmuth et al., 2016 (160);
+Giménez-Meseguer et al., 2020 (161); Sancho et al.,
+2018 (162); Beraldo et al., 2019 (163); Walton-Moss et al., 2013 (164); Vest et al., 2021 (165); Magura and
+Marshall, 2020 (166); Harrison et al., 2020 (167);
+Akanbi et al., 2020 (168); Vanderplasschen et al.,
+2019 (169); Eddie et al., 2019 (170); Reif et al., 2014 (171); Tracy and Wallace, 2016 (172); Gormley et al.,
+2021 (173); Orock and Nicette, 2022 (174); Bassuk et al., 2016 (175); Beck et al., 2017 (176); de Andrade et al., 2019 (177); Penzenstadler et al., 2019 (178);
+Beaulieu et al., 2021 (179); Austin et al., 2021 (180);
+Reif et al., 2014 (181); du Plessis et al., 2020 (182).
+
+In adults with drug dependence, compared with no treatment or TAU, there is controversial or limited evidence for effectiveness of the following recovery-oriented services: (i) digital recovery support (very low certainty); (ii) physical exercise (effect on general health (moderate certainty), no direct evidence on critical outcomes); (iii) mindfulness based (no
+
+evaluation of critical outcomes); (iv) spirituality/ religiosity (no evaluation of critical outcomes or lack of good studies); (v) college recovery programmes (lack of methodological quality, heterogeneity);
+(vi) employment support (no measures of critical outcomes, no employment-related outcomes, no rigorous evaluation of substance use outcomes);
+(vii) SMART (Self-Management and Recovery
+Training) recovery (very low certainty); (viii) peer support workers (no critical outcomes evaluated);
+(ix) residential treatment services (methodological flaws); (x) assertive community treatment (high heterogeneity); (xi) housing (no critical outcomes evaluated and low certainty).
+
+In adults with drug dependence, compared with no treatment or TAU, there is some evidence for effectiveness of the following recovery-oriented services: (i) case management for substance use disorders (moderate for substance-userelated outcomes); (ii) peer support groups (abstinence [moderate certainty] but not for all substances [opioids questioned in some]);
+(iii) long-term treatment and support for abstinence (high certainty).
+Remarks
+
+The term "drug dependence" refers to diagnosis according to the ICD-10 or DSM-IV criteria or equivalent ICD-11 and DSM-5 diagnosis.
+
+Recovery is "a continuum process and experience through which individuals, families, and communities utilize internal and external resources to address substance use disorders, actively manage their continued vulnerability to such disorders, and develop a healthy, productive and meaningful life", according to the WHO and UNODC
+International standards for the treatment of drug use disorders (147).
+
+Recovery-oriented interventions considered in current review included: digital recovery support, user-involvement/oriented care models (spiritual/religious interventions, role of self-care, mindfulness-based therapies, physical exercise, occupational therapy), employment (individual placement and support [IPS]), recovery-oriented systems of care (peer recovery support services
+[PRSS], case management, assertive community treatment [ACT]), long-term approaches, housing and family support.
+
+Case management refers to a client-centred approach to improve the coordination and continuity of service delivery for people with substance use disorders. This approach supports individuals by helping them identify needed services, facilitate linkage with services and promote participation and retention in services. Long-term continuing community care approaches (also called "aftercare", "recovery management") refer to services supporting people with drug use disorders in the process of gradually increasing health and wellness, as well as assisting them in recovery, reducing the risk of relapse to substance use by comprehensively supporting social functioning and well-being, as well as social reintegration into the community and society. This might include, but is not limited to, recovery management checkups
+, help with management of stressful situations and engagement in the community, peer recovery support and other interventions that gradually increase social reintegration and improve chances of stable remission and recovery, according to the
+WHO and UNODC International standards for the treatment of drug use disorders (147).
+
+Long-term residential approaches refer to services for individuals with drug use disorders living in a communal environment with others and participating in an intensive daily programme.
+The programmes provide a diverse range of interventions such as: community meetings and group work; individual psychosocial interventions;
+family psychosocial interventions; mutual aid and self-help; active participation in community life; and gaining life skills and vocational training. Long-term residential programmes, especially therapeutic communities, use the programme's entire community, including other residents and staff, as active components of treatment and recovery management, according to the WHO and UNODC
+International standards for the treatment of drug use disorders (147).
+
+Occupation-based therapies refer to those interventions in which an occupation or activity is performed with the aim of structuring time and creating meaning in one's life, for example in areas of education, work, leisure and social participation.
+Occupational therapies help to develop skills necessary to address deficits in occupational performance, promote development of healthy
+
+3. Recommendations performance patterns and environmental contexts that support abstinence or the reduction of alcohol and drug use.
+
+Any treatment or support for people using drugs or with drug use disorders should ensure ethical standards – including respect for human rights and the individual's dignity, and never using humiliating or degrading interventions – in line with the
+WHO and UNODC International standards for the treatment of drug use disorders (147) (see Box 3.1).
+Research gaps
+
+The majority of studies were conducted in HICs.
+Further research is needed in LMICs.
+
+Overall, there is a lack of standard definitions for interventions used in recovery-oriented services, high heterogeneity of outcome measures and diversity of study methods that substantially hamper rigorous evaluation of effectiveness of treatment approaches.
+
+The primary outcome for long-term (18 months or more) treatment was abstinence; improvement was in favour of the long-term treatment group.
+Abstinence is a dichotomous outcome and a very high threshold to achieve for people with high severity of substance use disorder. Therefore, it is possible that if other recovery outcomes were assessed, additional positive impact could be found, highlighting the need for more research on this topic.
+Implementation considerations
+
+Although identifying evidence on the costs of implementation was beyond the scope of the systematic reviews conducted for this update, face-to-face psychosocial interventions delivered by service providers are human resource-intensive as these require substantial provider time, training and supervision.
+
+The costs of long-term treatment are likely greater than for short-term approaches, but no data on this topic were available in the reviews.
+
+Though there are not enough studies in primary care, many interventions can be delivered effectively in non-specialized health-care settings but also in other settings including specialized mental health care and social care with a role of trained peers.
+Integrating the provision of interventions into primary care provides many advantages, including more holistic health care, increased accessibility of mental health services for people in need of care, opportunities for reducing the stigma of mental health problems and reduced costs.
+
+Decision on the choice and implementation of recovery-oriented services should be based on individual characteristics of a person and be adjusted to the complexity of each person's needs.
+Service providers should help the person navigate through the system and make informed decisions about engagement into various activities on a caseby
+-case basis. Country adaptation and translation of training materials and tools for the provision of psychosocial interventions is essential.
+
+There is no identifiable conflict regarding sociocultural differences in most interventions, however, some spiritually oriented interventions can be culture-sensitive.
+
+Peer support integrates treatment approaches with the cultural context of each population, integrating the community and reducing the gap between people affected by the condition and those who have already managed to overcome it, thus reducing the stigma. The fact that people from the community are involved in peer support leads to a more culturally appropriate approach.
